@@ -1,0 +1,2077 @@
+2026-05-12 08:46:27 [INFO] started at 2026-05-12T08:46:27+08:00
+2026-05-12 08:46:27 [INFO] robots.txt check: status=200 content_type=text/html bytes=2274
+2026-05-12 08:46:27 [INFO] robots.txt did not return standard robots rules; no explicit disallow found
+2026-05-12 08:46:27 [INFO] fresh run requested; moved existing checkpoint to landchg_checkpoint_backup_20260512_084627.json
+2026-05-12 08:46:27 [INFO] no explicit terms/privacy/copyright links found on target page
+2026-05-12 08:46:27 [INFO] initial page loaded: years=23 cities=22
+2026-05-12 08:46:27 [INFO] query combinations to consider: 506
+2026-05-12 08:46:27 [INFO] [1/506] querying year=115 city=基隆市
+2026-05-12 08:46:27 [INFO] sleep 4.24s (before query 115 基隆市)
+2026-05-12 08:46:32 [INFO] [1/506] success year=115 city=基隆市 rows=35
+2026-05-12 08:46:32 [INFO] sleep 8.12s (after query combination 115 基隆市)
+2026-05-12 08:46:40 [INFO] [2/506] querying year=115 city=臺北市
+2026-05-12 08:46:40 [INFO] sleep 2.90s (before query 115 臺北市)
+2026-05-12 08:46:44 [INFO] [2/506] success year=115 city=臺北市 rows=78
+2026-05-12 08:46:44 [INFO] sleep 6.07s (after query combination 115 臺北市)
+2026-05-12 08:46:50 [INFO] [3/506] querying year=115 city=新北市
+2026-05-12 08:46:50 [INFO] sleep 3.11s (before query 115 新北市)
+2026-05-12 08:46:53 [INFO] [3/506] success year=115 city=新北市 rows=463
+2026-05-12 08:46:53 [INFO] sleep 11.29s (after query combination 115 新北市)
+2026-05-12 08:47:05 [INFO] [4/506] querying year=115 city=桃園市
+2026-05-12 08:47:05 [INFO] sleep 2.22s (before query 115 桃園市)
+2026-05-12 08:47:08 [INFO] [4/506] success year=115 city=桃園市 rows=659
+2026-05-12 08:47:08 [INFO] sleep 7.47s (after query combination 115 桃園市)
+2026-05-12 08:47:15 [INFO] [5/506] querying year=115 city=新竹縣
+2026-05-12 08:47:15 [INFO] sleep 4.25s (before query 115 新竹縣)
+2026-05-12 08:47:20 [INFO] [5/506] success year=115 city=新竹縣 rows=466
+2026-05-12 08:47:20 [INFO] sleep 7.81s (after query combination 115 新竹縣)
+2026-05-12 08:47:28 [INFO] [6/506] querying year=115 city=新竹市
+2026-05-12 08:47:28 [INFO] sleep 4.91s (before query 115 新竹市)
+2026-05-12 08:47:33 [INFO] [6/506] success year=115 city=新竹市 rows=57
+2026-05-12 08:47:33 [INFO] sleep 5.80s (after query combination 115 新竹市)
+2026-05-12 08:47:39 [INFO] [7/506] querying year=115 city=苗栗縣
+2026-05-12 08:47:39 [INFO] sleep 3.89s (before query 115 苗栗縣)
+2026-05-12 08:47:44 [INFO] [7/506] success year=115 city=苗栗縣 rows=632
+2026-05-12 08:47:44 [INFO] sleep 11.47s (after query combination 115 苗栗縣)
+2026-05-12 08:47:55 [INFO] [8/506] querying year=115 city=臺中市
+2026-05-12 08:47:55 [INFO] sleep 4.04s (before query 115 臺中市)
+2026-05-12 08:48:00 [INFO] [8/506] success year=115 city=臺中市 rows=715
+2026-05-12 08:48:00 [INFO] sleep 10.10s (after query combination 115 臺中市)
+2026-05-12 08:48:10 [INFO] [9/506] querying year=115 city=南投縣
+2026-05-12 08:48:10 [INFO] sleep 3.24s (before query 115 南投縣)
+2026-05-12 08:48:14 [INFO] [9/506] success year=115 city=南投縣 rows=785
+2026-05-12 08:48:14 [INFO] sleep 8.94s (after query combination 115 南投縣)
+2026-05-12 08:48:23 [INFO] [10/506] querying year=115 city=彰化縣
+2026-05-12 08:48:23 [INFO] sleep 4.63s (before query 115 彰化縣)
+2026-05-12 08:48:28 [INFO] [10/506] success year=115 city=彰化縣 rows=663
+2026-05-12 08:48:28 [INFO] sleep 6.67s (after query combination 115 彰化縣)
+2026-05-12 08:48:35 [INFO] [11/506] querying year=115 city=雲林縣
+2026-05-12 08:48:35 [INFO] sleep 1.74s (before query 115 雲林縣)
+2026-05-12 08:48:38 [INFO] [11/506] success year=115 city=雲林縣 rows=700
+2026-05-12 08:48:38 [INFO] sleep 14.16s (after query combination 115 雲林縣)
+2026-05-12 08:48:52 [INFO] [12/506] querying year=115 city=嘉義縣
+2026-05-12 08:48:52 [INFO] sleep 3.33s (before query 115 嘉義縣)
+2026-05-12 08:48:56 [INFO] [12/506] success year=115 city=嘉義縣 rows=690
+2026-05-12 08:48:56 [INFO] sleep 10.85s (after query combination 115 嘉義縣)
+2026-05-12 08:49:07 [INFO] [13/506] querying year=115 city=嘉義市
+2026-05-12 08:49:07 [INFO] sleep 4.60s (before query 115 嘉義市)
+2026-05-12 08:49:12 [INFO] [13/506] success year=115 city=嘉義市 rows=38
+2026-05-12 08:49:12 [INFO] sleep 8.94s (after query combination 115 嘉義市)
+2026-05-12 08:49:21 [INFO] [14/506] querying year=115 city=臺南市
+2026-05-12 08:49:21 [INFO] sleep 4.28s (before query 115 臺南市)
+2026-05-12 08:49:26 [INFO] [14/506] success year=115 city=臺南市 rows=1496
+2026-05-12 08:49:26 [INFO] sleep 5.17s (after query combination 115 臺南市)
+2026-05-12 08:49:31 [INFO] [15/506] querying year=115 city=高雄市
+2026-05-12 08:49:31 [INFO] sleep 2.83s (before query 115 高雄市)
+2026-05-12 08:49:35 [INFO] [15/506] success year=115 city=高雄市 rows=1209
+2026-05-12 08:49:35 [INFO] sleep 14.91s (after query combination 115 高雄市)
+2026-05-12 08:49:50 [INFO] [16/506] querying year=115 city=屏東縣
+2026-05-12 08:49:50 [INFO] sleep 1.97s (before query 115 屏東縣)
+2026-05-12 08:49:54 [INFO] [16/506] success year=115 city=屏東縣 rows=1715
+2026-05-12 08:49:54 [INFO] sleep 7.03s (after query combination 115 屏東縣)
+2026-05-12 08:50:01 [INFO] [17/506] querying year=115 city=宜蘭縣
+2026-05-12 08:50:01 [INFO] sleep 4.65s (before query 115 宜蘭縣)
+2026-05-12 08:50:06 [INFO] [17/506] success year=115 city=宜蘭縣 rows=682
+2026-05-12 08:50:06 [INFO] sleep 10.25s (after query combination 115 宜蘭縣)
+2026-05-12 08:50:17 [INFO] [18/506] querying year=115 city=花蓮縣
+2026-05-12 08:50:17 [INFO] sleep 2.75s (before query 115 花蓮縣)
+2026-05-12 08:50:20 [INFO] [18/506] success year=115 city=花蓮縣 rows=374
+2026-05-12 08:50:20 [INFO] sleep 7.47s (after query combination 115 花蓮縣)
+2026-05-12 08:50:27 [INFO] [19/506] querying year=115 city=臺東縣
+2026-05-12 08:50:27 [INFO] sleep 1.70s (before query 115 臺東縣)
+2026-05-12 08:50:30 [INFO] [19/506] success year=115 city=臺東縣 rows=642
+2026-05-12 08:50:30 [INFO] sleep 14.25s (after query combination 115 臺東縣)
+2026-05-12 08:50:44 [INFO] [20/506] querying year=115 city=金門縣
+2026-05-12 08:50:44 [INFO] sleep 2.34s (before query 115 金門縣)
+2026-05-12 08:50:47 [INFO] [20/506] success year=115 city=金門縣 rows=93
+2026-05-12 08:50:47 [INFO] sleep 13.22s (after query combination 115 金門縣)
+2026-05-12 08:51:00 [INFO] [21/506] querying year=115 city=澎湖縣
+2026-05-12 08:51:00 [INFO] sleep 4.52s (before query 115 澎湖縣)
+2026-05-12 08:51:05 [INFO] [21/506] success year=115 city=澎湖縣 rows=59
+2026-05-12 08:51:05 [INFO] sleep 8.97s (after query combination 115 澎湖縣)
+2026-05-12 08:51:14 [INFO] [22/506] querying year=115 city=連江縣
+2026-05-12 08:51:14 [INFO] sleep 4.91s (before query 115 連江縣)
+2026-05-12 08:51:19 [INFO] [22/506] success year=115 city=連江縣 rows=12
+2026-05-12 08:51:19 [INFO] sleep 8.39s (after query combination 115 連江縣)
+2026-05-12 08:51:28 [INFO] [23/506] querying year=114 city=基隆市
+2026-05-12 08:51:28 [INFO] sleep 2.63s (before query 114 基隆市)
+2026-05-12 08:51:31 [INFO] [23/506] success year=114 city=基隆市 rows=71
+2026-05-12 08:51:31 [INFO] sleep 14.74s (after query combination 114 基隆市)
+2026-05-12 08:51:46 [INFO] [24/506] querying year=114 city=臺北市
+2026-05-12 08:51:46 [INFO] sleep 3.89s (before query 114 臺北市)
+2026-05-12 08:51:50 [INFO] [24/506] success year=114 city=臺北市 rows=235
+2026-05-12 08:51:50 [INFO] sleep 12.11s (after query combination 114 臺北市)
+2026-05-12 08:52:02 [INFO] [25/506] querying year=114 city=新北市
+2026-05-12 08:52:02 [INFO] sleep 1.89s (before query 114 新北市)
+2026-05-12 08:52:05 [INFO] [25/506] success year=114 city=新北市 rows=1196
+2026-05-12 08:52:05 [INFO] sleep 13.93s (after query combination 114 新北市)
+2026-05-12 08:52:19 [INFO] [26/506] querying year=114 city=桃園市
+2026-05-12 08:52:19 [INFO] sleep 2.49s (before query 114 桃園市)
+2026-05-12 08:52:24 [INFO] [26/506] success year=114 city=桃園市 rows=2670
+2026-05-12 08:52:24 [INFO] sleep 7.56s (after query combination 114 桃園市)
+2026-05-12 08:52:32 [INFO] [27/506] querying year=114 city=新竹縣
+2026-05-12 08:52:32 [INFO] sleep 3.58s (before query 114 新竹縣)
+2026-05-12 08:52:37 [INFO] [27/506] success year=114 city=新竹縣 rows=1274
+2026-05-12 08:52:37 [INFO] sleep 10.99s (after query combination 114 新竹縣)
+2026-05-12 08:52:48 [INFO] [28/506] querying year=114 city=新竹市
+2026-05-12 08:52:48 [INFO] sleep 4.05s (before query 114 新竹市)
+2026-05-12 08:52:52 [INFO] [28/506] success year=114 city=新竹市 rows=192
+2026-05-12 08:52:52 [INFO] sleep 5.94s (after query combination 114 新竹市)
+2026-05-12 08:52:58 [INFO] [29/506] querying year=114 city=苗栗縣
+2026-05-12 08:52:58 [INFO] sleep 3.05s (before query 114 苗栗縣)
+2026-05-12 08:53:03 [INFO] [29/506] success year=114 city=苗栗縣 rows=1899
+2026-05-12 08:53:03 [INFO] sleep 12.23s (after query combination 114 苗栗縣)
+2026-05-12 08:53:15 [INFO] [30/506] querying year=114 city=臺中市
+2026-05-12 08:53:15 [INFO] sleep 4.47s (before query 114 臺中市)
+2026-05-12 08:53:21 [INFO] [30/506] success year=114 city=臺中市 rows=1767
+2026-05-12 08:53:21 [INFO] sleep 8.83s (after query combination 114 臺中市)
+2026-05-12 08:53:30 [INFO] [31/506] querying year=114 city=南投縣
+2026-05-12 08:53:30 [INFO] sleep 3.58s (before query 114 南投縣)
+2026-05-12 08:53:35 [INFO] [31/506] success year=114 city=南投縣 rows=1346
+2026-05-12 08:53:36 [INFO] sleep 8.02s (after query combination 114 南投縣)
+2026-05-12 08:53:44 [INFO] [32/506] querying year=114 city=彰化縣
+2026-05-12 08:53:44 [INFO] sleep 2.06s (before query 114 彰化縣)
+2026-05-12 08:53:47 [INFO] [32/506] success year=114 city=彰化縣 rows=1458
+2026-05-12 08:53:47 [INFO] sleep 11.56s (after query combination 114 彰化縣)
+2026-05-12 08:53:58 [INFO] [33/506] querying year=114 city=雲林縣
+2026-05-12 08:53:58 [INFO] sleep 1.94s (before query 114 雲林縣)
+2026-05-12 08:54:01 [INFO] [33/506] success year=114 city=雲林縣 rows=1014
+2026-05-12 08:54:01 [INFO] sleep 11.42s (after query combination 114 雲林縣)
+2026-05-12 08:54:13 [INFO] [34/506] querying year=114 city=嘉義縣
+2026-05-12 08:54:13 [INFO] sleep 3.01s (before query 114 嘉義縣)
+2026-05-12 08:54:17 [INFO] [34/506] success year=114 city=嘉義縣 rows=1239
+2026-05-12 08:54:17 [INFO] sleep 7.29s (after query combination 114 嘉義縣)
+2026-05-12 08:54:24 [INFO] [35/506] querying year=114 city=嘉義市
+2026-05-12 08:54:24 [INFO] sleep 4.79s (before query 114 嘉義市)
+2026-05-12 08:54:30 [INFO] [35/506] success year=114 city=嘉義市 rows=65
+2026-05-12 08:54:30 [INFO] sleep 8.34s (after query combination 114 嘉義市)
+2026-05-12 08:54:38 [INFO] [36/506] querying year=114 city=臺南市
+2026-05-12 08:54:38 [INFO] sleep 3.40s (before query 114 臺南市)
+2026-05-12 08:54:44 [INFO] [36/506] success year=114 city=臺南市 rows=2949
+2026-05-12 08:54:44 [INFO] sleep 5.81s (after query combination 114 臺南市)
+2026-05-12 08:54:50 [INFO] [37/506] querying year=114 city=高雄市
+2026-05-12 08:54:50 [INFO] sleep 2.63s (before query 114 高雄市)
+2026-05-12 08:54:55 [INFO] [37/506] success year=114 city=高雄市 rows=2169
+2026-05-12 08:54:55 [INFO] sleep 6.66s (after query combination 114 高雄市)
+2026-05-12 08:55:01 [INFO] [38/506] querying year=114 city=屏東縣
+2026-05-12 08:55:01 [INFO] sleep 1.62s (before query 114 屏東縣)
+2026-05-12 08:55:05 [INFO] [38/506] success year=114 city=屏東縣 rows=2215
+2026-05-12 08:55:05 [INFO] sleep 12.67s (after query combination 114 屏東縣)
+2026-05-12 08:55:18 [INFO] [39/506] querying year=114 city=宜蘭縣
+2026-05-12 08:55:18 [INFO] sleep 2.92s (before query 114 宜蘭縣)
+2026-05-12 08:55:22 [INFO] [39/506] success year=114 city=宜蘭縣 rows=1379
+2026-05-12 08:55:22 [INFO] sleep 13.75s (after query combination 114 宜蘭縣)
+2026-05-12 08:55:36 [INFO] [40/506] querying year=114 city=花蓮縣
+2026-05-12 08:55:36 [INFO] sleep 3.85s (before query 114 花蓮縣)
+2026-05-12 08:55:40 [INFO] [40/506] success year=114 city=花蓮縣 rows=685
+2026-05-12 08:55:40 [INFO] sleep 7.45s (after query combination 114 花蓮縣)
+2026-05-12 08:55:48 [INFO] [41/506] querying year=114 city=臺東縣
+2026-05-12 08:55:48 [INFO] sleep 3.94s (before query 114 臺東縣)
+2026-05-12 08:55:52 [INFO] [41/506] success year=114 city=臺東縣 rows=826
+2026-05-12 08:55:52 [INFO] sleep 10.42s (after query combination 114 臺東縣)
+2026-05-12 08:56:03 [INFO] [42/506] querying year=114 city=金門縣
+2026-05-12 08:56:03 [INFO] sleep 4.22s (before query 114 金門縣)
+2026-05-12 08:56:08 [INFO] [42/506] success year=114 city=金門縣 rows=348
+2026-05-12 08:56:08 [INFO] sleep 13.02s (after query combination 114 金門縣)
+2026-05-12 08:56:21 [INFO] [43/506] querying year=114 city=澎湖縣
+2026-05-12 08:56:21 [INFO] sleep 3.53s (before query 114 澎湖縣)
+2026-05-12 08:56:25 [INFO] [43/506] success year=114 city=澎湖縣 rows=201
+2026-05-12 08:56:25 [INFO] sleep 13.32s (after query combination 114 澎湖縣)
+2026-05-12 08:56:38 [INFO] [44/506] querying year=114 city=連江縣
+2026-05-12 08:56:38 [INFO] sleep 3.08s (before query 114 連江縣)
+2026-05-12 08:56:42 [INFO] [44/506] success year=114 city=連江縣 rows=68
+2026-05-12 08:56:42 [INFO] sleep 14.48s (after query combination 114 連江縣)
+2026-05-12 08:56:56 [INFO] [45/506] querying year=113 city=基隆市
+2026-05-12 08:56:56 [INFO] sleep 3.68s (before query 113 基隆市)
+2026-05-12 08:57:00 [INFO] [45/506] success year=113 city=基隆市 rows=87
+2026-05-12 08:57:00 [INFO] sleep 8.94s (after query combination 113 基隆市)
+2026-05-12 08:57:09 [INFO] [46/506] querying year=113 city=臺北市
+2026-05-12 08:57:09 [INFO] sleep 3.09s (before query 113 臺北市)
+2026-05-12 08:57:13 [INFO] [46/506] success year=113 city=臺北市 rows=253
+2026-05-12 08:57:13 [INFO] sleep 9.57s (after query combination 113 臺北市)
+2026-05-12 08:57:22 [INFO] [47/506] querying year=113 city=新北市
+2026-05-12 08:57:22 [INFO] sleep 3.07s (before query 113 新北市)
+2026-05-12 08:57:27 [INFO] [47/506] success year=113 city=新北市 rows=1682
+2026-05-12 08:57:27 [INFO] sleep 12.53s (after query combination 113 新北市)
+2026-05-12 08:57:39 [INFO] [48/506] querying year=113 city=桃園市
+2026-05-12 08:57:39 [INFO] sleep 4.49s (before query 113 桃園市)
+2026-05-12 08:57:46 [INFO] [48/506] success year=113 city=桃園市 rows=2265
+2026-05-12 08:57:46 [INFO] sleep 6.15s (after query combination 113 桃園市)
+2026-05-12 08:57:52 [INFO] [49/506] querying year=113 city=新竹縣
+2026-05-12 08:57:52 [INFO] sleep 2.30s (before query 113 新竹縣)
+2026-05-12 08:57:56 [INFO] [49/506] success year=113 city=新竹縣 rows=2009
+2026-05-12 08:57:57 [INFO] sleep 8.60s (after query combination 113 新竹縣)
+2026-05-12 08:58:05 [INFO] [50/506] querying year=113 city=新竹市
+2026-05-12 08:58:05 [INFO] sleep 4.25s (before query 113 新竹市)
+2026-05-12 08:58:10 [INFO] [50/506] success year=113 city=新竹市 rows=236
+2026-05-12 08:58:10 [INFO] sleep 7.14s (after query combination 113 新竹市)
+2026-05-12 08:58:17 [INFO] [51/506] querying year=113 city=苗栗縣
+2026-05-12 08:58:17 [INFO] sleep 3.16s (before query 113 苗栗縣)
+2026-05-12 08:58:23 [INFO] [51/506] success year=113 city=苗栗縣 rows=2597
+2026-05-12 08:58:23 [INFO] sleep 13.39s (after query combination 113 苗栗縣)
+2026-05-12 08:58:36 [INFO] [52/506] querying year=113 city=臺中市
+2026-05-12 08:58:36 [INFO] sleep 1.52s (before query 113 臺中市)
+2026-05-12 08:58:41 [INFO] [52/506] success year=113 city=臺中市 rows=2600
+2026-05-12 08:58:41 [INFO] sleep 13.34s (after query combination 113 臺中市)
+2026-05-12 08:58:54 [INFO] [53/506] querying year=113 city=南投縣
+2026-05-12 08:58:54 [INFO] sleep 3.66s (before query 113 南投縣)
+2026-05-12 08:59:00 [INFO] [53/506] success year=113 city=南投縣 rows=2731
+2026-05-12 08:59:00 [INFO] sleep 8.13s (after query combination 113 南投縣)
+2026-05-12 08:59:09 [INFO] [54/506] querying year=113 city=彰化縣
+2026-05-12 08:59:09 [INFO] sleep 1.82s (before query 113 彰化縣)
+2026-05-12 08:59:12 [INFO] [54/506] success year=113 city=彰化縣 rows=1756
+2026-05-12 08:59:12 [INFO] sleep 13.96s (after query combination 113 彰化縣)
+2026-05-12 08:59:26 [INFO] [55/506] querying year=113 city=雲林縣
+2026-05-12 08:59:26 [INFO] sleep 3.04s (before query 113 雲林縣)
+2026-05-12 08:59:31 [INFO] [55/506] success year=113 city=雲林縣 rows=1785
+2026-05-12 08:59:31 [INFO] sleep 7.59s (after query combination 113 雲林縣)
+2026-05-12 08:59:39 [INFO] [56/506] querying year=113 city=嘉義縣
+2026-05-12 08:59:39 [INFO] sleep 3.29s (before query 113 嘉義縣)
+2026-05-12 08:59:44 [INFO] [56/506] success year=113 city=嘉義縣 rows=2093
+2026-05-12 08:59:44 [INFO] sleep 13.77s (after query combination 113 嘉義縣)
+2026-05-12 08:59:58 [INFO] [57/506] querying year=113 city=嘉義市
+2026-05-12 08:59:58 [INFO] sleep 2.15s (before query 113 嘉義市)
+2026-05-12 09:00:01 [INFO] [57/506] success year=113 city=嘉義市 rows=108
+2026-05-12 09:00:01 [INFO] sleep 13.46s (after query combination 113 嘉義市)
+2026-05-12 09:00:14 [INFO] [58/506] querying year=113 city=臺南市
+2026-05-12 09:00:14 [INFO] sleep 4.74s (before query 113 臺南市)
+2026-05-12 09:00:24 [INFO] [58/506] success year=113 city=臺南市 rows=4352
+2026-05-12 09:00:24 [INFO] sleep 14.80s (after query combination 113 臺南市)
+2026-05-12 09:00:39 [INFO] [59/506] querying year=113 city=高雄市
+2026-05-12 09:00:39 [INFO] sleep 4.12s (before query 113 高雄市)
+2026-05-12 09:00:45 [INFO] [59/506] success year=113 city=高雄市 rows=2317
+2026-05-12 09:00:45 [INFO] sleep 9.59s (after query combination 113 高雄市)
+2026-05-12 09:00:55 [INFO] [60/506] querying year=113 city=屏東縣
+2026-05-12 09:00:55 [INFO] sleep 3.77s (before query 113 屏東縣)
+2026-05-12 09:01:01 [INFO] [60/506] success year=113 city=屏東縣 rows=2496
+2026-05-12 09:01:01 [INFO] sleep 11.30s (after query combination 113 屏東縣)
+2026-05-12 09:01:12 [INFO] [61/506] querying year=113 city=宜蘭縣
+2026-05-12 09:01:12 [INFO] sleep 4.91s (before query 113 宜蘭縣)
+2026-05-12 09:01:19 [INFO] [61/506] success year=113 city=宜蘭縣 rows=1767
+2026-05-12 09:01:19 [INFO] sleep 11.91s (after query combination 113 宜蘭縣)
+2026-05-12 09:01:31 [INFO] [62/506] querying year=113 city=花蓮縣
+2026-05-12 09:01:31 [INFO] sleep 1.59s (before query 113 花蓮縣)
+2026-05-12 09:01:34 [INFO] [62/506] success year=113 city=花蓮縣 rows=1129
+2026-05-12 09:01:34 [INFO] sleep 6.28s (after query combination 113 花蓮縣)
+2026-05-12 09:01:40 [INFO] [63/506] querying year=113 city=臺東縣
+2026-05-12 09:01:40 [INFO] sleep 2.50s (before query 113 臺東縣)
+2026-05-12 09:01:44 [INFO] [63/506] success year=113 city=臺東縣 rows=1065
+2026-05-12 09:01:44 [INFO] sleep 7.69s (after query combination 113 臺東縣)
+2026-05-12 09:01:51 [INFO] [64/506] querying year=113 city=金門縣
+2026-05-12 09:01:51 [INFO] sleep 2.65s (before query 113 金門縣)
+2026-05-12 09:01:54 [INFO] [64/506] success year=113 city=金門縣 rows=320
+2026-05-12 09:01:54 [INFO] sleep 6.31s (after query combination 113 金門縣)
+2026-05-12 09:02:01 [INFO] [65/506] querying year=113 city=澎湖縣
+2026-05-12 09:02:01 [INFO] sleep 4.54s (before query 113 澎湖縣)
+2026-05-12 09:02:06 [INFO] [65/506] success year=113 city=澎湖縣 rows=244
+2026-05-12 09:02:06 [INFO] sleep 12.84s (after query combination 113 澎湖縣)
+2026-05-12 09:02:19 [INFO] [66/506] querying year=113 city=連江縣
+2026-05-12 09:02:19 [INFO] sleep 3.84s (before query 113 連江縣)
+2026-05-12 09:02:23 [INFO] [66/506] success year=113 city=連江縣 rows=68
+2026-05-12 09:02:23 [INFO] sleep 8.64s (after query combination 113 連江縣)
+2026-05-12 09:02:32 [INFO] [67/506] querying year=112 city=基隆市
+2026-05-12 09:02:32 [INFO] sleep 3.99s (before query 112 基隆市)
+2026-05-12 09:02:36 [INFO] [67/506] success year=112 city=基隆市 rows=51
+2026-05-12 09:02:36 [INFO] sleep 11.37s (after query combination 112 基隆市)
+2026-05-12 09:02:47 [INFO] [68/506] querying year=112 city=臺北市
+2026-05-12 09:02:47 [INFO] sleep 2.20s (before query 112 臺北市)
+2026-05-12 09:02:50 [INFO] [68/506] success year=112 city=臺北市 rows=220
+2026-05-12 09:02:50 [INFO] sleep 12.40s (after query combination 112 臺北市)
+2026-05-12 09:03:02 [INFO] [69/506] querying year=112 city=新北市
+2026-05-12 09:03:02 [INFO] sleep 3.70s (before query 112 新北市)
+2026-05-12 09:03:07 [INFO] [69/506] success year=112 city=新北市 rows=1606
+2026-05-12 09:03:07 [INFO] sleep 14.73s (after query combination 112 新北市)
+2026-05-12 09:03:22 [INFO] [70/506] querying year=112 city=桃園市
+2026-05-12 09:03:22 [INFO] sleep 4.32s (before query 112 桃園市)
+2026-05-12 09:03:29 [INFO] [70/506] success year=112 city=桃園市 rows=2270
+2026-05-12 09:03:29 [INFO] sleep 14.78s (after query combination 112 桃園市)
+2026-05-12 09:03:43 [INFO] [71/506] querying year=112 city=新竹縣
+2026-05-12 09:03:43 [INFO] sleep 4.96s (before query 112 新竹縣)
+2026-05-12 09:03:50 [INFO] [71/506] success year=112 city=新竹縣 rows=2156
+2026-05-12 09:03:50 [INFO] sleep 5.75s (after query combination 112 新竹縣)
+2026-05-12 09:03:56 [INFO] [72/506] querying year=112 city=新竹市
+2026-05-12 09:03:56 [INFO] sleep 2.59s (before query 112 新竹市)
+2026-05-12 09:03:59 [INFO] [72/506] success year=112 city=新竹市 rows=263
+2026-05-12 09:03:59 [INFO] sleep 8.44s (after query combination 112 新竹市)
+2026-05-12 09:04:08 [INFO] [73/506] querying year=112 city=苗栗縣
+2026-05-12 09:04:08 [INFO] sleep 3.16s (before query 112 苗栗縣)
+2026-05-12 09:04:14 [INFO] [73/506] success year=112 city=苗栗縣 rows=2698
+2026-05-12 09:04:14 [INFO] sleep 5.88s (after query combination 112 苗栗縣)
+2026-05-12 09:04:20 [INFO] [74/506] querying year=112 city=臺中市
+2026-05-12 09:04:20 [INFO] sleep 3.02s (before query 112 臺中市)
+2026-05-12 09:04:25 [INFO] [74/506] success year=112 city=臺中市 rows=1970
+2026-05-12 09:04:25 [INFO] sleep 7.69s (after query combination 112 臺中市)
+2026-05-12 09:04:32 [INFO] [75/506] querying year=112 city=南投縣
+2026-05-12 09:04:32 [INFO] sleep 3.79s (before query 112 南投縣)
+2026-05-12 09:04:39 [INFO] [75/506] success year=112 city=南投縣 rows=3000
+2026-05-12 09:04:39 [INFO] sleep 5.15s (after query combination 112 南投縣)
+2026-05-12 09:04:44 [INFO] [76/506] querying year=112 city=彰化縣
+2026-05-12 09:04:44 [INFO] sleep 2.79s (before query 112 彰化縣)
+2026-05-12 09:04:49 [INFO] [76/506] success year=112 city=彰化縣 rows=1439
+2026-05-12 09:04:49 [INFO] sleep 6.76s (after query combination 112 彰化縣)
+2026-05-12 09:04:56 [INFO] [77/506] querying year=112 city=雲林縣
+2026-05-12 09:04:56 [INFO] sleep 4.57s (before query 112 雲林縣)
+2026-05-12 09:05:02 [INFO] [77/506] success year=112 city=雲林縣 rows=2079
+2026-05-12 09:05:03 [INFO] sleep 10.62s (after query combination 112 雲林縣)
+2026-05-12 09:05:13 [INFO] [78/506] querying year=112 city=嘉義縣
+2026-05-12 09:05:13 [INFO] sleep 3.94s (before query 112 嘉義縣)
+2026-05-12 09:05:18 [INFO] [78/506] success year=112 city=嘉義縣 rows=1487
+2026-05-12 09:05:18 [INFO] sleep 11.31s (after query combination 112 嘉義縣)
+2026-05-12 09:05:30 [INFO] [79/506] querying year=112 city=嘉義市
+2026-05-12 09:05:30 [INFO] sleep 3.51s (before query 112 嘉義市)
+2026-05-12 09:05:34 [INFO] [79/506] success year=112 city=嘉義市 rows=55
+2026-05-12 09:05:34 [INFO] sleep 13.73s (after query combination 112 嘉義市)
+2026-05-12 09:05:48 [INFO] [80/506] querying year=112 city=臺南市
+2026-05-12 09:05:48 [INFO] sleep 4.68s (before query 112 臺南市)
+2026-05-12 09:05:55 [INFO] [80/506] success year=112 city=臺南市 rows=2653
+2026-05-12 09:05:55 [INFO] sleep 12.34s (after query combination 112 臺南市)
+2026-05-12 09:06:07 [INFO] [81/506] querying year=112 city=高雄市
+2026-05-12 09:06:07 [INFO] sleep 3.39s (before query 112 高雄市)
+2026-05-12 09:06:12 [INFO] [81/506] success year=112 city=高雄市 rows=1907
+2026-05-12 09:06:12 [INFO] sleep 6.36s (after query combination 112 高雄市)
+2026-05-12 09:06:19 [INFO] [82/506] querying year=112 city=屏東縣
+2026-05-12 09:06:19 [INFO] sleep 2.71s (before query 112 屏東縣)
+2026-05-12 09:06:23 [INFO] [82/506] success year=112 city=屏東縣 rows=2435
+2026-05-12 09:06:23 [INFO] sleep 10.74s (after query combination 112 屏東縣)
+2026-05-12 09:06:34 [INFO] [83/506] querying year=112 city=宜蘭縣
+2026-05-12 09:06:34 [INFO] sleep 4.03s (before query 112 宜蘭縣)
+2026-05-12 09:06:39 [INFO] [83/506] success year=112 city=宜蘭縣 rows=1248
+2026-05-12 09:06:39 [INFO] sleep 12.14s (after query combination 112 宜蘭縣)
+2026-05-12 09:06:52 [INFO] [84/506] querying year=112 city=花蓮縣
+2026-05-12 09:06:52 [INFO] sleep 2.41s (before query 112 花蓮縣)
+2026-05-12 09:06:55 [INFO] [84/506] success year=112 city=花蓮縣 rows=1470
+2026-05-12 09:06:55 [INFO] sleep 10.19s (after query combination 112 花蓮縣)
+2026-05-12 09:07:06 [INFO] [85/506] querying year=112 city=臺東縣
+2026-05-12 09:07:06 [INFO] sleep 1.98s (before query 112 臺東縣)
+2026-05-12 09:07:09 [INFO] [85/506] success year=112 city=臺東縣 rows=1327
+2026-05-12 09:07:09 [INFO] sleep 7.54s (after query combination 112 臺東縣)
+2026-05-12 09:07:16 [INFO] [86/506] querying year=112 city=金門縣
+2026-05-12 09:07:16 [INFO] sleep 2.07s (before query 112 金門縣)
+2026-05-12 09:07:19 [INFO] [86/506] success year=112 city=金門縣 rows=363
+2026-05-12 09:07:19 [INFO] sleep 12.86s (after query combination 112 金門縣)
+2026-05-12 09:07:32 [INFO] [87/506] querying year=112 city=澎湖縣
+2026-05-12 09:07:32 [INFO] sleep 4.57s (before query 112 澎湖縣)
+2026-05-12 09:07:37 [INFO] [87/506] success year=112 city=澎湖縣 rows=185
+2026-05-12 09:07:37 [INFO] sleep 6.33s (after query combination 112 澎湖縣)
+2026-05-12 09:07:43 [INFO] [88/506] querying year=112 city=連江縣
+2026-05-12 09:07:43 [INFO] sleep 4.59s (before query 112 連江縣)
+2026-05-12 09:07:48 [INFO] [88/506] success year=112 city=連江縣 rows=55
+2026-05-12 09:07:48 [INFO] sleep 12.76s (after query combination 112 連江縣)
+2026-05-12 09:08:01 [INFO] [89/506] querying year=111 city=基隆市
+2026-05-12 09:08:01 [INFO] sleep 2.46s (before query 111 基隆市)
+2026-05-12 09:08:04 [INFO] [89/506] success year=111 city=基隆市 rows=63
+2026-05-12 09:08:04 [INFO] sleep 7.26s (after query combination 111 基隆市)
+2026-05-12 09:08:11 [INFO] [90/506] querying year=111 city=臺北市
+2026-05-12 09:08:11 [INFO] sleep 1.67s (before query 111 臺北市)
+2026-05-12 09:08:13 [INFO] [90/506] success year=111 city=臺北市 rows=233
+2026-05-12 09:08:13 [INFO] sleep 7.91s (after query combination 111 臺北市)
+2026-05-12 09:08:21 [INFO] [91/506] querying year=111 city=新北市
+2026-05-12 09:08:21 [INFO] sleep 4.31s (before query 111 新北市)
+2026-05-12 09:08:27 [INFO] [91/506] success year=111 city=新北市 rows=1443
+2026-05-12 09:08:27 [INFO] sleep 11.33s (after query combination 111 新北市)
+2026-05-12 09:08:38 [INFO] [92/506] querying year=111 city=桃園市
+2026-05-12 09:08:38 [INFO] sleep 3.75s (before query 111 桃園市)
+2026-05-12 09:08:44 [INFO] [92/506] success year=111 city=桃園市 rows=1863
+2026-05-12 09:08:44 [INFO] sleep 11.32s (after query combination 111 桃園市)
+2026-05-12 09:08:55 [INFO] [93/506] querying year=111 city=新竹縣
+2026-05-12 09:08:55 [INFO] sleep 2.70s (before query 111 新竹縣)
+2026-05-12 09:08:59 [INFO] [93/506] success year=111 city=新竹縣 rows=957
+2026-05-12 09:08:59 [INFO] sleep 7.94s (after query combination 111 新竹縣)
+2026-05-12 09:09:07 [INFO] [94/506] querying year=111 city=新竹市
+2026-05-12 09:09:07 [INFO] sleep 2.48s (before query 111 新竹市)
+2026-05-12 09:09:10 [INFO] [94/506] success year=111 city=新竹市 rows=95
+2026-05-12 09:09:10 [INFO] sleep 13.00s (after query combination 111 新竹市)
+2026-05-12 09:09:23 [INFO] [95/506] querying year=111 city=苗栗縣
+2026-05-12 09:09:23 [INFO] sleep 2.19s (before query 111 苗栗縣)
+2026-05-12 09:09:26 [INFO] [95/506] success year=111 city=苗栗縣 rows=1424
+2026-05-12 09:09:26 [INFO] sleep 6.16s (after query combination 111 苗栗縣)
+2026-05-12 09:09:32 [INFO] [96/506] querying year=111 city=臺中市
+2026-05-12 09:09:32 [INFO] sleep 4.99s (before query 111 臺中市)
+2026-05-12 09:09:39 [INFO] [96/506] success year=111 city=臺中市 rows=1941
+2026-05-12 09:09:39 [INFO] sleep 6.30s (after query combination 111 臺中市)
+2026-05-12 09:09:45 [INFO] [97/506] querying year=111 city=南投縣
+2026-05-12 09:09:45 [INFO] sleep 4.37s (before query 111 南投縣)
+2026-05-12 09:09:53 [INFO] [97/506] success year=111 city=南投縣 rows=3291
+2026-05-12 09:09:53 [INFO] sleep 13.91s (after query combination 111 南投縣)
+2026-05-12 09:10:07 [INFO] [98/506] querying year=111 city=彰化縣
+2026-05-12 09:10:07 [INFO] sleep 3.95s (before query 111 彰化縣)
+2026-05-12 09:10:13 [INFO] [98/506] success year=111 city=彰化縣 rows=1568
+2026-05-12 09:10:13 [INFO] sleep 9.15s (after query combination 111 彰化縣)
+2026-05-12 09:10:22 [INFO] [99/506] querying year=111 city=雲林縣
+2026-05-12 09:10:22 [INFO] sleep 4.74s (before query 111 雲林縣)
+2026-05-12 09:10:28 [INFO] [99/506] success year=111 city=雲林縣 rows=1867
+2026-05-12 09:10:28 [INFO] sleep 5.63s (after query combination 111 雲林縣)
+2026-05-12 09:10:34 [INFO] [100/506] querying year=111 city=嘉義縣
+2026-05-12 09:10:34 [INFO] sleep 3.16s (before query 111 嘉義縣)
+2026-05-12 09:10:39 [INFO] [100/506] success year=111 city=嘉義縣 rows=1726
+2026-05-12 09:10:39 [INFO] sleep 14.39s (after query combination 111 嘉義縣)
+2026-05-12 09:10:53 [INFO] [101/506] querying year=111 city=嘉義市
+2026-05-12 09:10:53 [INFO] sleep 4.02s (before query 111 嘉義市)
+2026-05-12 09:10:58 [INFO] [101/506] success year=111 city=嘉義市 rows=127
+2026-05-12 09:10:58 [INFO] sleep 8.30s (after query combination 111 嘉義市)
+2026-05-12 09:11:06 [INFO] [102/506] querying year=111 city=臺南市
+2026-05-12 09:11:06 [INFO] sleep 1.76s (before query 111 臺南市)
+2026-05-12 09:11:12 [INFO] [102/506] success year=111 city=臺南市 rows=3857
+2026-05-12 09:11:12 [INFO] sleep 6.64s (after query combination 111 臺南市)
+2026-05-12 09:11:19 [INFO] [103/506] querying year=111 city=高雄市
+2026-05-12 09:11:19 [INFO] sleep 3.48s (before query 111 高雄市)
+2026-05-12 09:11:25 [INFO] [103/506] success year=111 city=高雄市 rows=2479
+2026-05-12 09:11:25 [INFO] sleep 12.63s (after query combination 111 高雄市)
+2026-05-12 09:11:37 [INFO] [104/506] querying year=111 city=屏東縣
+2026-05-12 09:11:37 [INFO] sleep 3.32s (before query 111 屏東縣)
+2026-05-12 09:11:43 [INFO] [104/506] success year=111 city=屏東縣 rows=2472
+2026-05-12 09:11:43 [INFO] sleep 11.78s (after query combination 111 屏東縣)
+2026-05-12 09:11:55 [INFO] [105/506] querying year=111 city=宜蘭縣
+2026-05-12 09:11:55 [INFO] sleep 4.60s (before query 111 宜蘭縣)
+2026-05-12 09:12:01 [INFO] [105/506] success year=111 city=宜蘭縣 rows=1822
+2026-05-12 09:12:01 [INFO] sleep 12.80s (after query combination 111 宜蘭縣)
+2026-05-12 09:12:14 [INFO] [106/506] querying year=111 city=花蓮縣
+2026-05-12 09:12:14 [INFO] sleep 1.82s (before query 111 花蓮縣)
+2026-05-12 09:12:17 [INFO] [106/506] success year=111 city=花蓮縣 rows=989
+2026-05-12 09:12:17 [INFO] sleep 14.62s (after query combination 111 花蓮縣)
+2026-05-12 09:12:32 [INFO] [107/506] querying year=111 city=臺東縣
+2026-05-12 09:12:32 [INFO] sleep 1.96s (before query 111 臺東縣)
+2026-05-12 09:12:35 [INFO] [107/506] success year=111 city=臺東縣 rows=1130
+2026-05-12 09:12:35 [INFO] sleep 11.72s (after query combination 111 臺東縣)
+2026-05-12 09:12:46 [INFO] [108/506] querying year=111 city=金門縣
+2026-05-12 09:12:46 [INFO] sleep 3.25s (before query 111 金門縣)
+2026-05-12 09:12:50 [INFO] [108/506] success year=111 city=金門縣 rows=203
+2026-05-12 09:12:50 [INFO] sleep 14.19s (after query combination 111 金門縣)
+2026-05-12 09:13:04 [INFO] [109/506] querying year=111 city=澎湖縣
+2026-05-12 09:13:04 [INFO] sleep 4.00s (before query 111 澎湖縣)
+2026-05-12 09:13:09 [INFO] [109/506] success year=111 city=澎湖縣 rows=143
+2026-05-12 09:13:09 [INFO] sleep 11.97s (after query combination 111 澎湖縣)
+2026-05-12 09:13:21 [INFO] [110/506] querying year=111 city=連江縣
+2026-05-12 09:13:21 [INFO] sleep 3.84s (before query 111 連江縣)
+2026-05-12 09:13:25 [INFO] [110/506] success year=111 city=連江縣 rows=19
+2026-05-12 09:13:25 [INFO] sleep 12.97s (after query combination 111 連江縣)
+2026-05-12 09:13:38 [INFO] [111/506] querying year=110 city=基隆市
+2026-05-12 09:13:38 [INFO] sleep 3.28s (before query 110 基隆市)
+2026-05-12 09:13:42 [INFO] [111/506] success year=110 city=基隆市 rows=53
+2026-05-12 09:13:42 [INFO] sleep 7.95s (after query combination 110 基隆市)
+2026-05-12 09:13:50 [INFO] [112/506] querying year=110 city=臺北市
+2026-05-12 09:13:50 [INFO] sleep 3.23s (before query 110 臺北市)
+2026-05-12 09:13:53 [INFO] [112/506] success year=110 city=臺北市 rows=116
+2026-05-12 09:13:53 [INFO] sleep 7.59s (after query combination 110 臺北市)
+2026-05-12 09:14:01 [INFO] [113/506] querying year=110 city=新北市
+2026-05-12 09:14:01 [INFO] sleep 4.85s (before query 110 新北市)
+2026-05-12 09:14:07 [INFO] [113/506] success year=110 city=新北市 rows=1686
+2026-05-12 09:14:07 [INFO] sleep 14.27s (after query combination 110 新北市)
+2026-05-12 09:14:22 [INFO] [114/506] querying year=110 city=桃園市
+2026-05-12 09:14:22 [INFO] sleep 1.89s (before query 110 桃園市)
+2026-05-12 09:14:25 [INFO] [114/506] success year=110 city=桃園市 rows=1724
+2026-05-12 09:14:25 [INFO] sleep 10.13s (after query combination 110 桃園市)
+2026-05-12 09:14:35 [INFO] [115/506] querying year=110 city=新竹縣
+2026-05-12 09:14:35 [INFO] sleep 4.83s (before query 110 新竹縣)
+2026-05-12 09:14:41 [INFO] [115/506] success year=110 city=新竹縣 rows=1392
+2026-05-12 09:14:41 [INFO] sleep 9.12s (after query combination 110 新竹縣)
+2026-05-12 09:14:50 [INFO] [116/506] querying year=110 city=新竹市
+2026-05-12 09:14:50 [INFO] sleep 4.70s (before query 110 新竹市)
+2026-05-12 09:14:56 [INFO] [116/506] success year=110 city=新竹市 rows=140
+2026-05-12 09:14:56 [INFO] sleep 6.35s (after query combination 110 新竹市)
+2026-05-12 09:15:02 [INFO] [117/506] querying year=110 city=苗栗縣
+2026-05-12 09:15:02 [INFO] sleep 4.47s (before query 110 苗栗縣)
+2026-05-12 09:15:08 [INFO] [117/506] success year=110 city=苗栗縣 rows=1697
+2026-05-12 09:15:08 [INFO] sleep 10.36s (after query combination 110 苗栗縣)
+2026-05-12 09:15:18 [INFO] [118/506] querying year=110 city=臺中市
+2026-05-12 09:15:18 [INFO] sleep 1.52s (before query 110 臺中市)
+2026-05-12 09:15:22 [INFO] [118/506] success year=110 city=臺中市 rows=2067
+2026-05-12 09:15:22 [INFO] sleep 13.11s (after query combination 110 臺中市)
+2026-05-12 09:15:35 [INFO] [119/506] querying year=110 city=南投縣
+2026-05-12 09:15:35 [INFO] sleep 3.91s (before query 110 南投縣)
+2026-05-12 09:15:42 [INFO] [119/506] success year=110 city=南投縣 rows=3351
+2026-05-12 09:15:42 [INFO] sleep 6.35s (after query combination 110 南投縣)
+2026-05-12 09:15:49 [INFO] [120/506] querying year=110 city=彰化縣
+2026-05-12 09:15:49 [INFO] sleep 3.47s (before query 110 彰化縣)
+2026-05-12 09:15:54 [INFO] [120/506] success year=110 city=彰化縣 rows=1371
+2026-05-12 09:15:54 [INFO] sleep 9.47s (after query combination 110 彰化縣)
+2026-05-12 09:16:03 [INFO] [121/506] querying year=110 city=雲林縣
+2026-05-12 09:16:03 [INFO] sleep 2.95s (before query 110 雲林縣)
+2026-05-12 09:16:07 [INFO] [121/506] success year=110 city=雲林縣 rows=1139
+2026-05-12 09:16:07 [INFO] sleep 11.57s (after query combination 110 雲林縣)
+2026-05-12 09:16:19 [INFO] [122/506] querying year=110 city=嘉義縣
+2026-05-12 09:16:19 [INFO] sleep 2.83s (before query 110 嘉義縣)
+2026-05-12 09:16:23 [INFO] [122/506] success year=110 city=嘉義縣 rows=2318
+2026-05-12 09:16:23 [INFO] sleep 5.85s (after query combination 110 嘉義縣)
+2026-05-12 09:16:29 [INFO] [123/506] querying year=110 city=嘉義市
+2026-05-12 09:16:29 [INFO] sleep 3.60s (before query 110 嘉義市)
+2026-05-12 09:16:34 [INFO] [123/506] success year=110 city=嘉義市 rows=181
+2026-05-12 09:16:34 [INFO] sleep 13.39s (after query combination 110 嘉義市)
+2026-05-12 09:16:47 [INFO] [124/506] querying year=110 city=臺南市
+2026-05-12 09:16:47 [INFO] sleep 4.27s (before query 110 臺南市)
+2026-05-12 09:16:55 [INFO] [124/506] success year=110 city=臺南市 rows=3877
+2026-05-12 09:16:55 [INFO] sleep 14.96s (after query combination 110 臺南市)
+2026-05-12 09:17:10 [INFO] [125/506] querying year=110 city=高雄市
+2026-05-12 09:17:10 [INFO] sleep 4.01s (before query 110 高雄市)
+2026-05-12 09:17:17 [INFO] [125/506] success year=110 city=高雄市 rows=2687
+2026-05-12 09:17:17 [INFO] sleep 9.17s (after query combination 110 高雄市)
+2026-05-12 09:17:27 [INFO] [126/506] querying year=110 city=屏東縣
+2026-05-12 09:17:27 [INFO] sleep 2.59s (before query 110 屏東縣)
+2026-05-12 09:17:33 [INFO] [126/506] success year=110 city=屏東縣 rows=3120
+2026-05-12 09:17:33 [INFO] sleep 12.48s (after query combination 110 屏東縣)
+2026-05-12 09:17:45 [INFO] [127/506] querying year=110 city=宜蘭縣
+2026-05-12 09:17:45 [INFO] sleep 4.77s (before query 110 宜蘭縣)
+2026-05-12 09:17:52 [INFO] [127/506] success year=110 city=宜蘭縣 rows=1997
+2026-05-12 09:17:52 [INFO] sleep 13.78s (after query combination 110 宜蘭縣)
+2026-05-12 09:18:06 [INFO] [128/506] querying year=110 city=花蓮縣
+2026-05-12 09:18:06 [INFO] sleep 5.00s (before query 110 花蓮縣)
+2026-05-12 09:18:12 [INFO] [128/506] success year=110 city=花蓮縣 rows=840
+2026-05-12 09:18:12 [INFO] sleep 11.69s (after query combination 110 花蓮縣)
+2026-05-12 09:18:23 [INFO] [129/506] querying year=110 city=臺東縣
+2026-05-12 09:18:23 [INFO] sleep 3.86s (before query 110 臺東縣)
+2026-05-12 09:18:28 [INFO] [129/506] success year=110 city=臺東縣 rows=1333
+2026-05-12 09:18:28 [INFO] sleep 13.99s (after query combination 110 臺東縣)
+2026-05-12 09:18:42 [INFO] [130/506] querying year=110 city=金門縣
+2026-05-12 09:18:42 [INFO] sleep 4.33s (before query 110 金門縣)
+2026-05-12 09:18:47 [INFO] [130/506] success year=110 city=金門縣 rows=183
+2026-05-12 09:18:47 [INFO] sleep 8.67s (after query combination 110 金門縣)
+2026-05-12 09:18:56 [INFO] [131/506] querying year=110 city=澎湖縣
+2026-05-12 09:18:56 [INFO] sleep 2.18s (before query 110 澎湖縣)
+2026-05-12 09:18:58 [INFO] [131/506] success year=110 city=澎湖縣 rows=112
+2026-05-12 09:18:58 [INFO] sleep 6.99s (after query combination 110 澎湖縣)
+2026-05-12 09:19:05 [INFO] [132/506] querying year=110 city=連江縣
+2026-05-12 09:19:05 [INFO] sleep 3.93s (before query 110 連江縣)
+2026-05-12 09:19:10 [INFO] [132/506] success year=110 city=連江縣 rows=15
+2026-05-12 09:19:10 [INFO] sleep 6.86s (after query combination 110 連江縣)
+2026-05-12 09:19:17 [INFO] [133/506] querying year=109 city=基隆市
+2026-05-12 09:19:17 [INFO] sleep 3.64s (before query 109 基隆市)
+2026-05-12 09:19:21 [INFO] [133/506] success year=109 city=基隆市 rows=39
+2026-05-12 09:19:21 [INFO] sleep 8.72s (after query combination 109 基隆市)
+2026-05-12 09:19:29 [INFO] [134/506] querying year=109 city=臺北市
+2026-05-12 09:19:29 [INFO] sleep 2.15s (before query 109 臺北市)
+2026-05-12 09:19:32 [INFO] [134/506] success year=109 city=臺北市 rows=60
+2026-05-12 09:19:32 [INFO] sleep 11.51s (after query combination 109 臺北市)
+2026-05-12 09:19:44 [INFO] [135/506] querying year=109 city=新北市
+2026-05-12 09:19:44 [INFO] sleep 2.72s (before query 109 新北市)
+2026-05-12 09:19:47 [INFO] [135/506] success year=109 city=新北市 rows=1184
+2026-05-12 09:19:47 [INFO] sleep 6.13s (after query combination 109 新北市)
+2026-05-12 09:19:53 [INFO] [136/506] querying year=109 city=桃園市
+2026-05-12 09:19:53 [INFO] sleep 4.98s (before query 109 桃園市)
+2026-05-12 09:19:59 [INFO] [136/506] success year=109 city=桃園市 rows=993
+2026-05-12 09:19:59 [INFO] sleep 12.70s (after query combination 109 桃園市)
+2026-05-12 09:20:12 [INFO] [137/506] querying year=109 city=新竹縣
+2026-05-12 09:20:12 [INFO] sleep 3.79s (before query 109 新竹縣)
+2026-05-12 09:20:17 [INFO] [137/506] success year=109 city=新竹縣 rows=1189
+2026-05-12 09:20:17 [INFO] sleep 10.45s (after query combination 109 新竹縣)
+2026-05-12 09:20:28 [INFO] [138/506] querying year=109 city=新竹市
+2026-05-12 09:20:28 [INFO] sleep 1.71s (before query 109 新竹市)
+2026-05-12 09:20:30 [INFO] [138/506] success year=109 city=新竹市 rows=133
+2026-05-12 09:20:30 [INFO] sleep 13.56s (after query combination 109 新竹市)
+2026-05-12 09:20:43 [INFO] [139/506] querying year=109 city=苗栗縣
+2026-05-12 09:20:43 [INFO] sleep 2.62s (before query 109 苗栗縣)
+2026-05-12 09:20:48 [INFO] [139/506] success year=109 city=苗栗縣 rows=2560
+2026-05-12 09:20:48 [INFO] sleep 9.07s (after query combination 109 苗栗縣)
+2026-05-12 09:20:57 [INFO] [140/506] querying year=109 city=臺中市
+2026-05-12 09:20:57 [INFO] sleep 3.21s (before query 109 臺中市)
+2026-05-12 09:21:02 [INFO] [140/506] success year=109 city=臺中市 rows=1911
+2026-05-12 09:21:02 [INFO] sleep 13.16s (after query combination 109 臺中市)
+2026-05-12 09:21:16 [INFO] [141/506] querying year=109 city=南投縣
+2026-05-12 09:21:16 [INFO] sleep 2.57s (before query 109 南投縣)
+2026-05-12 09:21:20 [INFO] [141/506] success year=109 city=南投縣 rows=1881
+2026-05-12 09:21:20 [INFO] sleep 12.36s (after query combination 109 南投縣)
+2026-05-12 09:21:32 [INFO] [142/506] querying year=109 city=彰化縣
+2026-05-12 09:21:32 [INFO] sleep 3.58s (before query 109 彰化縣)
+2026-05-12 09:21:38 [INFO] [142/506] success year=109 city=彰化縣 rows=2255
+2026-05-12 09:21:38 [INFO] sleep 7.63s (after query combination 109 彰化縣)
+2026-05-12 09:21:46 [INFO] [143/506] querying year=109 city=雲林縣
+2026-05-12 09:21:46 [INFO] sleep 1.50s (before query 109 雲林縣)
+2026-05-12 09:21:49 [INFO] [143/506] success year=109 city=雲林縣 rows=2090
+2026-05-12 09:21:49 [INFO] sleep 5.55s (after query combination 109 雲林縣)
+2026-05-12 09:21:55 [INFO] [144/506] querying year=109 city=嘉義縣
+2026-05-12 09:21:55 [INFO] sleep 3.56s (before query 109 嘉義縣)
+2026-05-12 09:22:00 [INFO] [144/506] success year=109 city=嘉義縣 rows=1210
+2026-05-12 09:22:00 [INFO] sleep 11.62s (after query combination 109 嘉義縣)
+2026-05-12 09:22:11 [INFO] [145/506] querying year=109 city=嘉義市
+2026-05-12 09:22:11 [INFO] sleep 2.32s (before query 109 嘉義市)
+2026-05-12 09:22:14 [INFO] [145/506] success year=109 city=嘉義市 rows=62
+2026-05-12 09:22:14 [INFO] sleep 13.87s (after query combination 109 嘉義市)
+2026-05-12 09:22:28 [INFO] [146/506] querying year=109 city=臺南市
+2026-05-12 09:22:28 [INFO] sleep 3.12s (before query 109 臺南市)
+2026-05-12 09:22:33 [INFO] [146/506] success year=109 city=臺南市 rows=1924
+2026-05-12 09:22:33 [INFO] sleep 13.03s (after query combination 109 臺南市)
+2026-05-12 09:22:46 [INFO] [147/506] querying year=109 city=高雄市
+2026-05-12 09:22:46 [INFO] sleep 2.76s (before query 109 高雄市)
+2026-05-12 09:22:51 [INFO] [147/506] success year=109 city=高雄市 rows=2270
+2026-05-12 09:22:51 [INFO] sleep 10.41s (after query combination 109 高雄市)
+2026-05-12 09:23:02 [INFO] [148/506] querying year=109 city=屏東縣
+2026-05-12 09:23:02 [INFO] sleep 3.30s (before query 109 屏東縣)
+2026-05-12 09:23:08 [INFO] [148/506] success year=109 city=屏東縣 rows=3006
+2026-05-12 09:23:08 [INFO] sleep 6.23s (after query combination 109 屏東縣)
+2026-05-12 09:23:14 [INFO] [149/506] querying year=109 city=宜蘭縣
+2026-05-12 09:23:14 [INFO] sleep 3.31s (before query 109 宜蘭縣)
+2026-05-12 09:23:19 [INFO] [149/506] success year=109 city=宜蘭縣 rows=748
+2026-05-12 09:23:19 [INFO] sleep 6.45s (after query combination 109 宜蘭縣)
+2026-05-12 09:23:25 [INFO] [150/506] querying year=109 city=花蓮縣
+2026-05-12 09:23:25 [INFO] sleep 4.35s (before query 109 花蓮縣)
+2026-05-12 09:23:30 [INFO] [150/506] success year=109 city=花蓮縣 rows=1025
+2026-05-12 09:23:30 [INFO] sleep 9.11s (after query combination 109 花蓮縣)
+2026-05-12 09:23:39 [INFO] [151/506] querying year=109 city=臺東縣
+2026-05-12 09:23:39 [INFO] sleep 2.55s (before query 109 臺東縣)
+2026-05-12 09:23:43 [INFO] [151/506] success year=109 city=臺東縣 rows=1507
+2026-05-12 09:23:43 [INFO] sleep 14.15s (after query combination 109 臺東縣)
+2026-05-12 09:23:58 [INFO] [152/506] querying year=109 city=金門縣
+2026-05-12 09:23:58 [INFO] sleep 1.81s (before query 109 金門縣)
+2026-05-12 09:24:00 [INFO] [152/506] success year=109 city=金門縣 rows=136
+2026-05-12 09:24:00 [INFO] sleep 13.12s (after query combination 109 金門縣)
+2026-05-12 09:24:13 [INFO] [153/506] querying year=109 city=澎湖縣
+2026-05-12 09:24:13 [INFO] sleep 3.12s (before query 109 澎湖縣)
+2026-05-12 09:24:17 [INFO] [153/506] success year=109 city=澎湖縣 rows=78
+2026-05-12 09:24:17 [INFO] sleep 5.50s (after query combination 109 澎湖縣)
+2026-05-12 09:24:22 [INFO] [154/506] querying year=109 city=連江縣
+2026-05-12 09:24:22 [INFO] sleep 3.04s (before query 109 連江縣)
+2026-05-12 09:24:26 [INFO] [154/506] success year=109 city=連江縣 rows=6
+2026-05-12 09:24:26 [INFO] sleep 8.70s (after query combination 109 連江縣)
+2026-05-12 09:24:34 [INFO] [155/506] querying year=108 city=基隆市
+2026-05-12 09:24:34 [INFO] sleep 2.76s (before query 108 基隆市)
+2026-05-12 09:24:38 [INFO] [155/506] success year=108 city=基隆市 rows=70
+2026-05-12 09:24:38 [INFO] sleep 9.49s (after query combination 108 基隆市)
+2026-05-12 09:24:47 [INFO] [156/506] querying year=108 city=臺北市
+2026-05-12 09:24:47 [INFO] sleep 1.76s (before query 108 臺北市)
+2026-05-12 09:24:49 [INFO] [156/506] success year=108 city=臺北市 rows=68
+2026-05-12 09:24:49 [INFO] sleep 11.16s (after query combination 108 臺北市)
+2026-05-12 09:25:00 [INFO] [157/506] querying year=108 city=新北市
+2026-05-12 09:25:00 [INFO] sleep 4.23s (before query 108 新北市)
+2026-05-12 09:25:05 [INFO] [157/506] success year=108 city=新北市 rows=801
+2026-05-12 09:25:06 [INFO] sleep 11.37s (after query combination 108 新北市)
+2026-05-12 09:25:17 [INFO] [158/506] querying year=108 city=桃園市
+2026-05-12 09:25:17 [INFO] sleep 1.58s (before query 108 桃園市)
+2026-05-12 09:25:19 [INFO] [158/506] success year=108 city=桃園市 rows=499
+2026-05-12 09:25:19 [INFO] sleep 13.54s (after query combination 108 桃園市)
+2026-05-12 09:25:33 [INFO] [159/506] querying year=108 city=新竹縣
+2026-05-12 09:25:33 [INFO] sleep 1.78s (before query 108 新竹縣)
+2026-05-12 09:25:36 [INFO] [159/506] success year=108 city=新竹縣 rows=1257
+2026-05-12 09:25:36 [INFO] sleep 5.07s (after query combination 108 新竹縣)
+2026-05-12 09:25:41 [INFO] [160/506] querying year=108 city=新竹市
+2026-05-12 09:25:41 [INFO] sleep 4.61s (before query 108 新竹市)
+2026-05-12 09:25:46 [INFO] [160/506] success year=108 city=新竹市 rows=128
+2026-05-12 09:25:46 [INFO] sleep 12.47s (after query combination 108 新竹市)
+2026-05-12 09:25:58 [INFO] [161/506] querying year=108 city=苗栗縣
+2026-05-12 09:25:58 [INFO] sleep 3.82s (before query 108 苗栗縣)
+2026-05-12 09:26:03 [INFO] [161/506] success year=108 city=苗栗縣 rows=1556
+2026-05-12 09:26:03 [INFO] sleep 14.21s (after query combination 108 苗栗縣)
+2026-05-12 09:26:18 [INFO] [162/506] querying year=108 city=臺中市
+2026-05-12 09:26:18 [INFO] sleep 3.35s (before query 108 臺中市)
+2026-05-12 09:26:22 [INFO] [162/506] success year=108 city=臺中市 rows=1092
+2026-05-12 09:26:22 [INFO] sleep 14.90s (after query combination 108 臺中市)
+2026-05-12 09:26:37 [INFO] [163/506] querying year=108 city=南投縣
+2026-05-12 09:26:37 [INFO] sleep 1.68s (before query 108 南投縣)
+2026-05-12 09:26:40 [INFO] [163/506] success year=108 city=南投縣 rows=1512
+2026-05-12 09:26:40 [INFO] sleep 7.54s (after query combination 108 南投縣)
+2026-05-12 09:26:48 [INFO] [164/506] querying year=108 city=彰化縣
+2026-05-12 09:26:48 [INFO] sleep 1.94s (before query 108 彰化縣)
+2026-05-12 09:26:51 [INFO] [164/506] success year=108 city=彰化縣 rows=1466
+2026-05-12 09:26:51 [INFO] sleep 12.66s (after query combination 108 彰化縣)
+2026-05-12 09:27:03 [INFO] [165/506] querying year=108 city=雲林縣
+2026-05-12 09:27:03 [INFO] sleep 3.15s (before query 108 雲林縣)
+2026-05-12 09:27:08 [INFO] [165/506] success year=108 city=雲林縣 rows=1109
+2026-05-12 09:27:08 [INFO] sleep 8.92s (after query combination 108 雲林縣)
+2026-05-12 09:27:17 [INFO] [166/506] querying year=108 city=嘉義縣
+2026-05-12 09:27:17 [INFO] sleep 3.72s (before query 108 嘉義縣)
+2026-05-12 09:27:21 [INFO] [166/506] success year=108 city=嘉義縣 rows=837
+2026-05-12 09:27:21 [INFO] sleep 13.21s (after query combination 108 嘉義縣)
+2026-05-12 09:27:34 [INFO] [167/506] querying year=108 city=嘉義市
+2026-05-12 09:27:34 [INFO] sleep 2.25s (before query 108 嘉義市)
+2026-05-12 09:27:37 [INFO] [167/506] success year=108 city=嘉義市 rows=20
+2026-05-12 09:27:37 [INFO] sleep 13.35s (after query combination 108 嘉義市)
+2026-05-12 09:27:50 [INFO] [168/506] querying year=108 city=臺南市
+2026-05-12 09:27:50 [INFO] sleep 2.67s (before query 108 臺南市)
+2026-05-12 09:27:54 [INFO] [168/506] success year=108 city=臺南市 rows=1336
+2026-05-12 09:27:54 [INFO] sleep 7.45s (after query combination 108 臺南市)
+2026-05-12 09:28:02 [INFO] [169/506] querying year=108 city=高雄市
+2026-05-12 09:28:02 [INFO] sleep 1.63s (before query 108 高雄市)
+2026-05-12 09:28:05 [INFO] [169/506] success year=108 city=高雄市 rows=1316
+2026-05-12 09:28:05 [INFO] sleep 12.75s (after query combination 108 高雄市)
+2026-05-12 09:28:17 [INFO] [170/506] querying year=108 city=屏東縣
+2026-05-12 09:28:17 [INFO] sleep 4.43s (before query 108 屏東縣)
+2026-05-12 09:28:24 [INFO] [170/506] success year=108 city=屏東縣 rows=1746
+2026-05-12 09:28:24 [INFO] sleep 10.64s (after query combination 108 屏東縣)
+2026-05-12 09:28:34 [INFO] [171/506] querying year=108 city=宜蘭縣
+2026-05-12 09:28:34 [INFO] sleep 2.53s (before query 108 宜蘭縣)
+2026-05-12 09:28:37 [INFO] [171/506] success year=108 city=宜蘭縣 rows=605
+2026-05-12 09:28:37 [INFO] sleep 10.42s (after query combination 108 宜蘭縣)
+2026-05-12 09:28:48 [INFO] [172/506] querying year=108 city=花蓮縣
+2026-05-12 09:28:48 [INFO] sleep 2.37s (before query 108 花蓮縣)
+2026-05-12 09:28:51 [INFO] [172/506] success year=108 city=花蓮縣 rows=927
+2026-05-12 09:28:51 [INFO] sleep 12.91s (after query combination 108 花蓮縣)
+2026-05-12 09:29:04 [INFO] [173/506] querying year=108 city=臺東縣
+2026-05-12 09:29:04 [INFO] sleep 4.03s (before query 108 臺東縣)
+2026-05-12 09:29:09 [INFO] [173/506] success year=108 city=臺東縣 rows=1292
+2026-05-12 09:29:09 [INFO] sleep 13.45s (after query combination 108 臺東縣)
+2026-05-12 09:29:23 [INFO] [174/506] querying year=108 city=金門縣
+2026-05-12 09:29:23 [INFO] sleep 3.04s (before query 108 金門縣)
+2026-05-12 09:29:26 [INFO] [174/506] success year=108 city=金門縣 rows=140
+2026-05-12 09:29:26 [INFO] sleep 7.09s (after query combination 108 金門縣)
+2026-05-12 09:29:33 [INFO] [175/506] querying year=108 city=澎湖縣
+2026-05-12 09:29:33 [INFO] sleep 2.62s (before query 108 澎湖縣)
+2026-05-12 09:29:37 [INFO] [175/506] success year=108 city=澎湖縣 rows=116
+2026-05-12 09:29:37 [INFO] sleep 5.64s (after query combination 108 澎湖縣)
+2026-05-12 09:29:42 [INFO] [176/506] querying year=108 city=連江縣
+2026-05-12 09:29:42 [INFO] sleep 2.09s (before query 108 連江縣)
+2026-05-12 09:29:45 [INFO] [176/506] success year=108 city=連江縣 rows=6
+2026-05-12 09:29:45 [INFO] sleep 13.87s (after query combination 108 連江縣)
+2026-05-12 09:29:59 [INFO] [177/506] querying year=107 city=基隆市
+2026-05-12 09:29:59 [INFO] sleep 4.93s (before query 107 基隆市)
+2026-05-12 09:30:04 [INFO] [177/506] success year=107 city=基隆市 rows=33
+2026-05-12 09:30:04 [INFO] sleep 7.71s (after query combination 107 基隆市)
+2026-05-12 09:30:12 [INFO] [178/506] querying year=107 city=臺北市
+2026-05-12 09:30:12 [INFO] sleep 4.52s (before query 107 臺北市)
+2026-05-12 09:30:17 [INFO] [178/506] success year=107 city=臺北市 rows=15
+2026-05-12 09:30:17 [INFO] sleep 11.59s (after query combination 107 臺北市)
+2026-05-12 09:30:28 [INFO] [179/506] querying year=107 city=新北市
+2026-05-12 09:30:28 [INFO] sleep 4.98s (before query 107 新北市)
+2026-05-12 09:30:34 [INFO] [179/506] success year=107 city=新北市 rows=684
+2026-05-12 09:30:34 [INFO] sleep 7.31s (after query combination 107 新北市)
+2026-05-12 09:30:41 [INFO] [180/506] querying year=107 city=桃園市
+2026-05-12 09:30:41 [INFO] sleep 4.92s (before query 107 桃園市)
+2026-05-12 09:30:47 [INFO] [180/506] success year=107 city=桃園市 rows=603
+2026-05-12 09:30:47 [INFO] sleep 13.40s (after query combination 107 桃園市)
+2026-05-12 09:31:00 [INFO] [181/506] querying year=107 city=新竹縣
+2026-05-12 09:31:00 [INFO] sleep 3.68s (before query 107 新竹縣)
+2026-05-12 09:31:05 [INFO] [181/506] success year=107 city=新竹縣 rows=847
+2026-05-12 09:31:05 [INFO] sleep 10.58s (after query combination 107 新竹縣)
+2026-05-12 09:31:15 [INFO] [182/506] querying year=107 city=新竹市
+2026-05-12 09:31:15 [INFO] sleep 2.75s (before query 107 新竹市)
+2026-05-12 09:31:19 [INFO] [182/506] success year=107 city=新竹市 rows=53
+2026-05-12 09:31:19 [INFO] sleep 9.58s (after query combination 107 新竹市)
+2026-05-12 09:31:28 [INFO] [183/506] querying year=107 city=苗栗縣
+2026-05-12 09:31:28 [INFO] sleep 1.88s (before query 107 苗栗縣)
+2026-05-12 09:31:31 [INFO] [183/506] success year=107 city=苗栗縣 rows=1075
+2026-05-12 09:31:31 [INFO] sleep 6.86s (after query combination 107 苗栗縣)
+2026-05-12 09:31:38 [INFO] [184/506] querying year=107 city=臺中市
+2026-05-12 09:31:38 [INFO] sleep 1.76s (before query 107 臺中市)
+2026-05-12 09:31:40 [INFO] [184/506] success year=107 city=臺中市 rows=578
+2026-05-12 09:31:41 [INFO] sleep 8.84s (after query combination 107 臺中市)
+2026-05-12 09:31:49 [INFO] [185/506] querying year=107 city=南投縣
+2026-05-12 09:31:49 [INFO] sleep 4.40s (before query 107 南投縣)
+2026-05-12 09:31:55 [INFO] [185/506] success year=107 city=南投縣 rows=932
+2026-05-12 09:31:55 [INFO] sleep 14.89s (after query combination 107 南投縣)
+2026-05-12 09:32:10 [INFO] [186/506] querying year=107 city=彰化縣
+2026-05-12 09:32:10 [INFO] sleep 3.41s (before query 107 彰化縣)
+2026-05-12 09:32:14 [INFO] [186/506] success year=107 city=彰化縣 rows=435
+2026-05-12 09:32:14 [INFO] sleep 5.23s (after query combination 107 彰化縣)
+2026-05-12 09:32:19 [INFO] [187/506] querying year=107 city=雲林縣
+2026-05-12 09:32:19 [INFO] sleep 4.34s (before query 107 雲林縣)
+2026-05-12 09:32:24 [INFO] [187/506] success year=107 city=雲林縣 rows=390
+2026-05-12 09:32:24 [INFO] sleep 5.89s (after query combination 107 雲林縣)
+2026-05-12 09:32:30 [INFO] [188/506] querying year=107 city=嘉義縣
+2026-05-12 09:32:30 [INFO] sleep 2.52s (before query 107 嘉義縣)
+2026-05-12 09:32:33 [INFO] [188/506] success year=107 city=嘉義縣 rows=428
+2026-05-12 09:32:33 [INFO] sleep 7.17s (after query combination 107 嘉義縣)
+2026-05-12 09:32:40 [INFO] [189/506] querying year=107 city=嘉義市
+2026-05-12 09:32:40 [INFO] sleep 3.96s (before query 107 嘉義市)
+2026-05-12 09:32:44 [INFO] [189/506] success year=107 city=嘉義市 rows=17
+2026-05-12 09:32:44 [INFO] sleep 10.62s (after query combination 107 嘉義市)
+2026-05-12 09:32:55 [INFO] [190/506] querying year=107 city=臺南市
+2026-05-12 09:32:55 [INFO] sleep 2.37s (before query 107 臺南市)
+2026-05-12 09:32:58 [INFO] [190/506] success year=107 city=臺南市 rows=525
+2026-05-12 09:32:58 [INFO] sleep 12.95s (after query combination 107 臺南市)
+2026-05-12 09:33:11 [INFO] [191/506] querying year=107 city=高雄市
+2026-05-12 09:33:11 [INFO] sleep 1.86s (before query 107 高雄市)
+2026-05-12 09:33:14 [INFO] [191/506] success year=107 city=高雄市 rows=1006
+2026-05-12 09:33:14 [INFO] sleep 9.28s (after query combination 107 高雄市)
+2026-05-12 09:33:23 [INFO] [192/506] querying year=107 city=屏東縣
+2026-05-12 09:33:23 [INFO] sleep 1.57s (before query 107 屏東縣)
+2026-05-12 09:33:26 [INFO] [192/506] success year=107 city=屏東縣 rows=961
+2026-05-12 09:33:26 [INFO] sleep 14.14s (after query combination 107 屏東縣)
+2026-05-12 09:33:40 [INFO] [193/506] querying year=107 city=宜蘭縣
+2026-05-12 09:33:40 [INFO] sleep 4.46s (before query 107 宜蘭縣)
+2026-05-12 09:33:45 [INFO] [193/506] success year=107 city=宜蘭縣 rows=409
+2026-05-12 09:33:45 [INFO] sleep 9.11s (after query combination 107 宜蘭縣)
+2026-05-12 09:33:54 [INFO] [194/506] querying year=107 city=花蓮縣
+2026-05-12 09:33:54 [INFO] sleep 3.65s (before query 107 花蓮縣)
+2026-05-12 09:33:58 [INFO] [194/506] success year=107 city=花蓮縣 rows=388
+2026-05-12 09:33:58 [INFO] sleep 13.24s (after query combination 107 花蓮縣)
+2026-05-12 09:34:11 [INFO] [195/506] querying year=107 city=臺東縣
+2026-05-12 09:34:11 [INFO] sleep 2.28s (before query 107 臺東縣)
+2026-05-12 09:34:15 [INFO] [195/506] success year=107 city=臺東縣 rows=732
+2026-05-12 09:34:15 [INFO] sleep 11.85s (after query combination 107 臺東縣)
+2026-05-12 09:34:26 [INFO] [196/506] querying year=107 city=金門縣
+2026-05-12 09:34:26 [INFO] sleep 3.05s (before query 107 金門縣)
+2026-05-12 09:34:30 [INFO] [196/506] success year=107 city=金門縣 rows=67
+2026-05-12 09:34:30 [INFO] sleep 12.62s (after query combination 107 金門縣)
+2026-05-12 09:34:43 [INFO] [197/506] querying year=107 city=澎湖縣
+2026-05-12 09:34:43 [INFO] sleep 3.14s (before query 107 澎湖縣)
+2026-05-12 09:34:46 [INFO] [197/506] success year=107 city=澎湖縣 rows=57
+2026-05-12 09:34:46 [INFO] sleep 10.71s (after query combination 107 澎湖縣)
+2026-05-12 09:34:57 [INFO] [198/506] querying year=107 city=連江縣
+2026-05-12 09:34:57 [INFO] sleep 1.73s (before query 107 連江縣)
+2026-05-12 09:34:59 [INFO] [198/506] success year=107 city=連江縣 rows=3
+2026-05-12 09:34:59 [INFO] sleep 12.82s (after query combination 107 連江縣)
+2026-05-12 09:35:12 [INFO] [199/506] querying year=106 city=基隆市
+2026-05-12 09:35:12 [INFO] sleep 3.65s (before query 106 基隆市)
+2026-05-12 09:35:16 [INFO] [199/506] success year=106 city=基隆市 rows=20
+2026-05-12 09:35:16 [INFO] sleep 9.74s (after query combination 106 基隆市)
+2026-05-12 09:35:26 [INFO] [200/506] querying year=106 city=臺北市
+2026-05-12 09:35:26 [INFO] sleep 2.01s (before query 106 臺北市)
+2026-05-12 09:35:28 [INFO] [200/506] success year=106 city=臺北市 rows=15
+2026-05-12 09:35:28 [INFO] sleep 14.16s (after query combination 106 臺北市)
+2026-05-12 09:35:42 [INFO] [201/506] querying year=106 city=新北市
+2026-05-12 09:35:42 [INFO] sleep 1.64s (before query 106 新北市)
+2026-05-12 09:35:44 [INFO] [201/506] success year=106 city=新北市 rows=471
+2026-05-12 09:35:44 [INFO] sleep 14.39s (after query combination 106 新北市)
+2026-05-12 09:35:59 [INFO] [202/506] querying year=106 city=桃園市
+2026-05-12 09:35:59 [INFO] sleep 1.88s (before query 106 桃園市)
+2026-05-12 09:36:01 [INFO] [202/506] success year=106 city=桃園市 rows=391
+2026-05-12 09:36:01 [INFO] sleep 8.43s (after query combination 106 桃園市)
+2026-05-12 09:36:10 [INFO] [203/506] querying year=106 city=新竹縣
+2026-05-12 09:36:10 [INFO] sleep 1.54s (before query 106 新竹縣)
+2026-05-12 09:36:12 [INFO] [203/506] success year=106 city=新竹縣 rows=591
+2026-05-12 09:36:12 [INFO] sleep 9.94s (after query combination 106 新竹縣)
+2026-05-12 09:36:22 [INFO] [204/506] querying year=106 city=新竹市
+2026-05-12 09:36:22 [INFO] sleep 3.43s (before query 106 新竹市)
+2026-05-12 09:36:26 [INFO] [204/506] success year=106 city=新竹市 rows=83
+2026-05-12 09:36:26 [INFO] sleep 6.76s (after query combination 106 新竹市)
+2026-05-12 09:36:33 [INFO] [205/506] querying year=106 city=苗栗縣
+2026-05-12 09:36:33 [INFO] sleep 1.72s (before query 106 苗栗縣)
+2026-05-12 09:36:35 [INFO] [205/506] success year=106 city=苗栗縣 rows=1067
+2026-05-12 09:36:35 [INFO] sleep 10.91s (after query combination 106 苗栗縣)
+2026-05-12 09:36:46 [INFO] [206/506] querying year=106 city=臺中市
+2026-05-12 09:36:46 [INFO] sleep 1.71s (before query 106 臺中市)
+2026-05-12 09:36:49 [INFO] [206/506] success year=106 city=臺中市 rows=696
+2026-05-12 09:36:49 [INFO] sleep 8.49s (after query combination 106 臺中市)
+2026-05-12 09:36:57 [INFO] [207/506] querying year=106 city=南投縣
+2026-05-12 09:36:57 [INFO] sleep 3.95s (before query 106 南投縣)
+2026-05-12 09:37:02 [INFO] [207/506] success year=106 city=南投縣 rows=1311
+2026-05-12 09:37:02 [INFO] sleep 9.68s (after query combination 106 南投縣)
+2026-05-12 09:37:12 [INFO] [208/506] querying year=106 city=彰化縣
+2026-05-12 09:37:12 [INFO] sleep 2.12s (before query 106 彰化縣)
+2026-05-12 09:37:15 [INFO] [208/506] success year=106 city=彰化縣 rows=340
+2026-05-12 09:37:15 [INFO] sleep 12.47s (after query combination 106 彰化縣)
+2026-05-12 09:37:27 [INFO] [209/506] querying year=106 city=雲林縣
+2026-05-12 09:37:27 [INFO] sleep 2.86s (before query 106 雲林縣)
+2026-05-12 09:37:31 [INFO] [209/506] success year=106 city=雲林縣 rows=247
+2026-05-12 09:37:31 [INFO] sleep 10.12s (after query combination 106 雲林縣)
+2026-05-12 09:37:41 [INFO] [210/506] querying year=106 city=嘉義縣
+2026-05-12 09:37:41 [INFO] sleep 2.54s (before query 106 嘉義縣)
+2026-05-12 09:37:44 [INFO] [210/506] success year=106 city=嘉義縣 rows=416
+2026-05-12 09:37:44 [INFO] sleep 10.27s (after query combination 106 嘉義縣)
+2026-05-12 09:37:54 [INFO] [211/506] querying year=106 city=嘉義市
+2026-05-12 09:37:54 [INFO] sleep 3.20s (before query 106 嘉義市)
+2026-05-12 09:37:58 [INFO] [211/506] success year=106 city=嘉義市 rows=18
+2026-05-12 09:37:58 [INFO] sleep 9.50s (after query combination 106 嘉義市)
+2026-05-12 09:38:07 [INFO] [212/506] querying year=106 city=臺南市
+2026-05-12 09:38:07 [INFO] sleep 3.33s (before query 106 臺南市)
+2026-05-12 09:38:11 [INFO] [212/506] success year=106 city=臺南市 rows=797
+2026-05-12 09:38:11 [INFO] sleep 7.79s (after query combination 106 臺南市)
+2026-05-12 09:38:19 [INFO] [213/506] querying year=106 city=高雄市
+2026-05-12 09:38:19 [INFO] sleep 2.09s (before query 106 高雄市)
+2026-05-12 09:38:22 [INFO] [213/506] success year=106 city=高雄市 rows=736
+2026-05-12 09:38:22 [INFO] sleep 7.77s (after query combination 106 高雄市)
+2026-05-12 09:38:30 [INFO] [214/506] querying year=106 city=屏東縣
+2026-05-12 09:38:30 [INFO] sleep 4.32s (before query 106 屏東縣)
+2026-05-12 09:38:35 [INFO] [214/506] success year=106 city=屏東縣 rows=499
+2026-05-12 09:38:35 [INFO] sleep 12.79s (after query combination 106 屏東縣)
+2026-05-12 09:38:48 [INFO] [215/506] querying year=106 city=宜蘭縣
+2026-05-12 09:38:48 [INFO] sleep 2.28s (before query 106 宜蘭縣)
+2026-05-12 09:38:50 [INFO] [215/506] success year=106 city=宜蘭縣 rows=211
+2026-05-12 09:38:50 [INFO] sleep 7.46s (after query combination 106 宜蘭縣)
+2026-05-12 09:38:58 [INFO] [216/506] querying year=106 city=花蓮縣
+2026-05-12 09:38:58 [INFO] sleep 3.73s (before query 106 花蓮縣)
+2026-05-12 09:39:02 [INFO] [216/506] success year=106 city=花蓮縣 rows=890
+2026-05-12 09:39:02 [INFO] sleep 5.51s (after query combination 106 花蓮縣)
+2026-05-12 09:39:08 [INFO] [217/506] querying year=106 city=臺東縣
+2026-05-12 09:39:08 [INFO] sleep 2.47s (before query 106 臺東縣)
+2026-05-12 09:39:11 [INFO] [217/506] success year=106 city=臺東縣 rows=572
+2026-05-12 09:39:11 [INFO] sleep 7.91s (after query combination 106 臺東縣)
+2026-05-12 09:39:19 [INFO] [218/506] querying year=106 city=金門縣
+2026-05-12 09:39:19 [INFO] sleep 3.46s (before query 106 金門縣)
+2026-05-12 09:39:23 [INFO] [218/506] success year=106 city=金門縣 rows=213
+2026-05-12 09:39:23 [INFO] sleep 8.86s (after query combination 106 金門縣)
+2026-05-12 09:39:32 [INFO] [219/506] querying year=106 city=澎湖縣
+2026-05-12 09:39:32 [INFO] sleep 3.75s (before query 106 澎湖縣)
+2026-05-12 09:39:36 [INFO] [219/506] success year=106 city=澎湖縣 rows=68
+2026-05-12 09:39:36 [INFO] sleep 14.29s (after query combination 106 澎湖縣)
+2026-05-12 09:39:50 [INFO] [220/506] querying year=106 city=連江縣
+2026-05-12 09:39:50 [INFO] sleep 1.72s (before query 106 連江縣)
+2026-05-12 09:39:53 [INFO] [220/506] success year=106 city=連江縣 rows=6
+2026-05-12 09:39:53 [INFO] sleep 10.47s (after query combination 106 連江縣)
+2026-05-12 09:40:03 [INFO] [221/506] querying year=105 city=基隆市
+2026-05-12 09:40:03 [INFO] sleep 4.54s (before query 105 基隆市)
+2026-05-12 09:40:08 [INFO] [221/506] success year=105 city=基隆市 rows=1
+2026-05-12 09:40:08 [INFO] sleep 12.03s (after query combination 105 基隆市)
+2026-05-12 09:40:20 [INFO] [222/506] querying year=105 city=臺北市
+2026-05-12 09:40:20 [INFO] sleep 4.91s (before query 105 臺北市)
+2026-05-12 09:40:25 [INFO] [222/506] success year=105 city=臺北市 rows=10
+2026-05-12 09:40:25 [INFO] sleep 10.22s (after query combination 105 臺北市)
+2026-05-12 09:40:36 [INFO] [223/506] querying year=105 city=新北市
+2026-05-12 09:40:36 [INFO] sleep 3.00s (before query 105 新北市)
+2026-05-12 09:40:39 [INFO] [223/506] success year=105 city=新北市 rows=220
+2026-05-12 09:40:39 [INFO] sleep 12.37s (after query combination 105 新北市)
+2026-05-12 09:40:51 [INFO] [224/506] querying year=105 city=桃園市
+2026-05-12 09:40:51 [INFO] sleep 1.71s (before query 105 桃園市)
+2026-05-12 09:40:54 [INFO] [224/506] success year=105 city=桃園市 rows=278
+2026-05-12 09:40:54 [INFO] sleep 7.50s (after query combination 105 桃園市)
+2026-05-12 09:41:01 [INFO] [225/506] querying year=105 city=新竹縣
+2026-05-12 09:41:01 [INFO] sleep 2.48s (before query 105 新竹縣)
+2026-05-12 09:41:04 [INFO] [225/506] success year=105 city=新竹縣 rows=510
+2026-05-12 09:41:04 [INFO] sleep 5.63s (after query combination 105 新竹縣)
+2026-05-12 09:41:10 [INFO] [226/506] querying year=105 city=新竹市
+2026-05-12 09:41:10 [INFO] sleep 4.52s (before query 105 新竹市)
+2026-05-12 09:41:15 [INFO] [226/506] success year=105 city=新竹市 rows=22
+2026-05-12 09:41:15 [INFO] sleep 5.74s (after query combination 105 新竹市)
+2026-05-12 09:41:21 [INFO] [227/506] querying year=105 city=苗栗縣
+2026-05-12 09:41:21 [INFO] sleep 3.74s (before query 105 苗栗縣)
+2026-05-12 09:41:25 [INFO] [227/506] success year=105 city=苗栗縣 rows=1051
+2026-05-12 09:41:25 [INFO] sleep 7.54s (after query combination 105 苗栗縣)
+2026-05-12 09:41:33 [INFO] [228/506] querying year=105 city=臺中市
+2026-05-12 09:41:33 [INFO] sleep 4.11s (before query 105 臺中市)
+2026-05-12 09:41:38 [INFO] [228/506] success year=105 city=臺中市 rows=748
+2026-05-12 09:41:38 [INFO] sleep 6.92s (after query combination 105 臺中市)
+2026-05-12 09:41:45 [INFO] [229/506] querying year=105 city=南投縣
+2026-05-12 09:41:45 [INFO] sleep 3.43s (before query 105 南投縣)
+2026-05-12 09:41:49 [INFO] [229/506] success year=105 city=南投縣 rows=1139
+2026-05-12 09:41:49 [INFO] sleep 12.13s (after query combination 105 南投縣)
+2026-05-12 09:42:01 [INFO] [230/506] querying year=105 city=彰化縣
+2026-05-12 09:42:01 [INFO] sleep 3.56s (before query 105 彰化縣)
+2026-05-12 09:42:05 [INFO] [230/506] success year=105 city=彰化縣 rows=629
+2026-05-12 09:42:05 [INFO] sleep 13.39s (after query combination 105 彰化縣)
+2026-05-12 09:42:19 [INFO] [231/506] querying year=105 city=雲林縣
+2026-05-12 09:42:19 [INFO] sleep 4.20s (before query 105 雲林縣)
+2026-05-12 09:42:24 [INFO] [231/506] success year=105 city=雲林縣 rows=415
+2026-05-12 09:42:24 [INFO] sleep 8.76s (after query combination 105 雲林縣)
+2026-05-12 09:42:32 [INFO] [232/506] querying year=105 city=嘉義縣
+2026-05-12 09:42:32 [INFO] sleep 2.10s (before query 105 嘉義縣)
+2026-05-12 09:42:35 [INFO] [232/506] success year=105 city=嘉義縣 rows=439
+2026-05-12 09:42:35 [INFO] sleep 5.76s (after query combination 105 嘉義縣)
+2026-05-12 09:42:41 [INFO] [233/506] querying year=105 city=嘉義市
+2026-05-12 09:42:41 [INFO] sleep 3.51s (before query 105 嘉義市)
+2026-05-12 09:42:45 [INFO] [233/506] success year=105 city=嘉義市 rows=13
+2026-05-12 09:42:45 [INFO] sleep 14.00s (after query combination 105 嘉義市)
+2026-05-12 09:42:59 [INFO] [234/506] querying year=105 city=臺南市
+2026-05-12 09:42:59 [INFO] sleep 2.20s (before query 105 臺南市)
+2026-05-12 09:43:02 [INFO] [234/506] success year=105 city=臺南市 rows=801
+2026-05-12 09:43:02 [INFO] sleep 9.16s (after query combination 105 臺南市)
+2026-05-12 09:43:11 [INFO] [235/506] querying year=105 city=高雄市
+2026-05-12 09:43:11 [INFO] sleep 4.84s (before query 105 高雄市)
+2026-05-12 09:43:17 [INFO] [235/506] success year=105 city=高雄市 rows=671
+2026-05-12 09:43:17 [INFO] sleep 9.74s (after query combination 105 高雄市)
+2026-05-12 09:43:26 [INFO] [236/506] querying year=105 city=屏東縣
+2026-05-12 09:43:26 [INFO] sleep 3.03s (before query 105 屏東縣)
+2026-05-12 09:43:30 [INFO] [236/506] success year=105 city=屏東縣 rows=729
+2026-05-12 09:43:30 [INFO] sleep 13.92s (after query combination 105 屏東縣)
+2026-05-12 09:43:44 [INFO] [237/506] querying year=105 city=宜蘭縣
+2026-05-12 09:43:44 [INFO] sleep 4.74s (before query 105 宜蘭縣)
+2026-05-12 09:43:49 [INFO] [237/506] success year=105 city=宜蘭縣 rows=201
+2026-05-12 09:43:49 [INFO] sleep 8.21s (after query combination 105 宜蘭縣)
+2026-05-12 09:43:58 [INFO] [238/506] querying year=105 city=花蓮縣
+2026-05-12 09:43:58 [INFO] sleep 1.87s (before query 105 花蓮縣)
+2026-05-12 09:44:00 [INFO] [238/506] success year=105 city=花蓮縣 rows=796
+2026-05-12 09:44:00 [INFO] sleep 7.14s (after query combination 105 花蓮縣)
+2026-05-12 09:44:07 [INFO] [239/506] querying year=105 city=臺東縣
+2026-05-12 09:44:07 [INFO] sleep 1.65s (before query 105 臺東縣)
+2026-05-12 09:44:10 [INFO] [239/506] success year=105 city=臺東縣 rows=669
+2026-05-12 09:44:10 [INFO] sleep 11.16s (after query combination 105 臺東縣)
+2026-05-12 09:44:21 [INFO] [240/506] querying year=105 city=金門縣
+2026-05-12 09:44:21 [INFO] sleep 4.16s (before query 105 金門縣)
+2026-05-12 09:44:26 [INFO] [240/506] success year=105 city=金門縣 rows=70
+2026-05-12 09:44:26 [INFO] sleep 14.10s (after query combination 105 金門縣)
+2026-05-12 09:44:40 [INFO] [241/506] querying year=105 city=澎湖縣
+2026-05-12 09:44:40 [INFO] sleep 3.23s (before query 105 澎湖縣)
+2026-05-12 09:44:43 [INFO] [241/506] success year=105 city=澎湖縣 rows=42
+2026-05-12 09:44:43 [INFO] sleep 6.58s (after query combination 105 澎湖縣)
+2026-05-12 09:44:50 [INFO] [242/506] querying year=105 city=連江縣
+2026-05-12 09:44:50 [INFO] sleep 4.72s (before query 105 連江縣)
+2026-05-12 09:44:55 [INFO] [242/506] no_data year=105 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 09:44:55 [INFO] sleep 8.40s (after query combination 105 連江縣)
+2026-05-12 09:45:04 [INFO] [243/506] querying year=104 city=基隆市
+2026-05-12 09:45:04 [INFO] sleep 1.94s (before query 104 基隆市)
+2026-05-12 09:45:06 [INFO] [243/506] success year=104 city=基隆市 rows=9
+2026-05-12 09:45:06 [INFO] sleep 14.02s (after query combination 104 基隆市)
+2026-05-12 09:45:20 [INFO] [244/506] querying year=104 city=臺北市
+2026-05-12 09:45:20 [INFO] sleep 4.53s (before query 104 臺北市)
+2026-05-12 09:45:25 [INFO] [244/506] success year=104 city=臺北市 rows=9
+2026-05-12 09:45:25 [INFO] sleep 7.46s (after query combination 104 臺北市)
+2026-05-12 09:45:32 [INFO] [245/506] querying year=104 city=新北市
+2026-05-12 09:45:32 [INFO] sleep 3.44s (before query 104 新北市)
+2026-05-12 09:45:36 [INFO] [245/506] success year=104 city=新北市 rows=344
+2026-05-12 09:45:36 [INFO] sleep 8.33s (after query combination 104 新北市)
+2026-05-12 09:45:45 [INFO] [246/506] querying year=104 city=桃園市
+2026-05-12 09:45:45 [INFO] sleep 4.06s (before query 104 桃園市)
+2026-05-12 09:45:49 [INFO] [246/506] success year=104 city=桃園市 rows=180
+2026-05-12 09:45:49 [INFO] sleep 5.72s (after query combination 104 桃園市)
+2026-05-12 09:45:55 [INFO] [247/506] querying year=104 city=新竹縣
+2026-05-12 09:45:55 [INFO] sleep 4.01s (before query 104 新竹縣)
+2026-05-12 09:45:59 [INFO] [247/506] success year=104 city=新竹縣 rows=281
+2026-05-12 09:45:59 [INFO] sleep 5.29s (after query combination 104 新竹縣)
+2026-05-12 09:46:05 [INFO] [248/506] querying year=104 city=新竹市
+2026-05-12 09:46:05 [INFO] sleep 2.82s (before query 104 新竹市)
+2026-05-12 09:46:08 [INFO] [248/506] success year=104 city=新竹市 rows=40
+2026-05-12 09:46:08 [INFO] sleep 14.62s (after query combination 104 新竹市)
+2026-05-12 09:46:23 [INFO] [249/506] querying year=104 city=苗栗縣
+2026-05-12 09:46:23 [INFO] sleep 3.27s (before query 104 苗栗縣)
+2026-05-12 09:46:26 [INFO] [249/506] success year=104 city=苗栗縣 rows=526
+2026-05-12 09:46:26 [INFO] sleep 10.31s (after query combination 104 苗栗縣)
+2026-05-12 09:46:37 [INFO] [250/506] querying year=104 city=臺中市
+2026-05-12 09:46:37 [INFO] sleep 2.54s (before query 104 臺中市)
+2026-05-12 09:46:40 [INFO] [250/506] success year=104 city=臺中市 rows=483
+2026-05-12 09:46:40 [INFO] sleep 10.59s (after query combination 104 臺中市)
+2026-05-12 09:46:50 [INFO] [251/506] querying year=104 city=南投縣
+2026-05-12 09:46:50 [INFO] sleep 4.96s (before query 104 南投縣)
+2026-05-12 09:46:56 [INFO] [251/506] success year=104 city=南投縣 rows=1024
+2026-05-12 09:46:56 [INFO] sleep 14.06s (after query combination 104 南投縣)
+2026-05-12 09:47:10 [INFO] [252/506] querying year=104 city=彰化縣
+2026-05-12 09:47:10 [INFO] sleep 1.64s (before query 104 彰化縣)
+2026-05-12 09:47:13 [INFO] [252/506] success year=104 city=彰化縣 rows=459
+2026-05-12 09:47:13 [INFO] sleep 13.85s (after query combination 104 彰化縣)
+2026-05-12 09:47:27 [INFO] [253/506] querying year=104 city=雲林縣
+2026-05-12 09:47:27 [INFO] sleep 3.85s (before query 104 雲林縣)
+2026-05-12 09:47:31 [INFO] [253/506] success year=104 city=雲林縣 rows=380
+2026-05-12 09:47:31 [INFO] sleep 7.06s (after query combination 104 雲林縣)
+2026-05-12 09:47:38 [INFO] [254/506] querying year=104 city=嘉義縣
+2026-05-12 09:47:38 [INFO] sleep 1.64s (before query 104 嘉義縣)
+2026-05-12 09:47:40 [INFO] [254/506] success year=104 city=嘉義縣 rows=248
+2026-05-12 09:47:40 [INFO] sleep 14.25s (after query combination 104 嘉義縣)
+2026-05-12 09:47:54 [INFO] [255/506] querying year=104 city=嘉義市
+2026-05-12 09:47:54 [INFO] sleep 2.85s (before query 104 嘉義市)
+2026-05-12 09:47:58 [INFO] [255/506] success year=104 city=嘉義市 rows=12
+2026-05-12 09:47:58 [INFO] sleep 13.52s (after query combination 104 嘉義市)
+2026-05-12 09:48:11 [INFO] [256/506] querying year=104 city=臺南市
+2026-05-12 09:48:11 [INFO] sleep 4.26s (before query 104 臺南市)
+2026-05-12 09:48:16 [INFO] [256/506] success year=104 city=臺南市 rows=366
+2026-05-12 09:48:16 [INFO] sleep 10.37s (after query combination 104 臺南市)
+2026-05-12 09:48:26 [INFO] [257/506] querying year=104 city=高雄市
+2026-05-12 09:48:26 [INFO] sleep 3.75s (before query 104 高雄市)
+2026-05-12 09:48:31 [INFO] [257/506] success year=104 city=高雄市 rows=528
+2026-05-12 09:48:31 [INFO] sleep 9.59s (after query combination 104 高雄市)
+2026-05-12 09:48:40 [INFO] [258/506] querying year=104 city=屏東縣
+2026-05-12 09:48:40 [INFO] sleep 4.90s (before query 104 屏東縣)
+2026-05-12 09:48:46 [INFO] [258/506] success year=104 city=屏東縣 rows=575
+2026-05-12 09:48:46 [INFO] sleep 5.52s (after query combination 104 屏東縣)
+2026-05-12 09:48:51 [INFO] [259/506] querying year=104 city=宜蘭縣
+2026-05-12 09:48:51 [INFO] sleep 2.76s (before query 104 宜蘭縣)
+2026-05-12 09:48:55 [INFO] [259/506] success year=104 city=宜蘭縣 rows=116
+2026-05-12 09:48:55 [INFO] sleep 13.34s (after query combination 104 宜蘭縣)
+2026-05-12 09:49:08 [INFO] [260/506] querying year=104 city=花蓮縣
+2026-05-12 09:49:08 [INFO] sleep 3.51s (before query 104 花蓮縣)
+2026-05-12 09:49:12 [INFO] [260/506] success year=104 city=花蓮縣 rows=713
+2026-05-12 09:49:12 [INFO] sleep 7.05s (after query combination 104 花蓮縣)
+2026-05-12 09:49:19 [INFO] [261/506] querying year=104 city=臺東縣
+2026-05-12 09:49:19 [INFO] sleep 3.71s (before query 104 臺東縣)
+2026-05-12 09:49:24 [INFO] [261/506] success year=104 city=臺東縣 rows=641
+2026-05-12 09:49:24 [INFO] sleep 12.50s (after query combination 104 臺東縣)
+2026-05-12 09:49:36 [INFO] [262/506] querying year=104 city=金門縣
+2026-05-12 09:49:36 [INFO] sleep 4.76s (before query 104 金門縣)
+2026-05-12 09:49:41 [INFO] [262/506] success year=104 city=金門縣 rows=26
+2026-05-12 09:49:42 [INFO] sleep 8.19s (after query combination 104 金門縣)
+2026-05-12 09:49:50 [INFO] [263/506] querying year=104 city=澎湖縣
+2026-05-12 09:49:50 [INFO] sleep 2.60s (before query 104 澎湖縣)
+2026-05-12 09:49:53 [INFO] [263/506] success year=104 city=澎湖縣 rows=65
+2026-05-12 09:49:53 [INFO] sleep 11.10s (after query combination 104 澎湖縣)
+2026-05-12 09:50:04 [INFO] [264/506] querying year=104 city=連江縣
+2026-05-12 09:50:04 [INFO] sleep 3.38s (before query 104 連江縣)
+2026-05-12 09:50:08 [INFO] [264/506] no_data year=104 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 09:50:08 [INFO] sleep 6.74s (after query combination 104 連江縣)
+2026-05-12 09:50:15 [INFO] [265/506] querying year=103 city=基隆市
+2026-05-12 09:50:15 [INFO] sleep 1.54s (before query 103 基隆市)
+2026-05-12 09:50:17 [INFO] [265/506] success year=103 city=基隆市 rows=15
+2026-05-12 09:50:17 [INFO] sleep 7.71s (after query combination 103 基隆市)
+2026-05-12 09:50:25 [INFO] [266/506] querying year=103 city=臺北市
+2026-05-12 09:50:25 [INFO] sleep 4.07s (before query 103 臺北市)
+2026-05-12 09:50:29 [INFO] [266/506] success year=103 city=臺北市 rows=11
+2026-05-12 09:50:29 [INFO] sleep 8.88s (after query combination 103 臺北市)
+2026-05-12 09:50:38 [INFO] [267/506] querying year=103 city=新北市
+2026-05-12 09:50:38 [INFO] sleep 4.81s (before query 103 新北市)
+2026-05-12 09:50:43 [INFO] [267/506] success year=103 city=新北市 rows=200
+2026-05-12 09:50:43 [INFO] sleep 13.82s (after query combination 103 新北市)
+2026-05-12 09:50:57 [INFO] [268/506] querying year=103 city=桃園市
+2026-05-12 09:50:57 [INFO] sleep 4.16s (before query 103 桃園市)
+2026-05-12 09:51:02 [INFO] [268/506] success year=103 city=桃園市 rows=435
+2026-05-12 09:51:02 [INFO] sleep 5.82s (after query combination 103 桃園市)
+2026-05-12 09:51:08 [INFO] [269/506] querying year=103 city=新竹縣
+2026-05-12 09:51:08 [INFO] sleep 4.37s (before query 103 新竹縣)
+2026-05-12 09:51:12 [INFO] [269/506] success year=103 city=新竹縣 rows=334
+2026-05-12 09:51:13 [INFO] sleep 6.51s (after query combination 103 新竹縣)
+2026-05-12 09:51:19 [INFO] [270/506] querying year=103 city=新竹市
+2026-05-12 09:51:19 [INFO] sleep 3.71s (before query 103 新竹市)
+2026-05-12 09:51:23 [INFO] [270/506] success year=103 city=新竹市 rows=13
+2026-05-12 09:51:23 [INFO] sleep 10.05s (after query combination 103 新竹市)
+2026-05-12 09:51:33 [INFO] [271/506] querying year=103 city=苗栗縣
+2026-05-12 09:51:33 [INFO] sleep 2.83s (before query 103 苗栗縣)
+2026-05-12 09:51:37 [INFO] [271/506] success year=103 city=苗栗縣 rows=282
+2026-05-12 09:51:37 [INFO] sleep 5.41s (after query combination 103 苗栗縣)
+2026-05-12 09:51:42 [INFO] [272/506] querying year=103 city=臺中市
+2026-05-12 09:51:42 [INFO] sleep 2.28s (before query 103 臺中市)
+2026-05-12 09:51:45 [INFO] [272/506] success year=103 city=臺中市 rows=183
+2026-05-12 09:51:45 [INFO] sleep 6.72s (after query combination 103 臺中市)
+2026-05-12 09:51:51 [INFO] [273/506] querying year=103 city=南投縣
+2026-05-12 09:51:51 [INFO] sleep 4.62s (before query 103 南投縣)
+2026-05-12 09:51:57 [INFO] [273/506] success year=103 city=南投縣 rows=396
+2026-05-12 09:51:57 [INFO] sleep 13.05s (after query combination 103 南投縣)
+2026-05-12 09:52:10 [INFO] [274/506] querying year=103 city=彰化縣
+2026-05-12 09:52:10 [INFO] sleep 1.88s (before query 103 彰化縣)
+2026-05-12 09:52:12 [INFO] [274/506] success year=103 city=彰化縣 rows=429
+2026-05-12 09:52:12 [INFO] sleep 14.75s (after query combination 103 彰化縣)
+2026-05-12 09:52:27 [INFO] [275/506] querying year=103 city=雲林縣
+2026-05-12 09:52:27 [INFO] sleep 3.05s (before query 103 雲林縣)
+2026-05-12 09:52:31 [INFO] [275/506] success year=103 city=雲林縣 rows=272
+2026-05-12 09:52:31 [INFO] sleep 5.10s (after query combination 103 雲林縣)
+2026-05-12 09:52:36 [INFO] [276/506] querying year=103 city=嘉義縣
+2026-05-12 09:52:36 [INFO] sleep 4.00s (before query 103 嘉義縣)
+2026-05-12 09:52:40 [INFO] [276/506] success year=103 city=嘉義縣 rows=179
+2026-05-12 09:52:40 [INFO] sleep 7.51s (after query combination 103 嘉義縣)
+2026-05-12 09:52:48 [INFO] [277/506] querying year=103 city=嘉義市
+2026-05-12 09:52:48 [INFO] sleep 3.76s (before query 103 嘉義市)
+2026-05-12 09:52:52 [INFO] [277/506] success year=103 city=嘉義市 rows=4
+2026-05-12 09:52:52 [INFO] sleep 8.92s (after query combination 103 嘉義市)
+2026-05-12 09:53:01 [INFO] [278/506] querying year=103 city=臺南市
+2026-05-12 09:53:01 [INFO] sleep 3.51s (before query 103 臺南市)
+2026-05-12 09:53:05 [INFO] [278/506] success year=103 city=臺南市 rows=321
+2026-05-12 09:53:05 [INFO] sleep 12.34s (after query combination 103 臺南市)
+2026-05-12 09:53:17 [INFO] [279/506] querying year=103 city=高雄市
+2026-05-12 09:53:17 [INFO] sleep 4.59s (before query 103 高雄市)
+2026-05-12 09:53:22 [INFO] [279/506] success year=103 city=高雄市 rows=402
+2026-05-12 09:53:22 [INFO] sleep 14.71s (after query combination 103 高雄市)
+2026-05-12 09:53:37 [INFO] [280/506] querying year=103 city=屏東縣
+2026-05-12 09:53:37 [INFO] sleep 4.08s (before query 103 屏東縣)
+2026-05-12 09:53:42 [INFO] [280/506] success year=103 city=屏東縣 rows=504
+2026-05-12 09:53:42 [INFO] sleep 8.65s (after query combination 103 屏東縣)
+2026-05-12 09:53:50 [INFO] [281/506] querying year=103 city=宜蘭縣
+2026-05-12 09:53:50 [INFO] sleep 3.95s (before query 103 宜蘭縣)
+2026-05-12 09:53:55 [INFO] [281/506] success year=103 city=宜蘭縣 rows=196
+2026-05-12 09:53:55 [INFO] sleep 8.25s (after query combination 103 宜蘭縣)
+2026-05-12 09:54:03 [INFO] [282/506] querying year=103 city=花蓮縣
+2026-05-12 09:54:03 [INFO] sleep 3.13s (before query 103 花蓮縣)
+2026-05-12 09:54:07 [INFO] [282/506] success year=103 city=花蓮縣 rows=228
+2026-05-12 09:54:07 [INFO] sleep 11.66s (after query combination 103 花蓮縣)
+2026-05-12 09:54:18 [INFO] [283/506] querying year=103 city=臺東縣
+2026-05-12 09:54:18 [INFO] sleep 4.07s (before query 103 臺東縣)
+2026-05-12 09:54:23 [INFO] [283/506] success year=103 city=臺東縣 rows=326
+2026-05-12 09:54:23 [INFO] sleep 12.51s (after query combination 103 臺東縣)
+2026-05-12 09:54:35 [INFO] [284/506] querying year=103 city=金門縣
+2026-05-12 09:54:35 [INFO] sleep 4.04s (before query 103 金門縣)
+2026-05-12 09:54:40 [INFO] [284/506] success year=103 city=金門縣 rows=26
+2026-05-12 09:54:40 [INFO] sleep 14.96s (after query combination 103 金門縣)
+2026-05-12 09:54:55 [INFO] [285/506] querying year=103 city=澎湖縣
+2026-05-12 09:54:55 [INFO] sleep 3.92s (before query 103 澎湖縣)
+2026-05-12 09:54:59 [INFO] [285/506] success year=103 city=澎湖縣 rows=14
+2026-05-12 09:54:59 [INFO] sleep 14.73s (after query combination 103 澎湖縣)
+2026-05-12 09:55:14 [INFO] [286/506] querying year=103 city=連江縣
+2026-05-12 09:55:14 [INFO] sleep 3.14s (before query 103 連江縣)
+2026-05-12 09:55:18 [INFO] [286/506] success year=103 city=連江縣 rows=3
+2026-05-12 09:55:18 [INFO] sleep 12.58s (after query combination 103 連江縣)
+2026-05-12 09:55:30 [INFO] [287/506] querying year=102 city=基隆市
+2026-05-12 09:55:30 [INFO] sleep 4.63s (before query 102 基隆市)
+2026-05-12 09:55:35 [INFO] [287/506] success year=102 city=基隆市 rows=1
+2026-05-12 09:55:35 [INFO] sleep 10.12s (after query combination 102 基隆市)
+2026-05-12 09:55:45 [INFO] [288/506] querying year=102 city=臺北市
+2026-05-12 09:55:45 [INFO] sleep 4.03s (before query 102 臺北市)
+2026-05-12 09:55:50 [INFO] [288/506] success year=102 city=臺北市 rows=8
+2026-05-12 09:55:50 [INFO] sleep 10.18s (after query combination 102 臺北市)
+2026-05-12 09:56:00 [INFO] [289/506] querying year=102 city=新北市
+2026-05-12 09:56:00 [INFO] sleep 3.78s (before query 102 新北市)
+2026-05-12 09:56:04 [INFO] [289/506] success year=102 city=新北市 rows=42
+2026-05-12 09:56:04 [INFO] sleep 7.78s (after query combination 102 新北市)
+2026-05-12 09:56:12 [INFO] [290/506] querying year=102 city=桃園市
+2026-05-12 09:56:12 [INFO] sleep 3.78s (before query 102 桃園市)
+2026-05-12 09:56:16 [INFO] [290/506] success year=102 city=桃園市 rows=143
+2026-05-12 09:56:16 [INFO] sleep 14.28s (after query combination 102 桃園市)
+2026-05-12 09:56:30 [INFO] [291/506] querying year=102 city=新竹縣
+2026-05-12 09:56:30 [INFO] sleep 4.22s (before query 102 新竹縣)
+2026-05-12 09:56:35 [INFO] [291/506] success year=102 city=新竹縣 rows=32
+2026-05-12 09:56:35 [INFO] sleep 5.93s (after query combination 102 新竹縣)
+2026-05-12 09:56:41 [INFO] [292/506] querying year=102 city=新竹市
+2026-05-12 09:56:41 [INFO] sleep 2.54s (before query 102 新竹市)
+2026-05-12 09:56:44 [INFO] [292/506] success year=102 city=新竹市 rows=8
+2026-05-12 09:56:44 [INFO] sleep 14.92s (after query combination 102 新竹市)
+2026-05-12 09:56:59 [INFO] [293/506] querying year=102 city=苗栗縣
+2026-05-12 09:56:59 [INFO] sleep 1.54s (before query 102 苗栗縣)
+2026-05-12 09:57:01 [INFO] [293/506] success year=102 city=苗栗縣 rows=57
+2026-05-12 09:57:01 [INFO] sleep 7.45s (after query combination 102 苗栗縣)
+2026-05-12 09:57:08 [INFO] [294/506] querying year=102 city=臺中市
+2026-05-12 09:57:08 [INFO] sleep 3.50s (before query 102 臺中市)
+2026-05-12 09:57:12 [INFO] [294/506] success year=102 city=臺中市 rows=79
+2026-05-12 09:57:12 [INFO] sleep 10.00s (after query combination 102 臺中市)
+2026-05-12 09:57:22 [INFO] [295/506] querying year=102 city=南投縣
+2026-05-12 09:57:22 [INFO] sleep 3.87s (before query 102 南投縣)
+2026-05-12 09:57:27 [INFO] [295/506] success year=102 city=南投縣 rows=34
+2026-05-12 09:57:27 [INFO] sleep 7.42s (after query combination 102 南投縣)
+2026-05-12 09:57:34 [INFO] [296/506] querying year=102 city=彰化縣
+2026-05-12 09:57:34 [INFO] sleep 1.64s (before query 102 彰化縣)
+2026-05-12 09:57:36 [INFO] [296/506] success year=102 city=彰化縣 rows=99
+2026-05-12 09:57:36 [INFO] sleep 5.83s (after query combination 102 彰化縣)
+2026-05-12 09:57:42 [INFO] [297/506] querying year=102 city=雲林縣
+2026-05-12 09:57:42 [INFO] sleep 1.54s (before query 102 雲林縣)
+2026-05-12 09:57:44 [INFO] [297/506] success year=102 city=雲林縣 rows=97
+2026-05-12 09:57:44 [INFO] sleep 12.08s (after query combination 102 雲林縣)
+2026-05-12 09:57:56 [INFO] [298/506] querying year=102 city=嘉義縣
+2026-05-12 09:57:56 [INFO] sleep 2.76s (before query 102 嘉義縣)
+2026-05-12 09:57:59 [INFO] [298/506] success year=102 city=嘉義縣 rows=79
+2026-05-12 09:57:59 [INFO] sleep 5.58s (after query combination 102 嘉義縣)
+2026-05-12 09:58:05 [INFO] [299/506] querying year=102 city=嘉義市
+2026-05-12 09:58:05 [INFO] sleep 3.46s (before query 102 嘉義市)
+2026-05-12 09:58:09 [INFO] [299/506] success year=102 city=嘉義市 rows=3
+2026-05-12 09:58:09 [INFO] sleep 7.16s (after query combination 102 嘉義市)
+2026-05-12 09:58:16 [INFO] [300/506] querying year=102 city=臺南市
+2026-05-12 09:58:16 [INFO] sleep 1.98s (before query 102 臺南市)
+2026-05-12 09:58:18 [INFO] [300/506] success year=102 city=臺南市 rows=108
+2026-05-12 09:58:18 [INFO] sleep 12.90s (after query combination 102 臺南市)
+2026-05-12 09:58:31 [INFO] [301/506] querying year=102 city=高雄市
+2026-05-12 09:58:31 [INFO] sleep 3.56s (before query 102 高雄市)
+2026-05-12 09:58:35 [INFO] [301/506] success year=102 city=高雄市 rows=43
+2026-05-12 09:58:35 [INFO] sleep 13.21s (after query combination 102 高雄市)
+2026-05-12 09:58:48 [INFO] [302/506] querying year=102 city=屏東縣
+2026-05-12 09:58:48 [INFO] sleep 2.76s (before query 102 屏東縣)
+2026-05-12 09:58:52 [INFO] [302/506] success year=102 city=屏東縣 rows=224
+2026-05-12 09:58:52 [INFO] sleep 5.84s (after query combination 102 屏東縣)
+2026-05-12 09:58:58 [INFO] [303/506] querying year=102 city=宜蘭縣
+2026-05-12 09:58:58 [INFO] sleep 4.62s (before query 102 宜蘭縣)
+2026-05-12 09:59:03 [INFO] [303/506] success year=102 city=宜蘭縣 rows=43
+2026-05-12 09:59:03 [INFO] sleep 14.71s (after query combination 102 宜蘭縣)
+2026-05-12 09:59:17 [INFO] [304/506] querying year=102 city=花蓮縣
+2026-05-12 09:59:17 [INFO] sleep 4.77s (before query 102 花蓮縣)
+2026-05-12 09:59:22 [INFO] [304/506] success year=102 city=花蓮縣 rows=33
+2026-05-12 09:59:22 [INFO] sleep 8.66s (after query combination 102 花蓮縣)
+2026-05-12 09:59:31 [INFO] [305/506] querying year=102 city=臺東縣
+2026-05-12 09:59:31 [INFO] sleep 4.20s (before query 102 臺東縣)
+2026-05-12 09:59:36 [INFO] [305/506] success year=102 city=臺東縣 rows=34
+2026-05-12 09:59:36 [INFO] sleep 12.40s (after query combination 102 臺東縣)
+2026-05-12 09:59:48 [INFO] [306/506] querying year=102 city=金門縣
+2026-05-12 09:59:48 [INFO] sleep 3.51s (before query 102 金門縣)
+2026-05-12 09:59:52 [INFO] [306/506] success year=102 city=金門縣 rows=12
+2026-05-12 09:59:52 [INFO] sleep 10.77s (after query combination 102 金門縣)
+2026-05-12 10:00:03 [INFO] [307/506] querying year=102 city=澎湖縣
+2026-05-12 10:00:03 [INFO] sleep 3.72s (before query 102 澎湖縣)
+2026-05-12 10:00:07 [INFO] [307/506] success year=102 city=澎湖縣 rows=26
+2026-05-12 10:00:07 [INFO] sleep 7.97s (after query combination 102 澎湖縣)
+2026-05-12 10:00:15 [INFO] [308/506] querying year=102 city=連江縣
+2026-05-12 10:00:15 [INFO] sleep 2.29s (before query 102 連江縣)
+2026-05-12 10:00:18 [INFO] [308/506] success year=102 city=連江縣 rows=4
+2026-05-12 10:00:18 [INFO] sleep 11.51s (after query combination 102 連江縣)
+2026-05-12 10:00:29 [INFO] [309/506] querying year=101 city=基隆市
+2026-05-12 10:00:29 [INFO] sleep 2.56s (before query 101 基隆市)
+2026-05-12 10:00:32 [INFO] [309/506] success year=101 city=基隆市 rows=2
+2026-05-12 10:00:32 [INFO] sleep 10.57s (after query combination 101 基隆市)
+2026-05-12 10:00:43 [INFO] [310/506] querying year=101 city=臺北市
+2026-05-12 10:00:43 [INFO] sleep 2.05s (before query 101 臺北市)
+2026-05-12 10:00:45 [INFO] [310/506] success year=101 city=臺北市 rows=10
+2026-05-12 10:00:45 [INFO] sleep 12.50s (after query combination 101 臺北市)
+2026-05-12 10:00:58 [INFO] [311/506] querying year=101 city=新北市
+2026-05-12 10:00:58 [INFO] sleep 1.62s (before query 101 新北市)
+2026-05-12 10:01:00 [INFO] [311/506] success year=101 city=新北市 rows=77
+2026-05-12 10:01:00 [INFO] sleep 14.03s (after query combination 101 新北市)
+2026-05-12 10:01:14 [INFO] [312/506] querying year=101 city=桃園市
+2026-05-12 10:01:14 [INFO] sleep 1.70s (before query 101 桃園市)
+2026-05-12 10:01:16 [INFO] [312/506] success year=101 city=桃園市 rows=206
+2026-05-12 10:01:16 [INFO] sleep 6.38s (after query combination 101 桃園市)
+2026-05-12 10:01:22 [INFO] [313/506] querying year=101 city=新竹縣
+2026-05-12 10:01:22 [INFO] sleep 4.83s (before query 101 新竹縣)
+2026-05-12 10:01:28 [INFO] [313/506] success year=101 city=新竹縣 rows=37
+2026-05-12 10:01:28 [INFO] sleep 11.28s (after query combination 101 新竹縣)
+2026-05-12 10:01:39 [INFO] [314/506] querying year=101 city=新竹市
+2026-05-12 10:01:39 [INFO] sleep 4.97s (before query 101 新竹市)
+2026-05-12 10:01:44 [INFO] [314/506] success year=101 city=新竹市 rows=6
+2026-05-12 10:01:44 [INFO] sleep 14.46s (after query combination 101 新竹市)
+2026-05-12 10:01:59 [INFO] [315/506] querying year=101 city=苗栗縣
+2026-05-12 10:01:59 [INFO] sleep 4.30s (before query 101 苗栗縣)
+2026-05-12 10:02:03 [INFO] [315/506] success year=101 city=苗栗縣 rows=34
+2026-05-12 10:02:04 [INFO] sleep 14.38s (after query combination 101 苗栗縣)
+2026-05-12 10:02:18 [INFO] [316/506] querying year=101 city=臺中市
+2026-05-12 10:02:18 [INFO] sleep 1.54s (before query 101 臺中市)
+2026-05-12 10:02:20 [INFO] [316/506] success year=101 city=臺中市 rows=69
+2026-05-12 10:02:20 [INFO] sleep 11.11s (after query combination 101 臺中市)
+2026-05-12 10:02:31 [INFO] [317/506] querying year=101 city=南投縣
+2026-05-12 10:02:31 [INFO] sleep 2.74s (before query 101 南投縣)
+2026-05-12 10:02:34 [INFO] [317/506] success year=101 city=南投縣 rows=40
+2026-05-12 10:02:34 [INFO] sleep 13.52s (after query combination 101 南投縣)
+2026-05-12 10:02:48 [INFO] [318/506] querying year=101 city=彰化縣
+2026-05-12 10:02:48 [INFO] sleep 2.23s (before query 101 彰化縣)
+2026-05-12 10:02:50 [INFO] [318/506] success year=101 city=彰化縣 rows=82
+2026-05-12 10:02:50 [INFO] sleep 8.24s (after query combination 101 彰化縣)
+2026-05-12 10:02:59 [INFO] [319/506] querying year=101 city=雲林縣
+2026-05-12 10:02:59 [INFO] sleep 3.56s (before query 101 雲林縣)
+2026-05-12 10:03:03 [INFO] [319/506] success year=101 city=雲林縣 rows=55
+2026-05-12 10:03:03 [INFO] sleep 13.38s (after query combination 101 雲林縣)
+2026-05-12 10:03:16 [INFO] [320/506] querying year=101 city=嘉義縣
+2026-05-12 10:03:16 [INFO] sleep 3.27s (before query 101 嘉義縣)
+2026-05-12 10:03:20 [INFO] [320/506] success year=101 city=嘉義縣 rows=50
+2026-05-12 10:03:20 [INFO] sleep 13.12s (after query combination 101 嘉義縣)
+2026-05-12 10:03:33 [INFO] [321/506] querying year=101 city=嘉義市
+2026-05-12 10:03:33 [INFO] sleep 2.86s (before query 101 嘉義市)
+2026-05-12 10:03:36 [INFO] [321/506] success year=101 city=嘉義市 rows=1
+2026-05-12 10:03:36 [INFO] sleep 9.69s (after query combination 101 嘉義市)
+2026-05-12 10:03:46 [INFO] [322/506] querying year=101 city=臺南市
+2026-05-12 10:03:46 [INFO] sleep 4.57s (before query 101 臺南市)
+2026-05-12 10:03:51 [INFO] [322/506] success year=101 city=臺南市 rows=69
+2026-05-12 10:03:51 [INFO] sleep 9.39s (after query combination 101 臺南市)
+2026-05-12 10:04:00 [INFO] [323/506] querying year=101 city=高雄市
+2026-05-12 10:04:00 [INFO] sleep 3.96s (before query 101 高雄市)
+2026-05-12 10:04:05 [INFO] [323/506] success year=101 city=高雄市 rows=94
+2026-05-12 10:04:05 [INFO] sleep 8.58s (after query combination 101 高雄市)
+2026-05-12 10:04:13 [INFO] [324/506] querying year=101 city=屏東縣
+2026-05-12 10:04:13 [INFO] sleep 4.66s (before query 101 屏東縣)
+2026-05-12 10:04:18 [INFO] [324/506] success year=101 city=屏東縣 rows=211
+2026-05-12 10:04:18 [INFO] sleep 5.25s (after query combination 101 屏東縣)
+2026-05-12 10:04:24 [INFO] [325/506] querying year=101 city=宜蘭縣
+2026-05-12 10:04:24 [INFO] sleep 1.63s (before query 101 宜蘭縣)
+2026-05-12 10:04:26 [INFO] [325/506] success year=101 city=宜蘭縣 rows=23
+2026-05-12 10:04:26 [INFO] sleep 13.75s (after query combination 101 宜蘭縣)
+2026-05-12 10:04:39 [INFO] [326/506] querying year=101 city=花蓮縣
+2026-05-12 10:04:39 [INFO] sleep 4.21s (before query 101 花蓮縣)
+2026-05-12 10:04:44 [INFO] [326/506] success year=101 city=花蓮縣 rows=40
+2026-05-12 10:04:44 [INFO] sleep 12.35s (after query combination 101 花蓮縣)
+2026-05-12 10:04:56 [INFO] [327/506] querying year=101 city=臺東縣
+2026-05-12 10:04:56 [INFO] sleep 2.94s (before query 101 臺東縣)
+2026-05-12 10:05:00 [INFO] [327/506] success year=101 city=臺東縣 rows=44
+2026-05-12 10:05:00 [INFO] sleep 8.57s (after query combination 101 臺東縣)
+2026-05-12 10:05:08 [INFO] [328/506] querying year=101 city=金門縣
+2026-05-12 10:05:08 [INFO] sleep 4.88s (before query 101 金門縣)
+2026-05-12 10:05:14 [INFO] [328/506] success year=101 city=金門縣 rows=41
+2026-05-12 10:05:14 [INFO] sleep 10.24s (after query combination 101 金門縣)
+2026-05-12 10:05:24 [INFO] [329/506] querying year=101 city=澎湖縣
+2026-05-12 10:05:24 [INFO] sleep 1.70s (before query 101 澎湖縣)
+2026-05-12 10:05:26 [INFO] [329/506] success year=101 city=澎湖縣 rows=52
+2026-05-12 10:05:26 [INFO] sleep 10.50s (after query combination 101 澎湖縣)
+2026-05-12 10:05:37 [INFO] [330/506] querying year=101 city=連江縣
+2026-05-12 10:05:37 [INFO] sleep 2.15s (before query 101 連江縣)
+2026-05-12 10:05:39 [INFO] [330/506] success year=101 city=連江縣 rows=1
+2026-05-12 10:05:39 [INFO] sleep 12.81s (after query combination 101 連江縣)
+2026-05-12 10:05:52 [INFO] [331/506] querying year=100 city=基隆市
+2026-05-12 10:05:52 [INFO] sleep 4.60s (before query 100 基隆市)
+2026-05-12 10:05:57 [INFO] [331/506] success year=100 city=基隆市 rows=1
+2026-05-12 10:05:57 [INFO] sleep 10.14s (after query combination 100 基隆市)
+2026-05-12 10:06:07 [INFO] [332/506] querying year=100 city=臺北市
+2026-05-12 10:06:07 [INFO] sleep 4.80s (before query 100 臺北市)
+2026-05-12 10:06:12 [INFO] [332/506] success year=100 city=臺北市 rows=9
+2026-05-12 10:06:12 [INFO] sleep 8.55s (after query combination 100 臺北市)
+2026-05-12 10:06:21 [INFO] [333/506] querying year=100 city=新北市
+2026-05-12 10:06:21 [INFO] sleep 2.09s (before query 100 新北市)
+2026-05-12 10:06:23 [INFO] [333/506] success year=100 city=新北市 rows=39
+2026-05-12 10:06:23 [INFO] sleep 13.61s (after query combination 100 新北市)
+2026-05-12 10:06:37 [INFO] [334/506] querying year=100 city=桃園市
+2026-05-12 10:06:37 [INFO] sleep 4.95s (before query 100 桃園市)
+2026-05-12 10:06:42 [INFO] [334/506] success year=100 city=桃園市 rows=154
+2026-05-12 10:06:42 [INFO] sleep 9.54s (after query combination 100 桃園市)
+2026-05-12 10:06:52 [INFO] [335/506] querying year=100 city=新竹縣
+2026-05-12 10:06:52 [INFO] sleep 4.20s (before query 100 新竹縣)
+2026-05-12 10:06:56 [INFO] [335/506] success year=100 city=新竹縣 rows=38
+2026-05-12 10:06:56 [INFO] sleep 7.48s (after query combination 100 新竹縣)
+2026-05-12 10:07:04 [INFO] [336/506] querying year=100 city=新竹市
+2026-05-12 10:07:04 [INFO] sleep 4.25s (before query 100 新竹市)
+2026-05-12 10:07:09 [INFO] [336/506] success year=100 city=新竹市 rows=6
+2026-05-12 10:07:09 [INFO] sleep 11.45s (after query combination 100 新竹市)
+2026-05-12 10:07:20 [INFO] [337/506] querying year=100 city=苗栗縣
+2026-05-12 10:07:20 [INFO] sleep 4.36s (before query 100 苗栗縣)
+2026-05-12 10:07:25 [INFO] [337/506] success year=100 city=苗栗縣 rows=32
+2026-05-12 10:07:25 [INFO] sleep 13.77s (after query combination 100 苗栗縣)
+2026-05-12 10:07:39 [INFO] [338/506] querying year=100 city=臺中市
+2026-05-12 10:07:39 [INFO] sleep 2.78s (before query 100 臺中市)
+2026-05-12 10:07:42 [INFO] [338/506] success year=100 city=臺中市 rows=72
+2026-05-12 10:07:42 [INFO] sleep 11.59s (after query combination 100 臺中市)
+2026-05-12 10:07:53 [INFO] [339/506] querying year=100 city=南投縣
+2026-05-12 10:07:53 [INFO] sleep 2.79s (before query 100 南投縣)
+2026-05-12 10:07:57 [INFO] [339/506] success year=100 city=南投縣 rows=33
+2026-05-12 10:07:57 [INFO] sleep 7.12s (after query combination 100 南投縣)
+2026-05-12 10:08:04 [INFO] [340/506] querying year=100 city=彰化縣
+2026-05-12 10:08:04 [INFO] sleep 3.14s (before query 100 彰化縣)
+2026-05-12 10:08:08 [INFO] [340/506] success year=100 city=彰化縣 rows=273
+2026-05-12 10:08:08 [INFO] sleep 6.81s (after query combination 100 彰化縣)
+2026-05-12 10:08:14 [INFO] [341/506] querying year=100 city=雲林縣
+2026-05-12 10:08:14 [INFO] sleep 1.86s (before query 100 雲林縣)
+2026-05-12 10:08:17 [INFO] [341/506] success year=100 city=雲林縣 rows=310
+2026-05-12 10:08:17 [INFO] sleep 12.07s (after query combination 100 雲林縣)
+2026-05-12 10:08:29 [INFO] [342/506] querying year=100 city=嘉義縣
+2026-05-12 10:08:29 [INFO] sleep 4.94s (before query 100 嘉義縣)
+2026-05-12 10:08:34 [INFO] [342/506] success year=100 city=嘉義縣 rows=222
+2026-05-12 10:08:34 [INFO] sleep 14.52s (after query combination 100 嘉義縣)
+2026-05-12 10:08:49 [INFO] [343/506] querying year=100 city=嘉義市
+2026-05-12 10:08:49 [INFO] sleep 3.97s (before query 100 嘉義市)
+2026-05-12 10:08:53 [INFO] [343/506] success year=100 city=嘉義市 rows=4
+2026-05-12 10:08:53 [INFO] sleep 10.11s (after query combination 100 嘉義市)
+2026-05-12 10:09:03 [INFO] [344/506] querying year=100 city=臺南市
+2026-05-12 10:09:03 [INFO] sleep 2.53s (before query 100 臺南市)
+2026-05-12 10:09:06 [INFO] [344/506] success year=100 city=臺南市 rows=372
+2026-05-12 10:09:06 [INFO] sleep 6.15s (after query combination 100 臺南市)
+2026-05-12 10:09:13 [INFO] [345/506] querying year=100 city=高雄市
+2026-05-12 10:09:13 [INFO] sleep 4.94s (before query 100 高雄市)
+2026-05-12 10:09:18 [INFO] [345/506] success year=100 city=高雄市 rows=143
+2026-05-12 10:09:18 [INFO] sleep 7.13s (after query combination 100 高雄市)
+2026-05-12 10:09:25 [INFO] [346/506] querying year=100 city=屏東縣
+2026-05-12 10:09:25 [INFO] sleep 4.02s (before query 100 屏東縣)
+2026-05-12 10:09:30 [INFO] [346/506] success year=100 city=屏東縣 rows=186
+2026-05-12 10:09:30 [INFO] sleep 9.61s (after query combination 100 屏東縣)
+2026-05-12 10:09:39 [INFO] [347/506] querying year=100 city=宜蘭縣
+2026-05-12 10:09:39 [INFO] sleep 4.06s (before query 100 宜蘭縣)
+2026-05-12 10:09:44 [INFO] [347/506] success year=100 city=宜蘭縣 rows=65
+2026-05-12 10:09:44 [INFO] sleep 6.69s (after query combination 100 宜蘭縣)
+2026-05-12 10:09:50 [INFO] [348/506] querying year=100 city=花蓮縣
+2026-05-12 10:09:50 [INFO] sleep 4.56s (before query 100 花蓮縣)
+2026-05-12 10:09:55 [INFO] [348/506] success year=100 city=花蓮縣 rows=55
+2026-05-12 10:09:55 [INFO] sleep 14.06s (after query combination 100 花蓮縣)
+2026-05-12 10:10:09 [INFO] [349/506] querying year=100 city=臺東縣
+2026-05-12 10:10:09 [INFO] sleep 4.62s (before query 100 臺東縣)
+2026-05-12 10:10:15 [INFO] [349/506] success year=100 city=臺東縣 rows=50
+2026-05-12 10:10:15 [INFO] sleep 5.04s (after query combination 100 臺東縣)
+2026-05-12 10:10:20 [INFO] [350/506] querying year=100 city=金門縣
+2026-05-12 10:10:20 [INFO] sleep 2.80s (before query 100 金門縣)
+2026-05-12 10:10:23 [INFO] [350/506] success year=100 city=金門縣 rows=37
+2026-05-12 10:10:23 [INFO] sleep 5.84s (after query combination 100 金門縣)
+2026-05-12 10:10:29 [INFO] [351/506] querying year=100 city=澎湖縣
+2026-05-12 10:10:29 [INFO] sleep 4.64s (before query 100 澎湖縣)
+2026-05-12 10:10:34 [INFO] [351/506] success year=100 city=澎湖縣 rows=15
+2026-05-12 10:10:34 [INFO] sleep 14.05s (after query combination 100 澎湖縣)
+2026-05-12 10:10:48 [INFO] [352/506] querying year=100 city=連江縣
+2026-05-12 10:10:48 [INFO] sleep 4.81s (before query 100 連江縣)
+2026-05-12 10:10:53 [INFO] [352/506] success year=100 city=連江縣 rows=11
+2026-05-12 10:10:53 [INFO] sleep 5.18s (after query combination 100 連江縣)
+2026-05-12 10:10:58 [INFO] [353/506] querying year=99 city=基隆市
+2026-05-12 10:10:58 [INFO] sleep 1.74s (before query 99 基隆市)
+2026-05-12 10:11:00 [INFO] [353/506] success year=99 city=基隆市 rows=2
+2026-05-12 10:11:00 [INFO] sleep 10.34s (after query combination 99 基隆市)
+2026-05-12 10:11:11 [INFO] [354/506] querying year=99 city=臺北市
+2026-05-12 10:11:11 [INFO] sleep 1.76s (before query 99 臺北市)
+2026-05-12 10:11:13 [INFO] [354/506] success year=99 city=臺北市 rows=5
+2026-05-12 10:11:13 [INFO] sleep 10.51s (after query combination 99 臺北市)
+2026-05-12 10:11:23 [INFO] [355/506] querying year=99 city=新北市
+2026-05-12 10:11:23 [INFO] sleep 2.42s (before query 99 新北市)
+2026-05-12 10:11:26 [INFO] [355/506] success year=99 city=新北市 rows=56
+2026-05-12 10:11:26 [INFO] sleep 10.30s (after query combination 99 新北市)
+2026-05-12 10:11:36 [INFO] [356/506] querying year=99 city=桃園市
+2026-05-12 10:11:36 [INFO] sleep 4.77s (before query 99 桃園市)
+2026-05-12 10:11:42 [INFO] [356/506] success year=99 city=桃園市 rows=114
+2026-05-12 10:11:42 [INFO] sleep 7.01s (after query combination 99 桃園市)
+2026-05-12 10:11:49 [INFO] [357/506] querying year=99 city=新竹縣
+2026-05-12 10:11:49 [INFO] sleep 4.72s (before query 99 新竹縣)
+2026-05-12 10:11:54 [INFO] [357/506] success year=99 city=新竹縣 rows=66
+2026-05-12 10:11:54 [INFO] sleep 6.80s (after query combination 99 新竹縣)
+2026-05-12 10:12:01 [INFO] [358/506] querying year=99 city=新竹市
+2026-05-12 10:12:01 [INFO] sleep 3.32s (before query 99 新竹市)
+2026-05-12 10:12:04 [INFO] [358/506] success year=99 city=新竹市 rows=17
+2026-05-12 10:12:04 [INFO] sleep 9.63s (after query combination 99 新竹市)
+2026-05-12 10:12:14 [INFO] [359/506] querying year=99 city=苗栗縣
+2026-05-12 10:12:14 [INFO] sleep 3.20s (before query 99 苗栗縣)
+2026-05-12 10:12:18 [INFO] [359/506] success year=99 city=苗栗縣 rows=59
+2026-05-12 10:12:18 [INFO] sleep 14.54s (after query combination 99 苗栗縣)
+2026-05-12 10:12:32 [INFO] [360/506] querying year=99 city=臺中市
+2026-05-12 10:12:32 [INFO] sleep 4.45s (before query 99 臺中市)
+2026-05-12 10:12:37 [INFO] [360/506] success year=99 city=臺中市 rows=110
+2026-05-12 10:12:37 [INFO] sleep 9.12s (after query combination 99 臺中市)
+2026-05-12 10:12:46 [INFO] [361/506] querying year=99 city=南投縣
+2026-05-12 10:12:46 [INFO] sleep 4.56s (before query 99 南投縣)
+2026-05-12 10:12:51 [INFO] [361/506] success year=99 city=南投縣 rows=47
+2026-05-12 10:12:51 [INFO] sleep 5.83s (after query combination 99 南投縣)
+2026-05-12 10:12:57 [INFO] [362/506] querying year=99 city=彰化縣
+2026-05-12 10:12:57 [INFO] sleep 3.49s (before query 99 彰化縣)
+2026-05-12 10:13:01 [INFO] [362/506] success year=99 city=彰化縣 rows=135
+2026-05-12 10:13:01 [INFO] sleep 10.22s (after query combination 99 彰化縣)
+2026-05-12 10:13:11 [INFO] [363/506] querying year=99 city=雲林縣
+2026-05-12 10:13:11 [INFO] sleep 4.60s (before query 99 雲林縣)
+2026-05-12 10:13:16 [INFO] [363/506] success year=99 city=雲林縣 rows=131
+2026-05-12 10:13:16 [INFO] sleep 13.60s (after query combination 99 雲林縣)
+2026-05-12 10:13:30 [INFO] [364/506] querying year=99 city=嘉義縣
+2026-05-12 10:13:30 [INFO] sleep 2.48s (before query 99 嘉義縣)
+2026-05-12 10:13:33 [INFO] [364/506] success year=99 city=嘉義縣 rows=76
+2026-05-12 10:13:33 [INFO] sleep 7.66s (after query combination 99 嘉義縣)
+2026-05-12 10:13:41 [INFO] [365/506] querying year=99 city=嘉義市
+2026-05-12 10:13:41 [INFO] sleep 2.91s (before query 99 嘉義市)
+2026-05-12 10:13:44 [INFO] [365/506] success year=99 city=嘉義市 rows=3
+2026-05-12 10:13:44 [INFO] sleep 13.07s (after query combination 99 嘉義市)
+2026-05-12 10:13:57 [INFO] [366/506] querying year=99 city=臺南市
+2026-05-12 10:13:57 [INFO] sleep 3.63s (before query 99 臺南市)
+2026-05-12 10:14:01 [INFO] [366/506] success year=99 city=臺南市 rows=165
+2026-05-12 10:14:01 [INFO] sleep 12.18s (after query combination 99 臺南市)
+2026-05-12 10:14:13 [INFO] [367/506] querying year=99 city=高雄市
+2026-05-12 10:14:13 [INFO] sleep 4.93s (before query 99 高雄市)
+2026-05-12 10:14:19 [INFO] [367/506] success year=99 city=高雄市 rows=117
+2026-05-12 10:14:19 [INFO] sleep 12.67s (after query combination 99 高雄市)
+2026-05-12 10:14:31 [INFO] [368/506] querying year=99 city=屏東縣
+2026-05-12 10:14:31 [INFO] sleep 4.73s (before query 99 屏東縣)
+2026-05-12 10:14:36 [INFO] [368/506] success year=99 city=屏東縣 rows=97
+2026-05-12 10:14:36 [INFO] sleep 14.29s (after query combination 99 屏東縣)
+2026-05-12 10:14:51 [INFO] [369/506] querying year=99 city=宜蘭縣
+2026-05-12 10:14:51 [INFO] sleep 4.76s (before query 99 宜蘭縣)
+2026-05-12 10:14:56 [INFO] [369/506] success year=99 city=宜蘭縣 rows=68
+2026-05-12 10:14:56 [INFO] sleep 9.87s (after query combination 99 宜蘭縣)
+2026-05-12 10:15:06 [INFO] [370/506] querying year=99 city=花蓮縣
+2026-05-12 10:15:06 [INFO] sleep 3.76s (before query 99 花蓮縣)
+2026-05-12 10:15:10 [INFO] [370/506] success year=99 city=花蓮縣 rows=53
+2026-05-12 10:15:10 [INFO] sleep 7.35s (after query combination 99 花蓮縣)
+2026-05-12 10:15:17 [INFO] [371/506] querying year=99 city=臺東縣
+2026-05-12 10:15:17 [INFO] sleep 3.16s (before query 99 臺東縣)
+2026-05-12 10:15:21 [INFO] [371/506] success year=99 city=臺東縣 rows=28
+2026-05-12 10:15:21 [INFO] sleep 7.65s (after query combination 99 臺東縣)
+2026-05-12 10:15:29 [INFO] [372/506] querying year=99 city=金門縣
+2026-05-12 10:15:29 [INFO] sleep 3.25s (before query 99 金門縣)
+2026-05-12 10:15:32 [INFO] [372/506] success year=99 city=金門縣 rows=30
+2026-05-12 10:15:32 [INFO] sleep 11.41s (after query combination 99 金門縣)
+2026-05-12 10:15:44 [INFO] [373/506] querying year=99 city=澎湖縣
+2026-05-12 10:15:44 [INFO] sleep 1.74s (before query 99 澎湖縣)
+2026-05-12 10:15:46 [INFO] [373/506] success year=99 city=澎湖縣 rows=9
+2026-05-12 10:15:46 [INFO] sleep 10.89s (after query combination 99 澎湖縣)
+2026-05-12 10:15:57 [INFO] [374/506] querying year=99 city=連江縣
+2026-05-12 10:15:57 [INFO] sleep 4.64s (before query 99 連江縣)
+2026-05-12 10:16:02 [INFO] [374/506] no_data year=99 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:16:02 [INFO] sleep 10.62s (after query combination 99 連江縣)
+2026-05-12 10:16:13 [INFO] [375/506] querying year=98 city=基隆市
+2026-05-12 10:16:13 [INFO] sleep 3.18s (before query 98 基隆市)
+2026-05-12 10:16:16 [INFO] [375/506] no_data year=98 city=基隆市 message=generic site error page returned; treated as no_data
+2026-05-12 10:16:16 [INFO] sleep 13.35s (after query combination 98 基隆市)
+2026-05-12 10:16:30 [INFO] [376/506] querying year=98 city=臺北市
+2026-05-12 10:16:30 [INFO] sleep 4.55s (before query 98 臺北市)
+2026-05-12 10:16:34 [INFO] [376/506] success year=98 city=臺北市 rows=6
+2026-05-12 10:16:35 [INFO] sleep 11.79s (after query combination 98 臺北市)
+2026-05-12 10:16:46 [INFO] [377/506] querying year=98 city=新北市
+2026-05-12 10:16:46 [INFO] sleep 4.22s (before query 98 新北市)
+2026-05-12 10:16:51 [INFO] [377/506] success year=98 city=新北市 rows=27
+2026-05-12 10:16:51 [INFO] sleep 5.12s (after query combination 98 新北市)
+2026-05-12 10:16:56 [INFO] [378/506] querying year=98 city=桃園市
+2026-05-12 10:16:56 [INFO] sleep 3.53s (before query 98 桃園市)
+2026-05-12 10:17:00 [INFO] [378/506] success year=98 city=桃園市 rows=276
+2026-05-12 10:17:00 [INFO] sleep 6.88s (after query combination 98 桃園市)
+2026-05-12 10:17:07 [INFO] [379/506] querying year=98 city=新竹縣
+2026-05-12 10:17:07 [INFO] sleep 4.17s (before query 98 新竹縣)
+2026-05-12 10:17:12 [INFO] [379/506] success year=98 city=新竹縣 rows=87
+2026-05-12 10:17:12 [INFO] sleep 7.88s (after query combination 98 新竹縣)
+2026-05-12 10:17:20 [INFO] [380/506] querying year=98 city=新竹市
+2026-05-12 10:17:20 [INFO] sleep 4.74s (before query 98 新竹市)
+2026-05-12 10:17:25 [INFO] [380/506] success year=98 city=新竹市 rows=10
+2026-05-12 10:17:25 [INFO] sleep 6.43s (after query combination 98 新竹市)
+2026-05-12 10:17:31 [INFO] [381/506] querying year=98 city=苗栗縣
+2026-05-12 10:17:31 [INFO] sleep 3.11s (before query 98 苗栗縣)
+2026-05-12 10:17:35 [INFO] [381/506] success year=98 city=苗栗縣 rows=28
+2026-05-12 10:17:35 [INFO] sleep 13.88s (after query combination 98 苗栗縣)
+2026-05-12 10:17:49 [INFO] [382/506] querying year=98 city=臺中市
+2026-05-12 10:17:49 [INFO] sleep 4.07s (before query 98 臺中市)
+2026-05-12 10:17:53 [INFO] [382/506] success year=98 city=臺中市 rows=65
+2026-05-12 10:17:53 [INFO] sleep 11.31s (after query combination 98 臺中市)
+2026-05-12 10:18:04 [INFO] [383/506] querying year=98 city=南投縣
+2026-05-12 10:18:04 [INFO] sleep 1.90s (before query 98 南投縣)
+2026-05-12 10:18:07 [INFO] [383/506] success year=98 city=南投縣 rows=47
+2026-05-12 10:18:07 [INFO] sleep 6.87s (after query combination 98 南投縣)
+2026-05-12 10:18:14 [INFO] [384/506] querying year=98 city=彰化縣
+2026-05-12 10:18:14 [INFO] sleep 4.56s (before query 98 彰化縣)
+2026-05-12 10:18:19 [INFO] [384/506] success year=98 city=彰化縣 rows=141
+2026-05-12 10:18:19 [INFO] sleep 5.92s (after query combination 98 彰化縣)
+2026-05-12 10:18:25 [INFO] [385/506] querying year=98 city=雲林縣
+2026-05-12 10:18:25 [INFO] sleep 4.99s (before query 98 雲林縣)
+2026-05-12 10:18:30 [INFO] [385/506] success year=98 city=雲林縣 rows=150
+2026-05-12 10:18:30 [INFO] sleep 8.78s (after query combination 98 雲林縣)
+2026-05-12 10:18:39 [INFO] [386/506] querying year=98 city=嘉義縣
+2026-05-12 10:18:39 [INFO] sleep 3.61s (before query 98 嘉義縣)
+2026-05-12 10:18:43 [INFO] [386/506] success year=98 city=嘉義縣 rows=84
+2026-05-12 10:18:43 [INFO] sleep 12.19s (after query combination 98 嘉義縣)
+2026-05-12 10:18:55 [INFO] [387/506] querying year=98 city=嘉義市
+2026-05-12 10:18:55 [INFO] sleep 4.57s (before query 98 嘉義市)
+2026-05-12 10:19:00 [INFO] [387/506] success year=98 city=嘉義市 rows=9
+2026-05-12 10:19:00 [INFO] sleep 11.70s (after query combination 98 嘉義市)
+2026-05-12 10:19:12 [INFO] [388/506] querying year=98 city=臺南市
+2026-05-12 10:19:12 [INFO] sleep 1.94s (before query 98 臺南市)
+2026-05-12 10:19:14 [INFO] [388/506] success year=98 city=臺南市 rows=178
+2026-05-12 10:19:14 [INFO] sleep 8.85s (after query combination 98 臺南市)
+2026-05-12 10:19:23 [INFO] [389/506] querying year=98 city=高雄市
+2026-05-12 10:19:23 [INFO] sleep 4.85s (before query 98 高雄市)
+2026-05-12 10:19:28 [INFO] [389/506] success year=98 city=高雄市 rows=88
+2026-05-12 10:19:28 [INFO] sleep 7.06s (after query combination 98 高雄市)
+2026-05-12 10:19:35 [INFO] [390/506] querying year=98 city=屏東縣
+2026-05-12 10:19:35 [INFO] sleep 4.98s (before query 98 屏東縣)
+2026-05-12 10:19:41 [INFO] [390/506] success year=98 city=屏東縣 rows=188
+2026-05-12 10:19:41 [INFO] sleep 10.32s (after query combination 98 屏東縣)
+2026-05-12 10:19:51 [INFO] [391/506] querying year=98 city=宜蘭縣
+2026-05-12 10:19:51 [INFO] sleep 1.88s (before query 98 宜蘭縣)
+2026-05-12 10:19:54 [INFO] [391/506] success year=98 city=宜蘭縣 rows=112
+2026-05-12 10:19:54 [INFO] sleep 9.41s (after query combination 98 宜蘭縣)
+2026-05-12 10:20:03 [INFO] [392/506] querying year=98 city=花蓮縣
+2026-05-12 10:20:03 [INFO] sleep 4.98s (before query 98 花蓮縣)
+2026-05-12 10:20:08 [INFO] [392/506] success year=98 city=花蓮縣 rows=38
+2026-05-12 10:20:08 [INFO] sleep 8.73s (after query combination 98 花蓮縣)
+2026-05-12 10:20:17 [INFO] [393/506] querying year=98 city=臺東縣
+2026-05-12 10:20:17 [INFO] sleep 3.26s (before query 98 臺東縣)
+2026-05-12 10:20:21 [INFO] [393/506] success year=98 city=臺東縣 rows=21
+2026-05-12 10:20:21 [INFO] sleep 14.24s (after query combination 98 臺東縣)
+2026-05-12 10:20:35 [INFO] [394/506] querying year=98 city=金門縣
+2026-05-12 10:20:35 [INFO] sleep 4.93s (before query 98 金門縣)
+2026-05-12 10:20:40 [INFO] [394/506] success year=98 city=金門縣 rows=14
+2026-05-12 10:20:40 [INFO] sleep 7.11s (after query combination 98 金門縣)
+2026-05-12 10:20:48 [INFO] [395/506] querying year=98 city=澎湖縣
+2026-05-12 10:20:48 [INFO] sleep 3.25s (before query 98 澎湖縣)
+2026-05-12 10:20:51 [INFO] [395/506] success year=98 city=澎湖縣 rows=21
+2026-05-12 10:20:51 [INFO] sleep 14.99s (after query combination 98 澎湖縣)
+2026-05-12 10:21:06 [INFO] [396/506] querying year=98 city=連江縣
+2026-05-12 10:21:06 [INFO] sleep 2.57s (before query 98 連江縣)
+2026-05-12 10:21:09 [INFO] [396/506] no_data year=98 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:21:09 [INFO] sleep 11.53s (after query combination 98 連江縣)
+2026-05-12 10:21:21 [INFO] [397/506] querying year=97 city=基隆市
+2026-05-12 10:21:21 [INFO] sleep 4.04s (before query 97 基隆市)
+2026-05-12 10:21:25 [INFO] [397/506] success year=97 city=基隆市 rows=2
+2026-05-12 10:21:25 [INFO] sleep 9.34s (after query combination 97 基隆市)
+2026-05-12 10:21:34 [INFO] [398/506] querying year=97 city=臺北市
+2026-05-12 10:21:34 [INFO] sleep 2.73s (before query 97 臺北市)
+2026-05-12 10:21:37 [INFO] [398/506] success year=97 city=臺北市 rows=8
+2026-05-12 10:21:37 [INFO] sleep 12.38s (after query combination 97 臺北市)
+2026-05-12 10:21:50 [INFO] [399/506] querying year=97 city=新北市
+2026-05-12 10:21:50 [INFO] sleep 4.93s (before query 97 新北市)
+2026-05-12 10:21:55 [INFO] [399/506] success year=97 city=新北市 rows=32
+2026-05-12 10:21:55 [INFO] sleep 5.66s (after query combination 97 新北市)
+2026-05-12 10:22:01 [INFO] [400/506] querying year=97 city=桃園市
+2026-05-12 10:22:01 [INFO] sleep 2.44s (before query 97 桃園市)
+2026-05-12 10:22:04 [INFO] [400/506] success year=97 city=桃園市 rows=99
+2026-05-12 10:22:04 [INFO] sleep 8.36s (after query combination 97 桃園市)
+2026-05-12 10:22:12 [INFO] [401/506] querying year=97 city=新竹縣
+2026-05-12 10:22:12 [INFO] sleep 2.95s (before query 97 新竹縣)
+2026-05-12 10:22:15 [INFO] [401/506] success year=97 city=新竹縣 rows=33
+2026-05-12 10:22:15 [INFO] sleep 9.92s (after query combination 97 新竹縣)
+2026-05-12 10:22:25 [INFO] [402/506] querying year=97 city=新竹市
+2026-05-12 10:22:25 [INFO] sleep 4.62s (before query 97 新竹市)
+2026-05-12 10:22:30 [INFO] [402/506] success year=97 city=新竹市 rows=13
+2026-05-12 10:22:30 [INFO] sleep 5.88s (after query combination 97 新竹市)
+2026-05-12 10:22:36 [INFO] [403/506] querying year=97 city=苗栗縣
+2026-05-12 10:22:36 [INFO] sleep 4.24s (before query 97 苗栗縣)
+2026-05-12 10:22:41 [INFO] [403/506] success year=97 city=苗栗縣 rows=20
+2026-05-12 10:22:41 [INFO] sleep 6.31s (after query combination 97 苗栗縣)
+2026-05-12 10:22:47 [INFO] [404/506] querying year=97 city=臺中市
+2026-05-12 10:22:47 [INFO] sleep 3.52s (before query 97 臺中市)
+2026-05-12 10:22:51 [INFO] [404/506] success year=97 city=臺中市 rows=45
+2026-05-12 10:22:51 [INFO] sleep 8.21s (after query combination 97 臺中市)
+2026-05-12 10:22:59 [INFO] [405/506] querying year=97 city=南投縣
+2026-05-12 10:22:59 [INFO] sleep 4.06s (before query 97 南投縣)
+2026-05-12 10:23:04 [INFO] [405/506] success year=97 city=南投縣 rows=27
+2026-05-12 10:23:04 [INFO] sleep 13.73s (after query combination 97 南投縣)
+2026-05-12 10:23:18 [INFO] [406/506] querying year=97 city=彰化縣
+2026-05-12 10:23:18 [INFO] sleep 4.93s (before query 97 彰化縣)
+2026-05-12 10:23:23 [INFO] [406/506] success year=97 city=彰化縣 rows=80
+2026-05-12 10:23:23 [INFO] sleep 11.72s (after query combination 97 彰化縣)
+2026-05-12 10:23:35 [INFO] [407/506] querying year=97 city=雲林縣
+2026-05-12 10:23:35 [INFO] sleep 3.21s (before query 97 雲林縣)
+2026-05-12 10:23:38 [INFO] [407/506] success year=97 city=雲林縣 rows=102
+2026-05-12 10:23:38 [INFO] sleep 8.53s (after query combination 97 雲林縣)
+2026-05-12 10:23:47 [INFO] [408/506] querying year=97 city=嘉義縣
+2026-05-12 10:23:47 [INFO] sleep 4.71s (before query 97 嘉義縣)
+2026-05-12 10:23:52 [INFO] [408/506] success year=97 city=嘉義縣 rows=57
+2026-05-12 10:23:52 [INFO] sleep 14.56s (after query combination 97 嘉義縣)
+2026-05-12 10:24:07 [INFO] [409/506] querying year=97 city=嘉義市
+2026-05-12 10:24:07 [INFO] sleep 2.16s (before query 97 嘉義市)
+2026-05-12 10:24:09 [INFO] [409/506] success year=97 city=嘉義市 rows=3
+2026-05-12 10:24:09 [INFO] sleep 9.46s (after query combination 97 嘉義市)
+2026-05-12 10:24:19 [INFO] [410/506] querying year=97 city=臺南市
+2026-05-12 10:24:19 [INFO] sleep 3.31s (before query 97 臺南市)
+2026-05-12 10:24:22 [INFO] [410/506] success year=97 city=臺南市 rows=87
+2026-05-12 10:24:22 [INFO] sleep 12.01s (after query combination 97 臺南市)
+2026-05-12 10:24:34 [INFO] [411/506] querying year=97 city=高雄市
+2026-05-12 10:24:34 [INFO] sleep 4.57s (before query 97 高雄市)
+2026-05-12 10:24:39 [INFO] [411/506] success year=97 city=高雄市 rows=41
+2026-05-12 10:24:39 [INFO] sleep 9.44s (after query combination 97 高雄市)
+2026-05-12 10:24:49 [INFO] [412/506] querying year=97 city=屏東縣
+2026-05-12 10:24:49 [INFO] sleep 2.31s (before query 97 屏東縣)
+2026-05-12 10:24:52 [INFO] [412/506] success year=97 city=屏東縣 rows=74
+2026-05-12 10:24:52 [INFO] sleep 6.63s (after query combination 97 屏東縣)
+2026-05-12 10:24:58 [INFO] [413/506] querying year=97 city=宜蘭縣
+2026-05-12 10:24:58 [INFO] sleep 4.71s (before query 97 宜蘭縣)
+2026-05-12 10:25:03 [INFO] [413/506] success year=97 city=宜蘭縣 rows=54
+2026-05-12 10:25:03 [INFO] sleep 9.38s (after query combination 97 宜蘭縣)
+2026-05-12 10:25:13 [INFO] [414/506] querying year=97 city=花蓮縣
+2026-05-12 10:25:13 [INFO] sleep 2.55s (before query 97 花蓮縣)
+2026-05-12 10:25:16 [INFO] [414/506] success year=97 city=花蓮縣 rows=56
+2026-05-12 10:25:16 [INFO] sleep 7.58s (after query combination 97 花蓮縣)
+2026-05-12 10:25:23 [INFO] [415/506] querying year=97 city=臺東縣
+2026-05-12 10:25:23 [INFO] sleep 4.29s (before query 97 臺東縣)
+2026-05-12 10:25:29 [INFO] [415/506] success year=97 city=臺東縣 rows=74
+2026-05-12 10:25:29 [INFO] sleep 6.39s (after query combination 97 臺東縣)
+2026-05-12 10:25:35 [INFO] [416/506] querying year=97 city=金門縣
+2026-05-12 10:25:35 [INFO] sleep 3.11s (before query 97 金門縣)
+2026-05-12 10:25:38 [INFO] [416/506] success year=97 city=金門縣 rows=5
+2026-05-12 10:25:38 [INFO] sleep 9.71s (after query combination 97 金門縣)
+2026-05-12 10:25:48 [INFO] [417/506] querying year=97 city=澎湖縣
+2026-05-12 10:25:48 [INFO] sleep 2.23s (before query 97 澎湖縣)
+2026-05-12 10:25:51 [INFO] [417/506] success year=97 city=澎湖縣 rows=13
+2026-05-12 10:25:51 [INFO] sleep 9.87s (after query combination 97 澎湖縣)
+2026-05-12 10:26:01 [INFO] [418/506] querying year=97 city=連江縣
+2026-05-12 10:26:01 [INFO] sleep 2.46s (before query 97 連江縣)
+2026-05-12 10:26:04 [INFO] [418/506] no_data year=97 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:26:04 [INFO] sleep 8.19s (after query combination 97 連江縣)
+2026-05-12 10:26:12 [INFO] [419/506] querying year=96 city=基隆市
+2026-05-12 10:26:12 [INFO] sleep 1.54s (before query 96 基隆市)
+2026-05-12 10:26:14 [INFO] [419/506] no_data year=96 city=基隆市 message=generic site error page returned; treated as no_data
+2026-05-12 10:26:14 [INFO] sleep 9.02s (after query combination 96 基隆市)
+2026-05-12 10:26:23 [INFO] [420/506] querying year=96 city=臺北市
+2026-05-12 10:26:23 [INFO] sleep 2.31s (before query 96 臺北市)
+2026-05-12 10:26:25 [INFO] [420/506] no_data year=96 city=臺北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:26:25 [INFO] sleep 5.82s (after query combination 96 臺北市)
+2026-05-12 10:26:31 [INFO] [421/506] querying year=96 city=新北市
+2026-05-12 10:26:31 [INFO] sleep 4.76s (before query 96 新北市)
+2026-05-12 10:26:36 [INFO] [421/506] no_data year=96 city=新北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:26:36 [INFO] sleep 10.30s (after query combination 96 新北市)
+2026-05-12 10:26:47 [INFO] [422/506] querying year=96 city=桃園市
+2026-05-12 10:26:47 [INFO] sleep 1.54s (before query 96 桃園市)
+2026-05-12 10:26:49 [INFO] [422/506] no_data year=96 city=桃園市 message=generic site error page returned; treated as no_data
+2026-05-12 10:26:49 [INFO] sleep 9.30s (after query combination 96 桃園市)
+2026-05-12 10:26:58 [INFO] [423/506] querying year=96 city=新竹縣
+2026-05-12 10:26:58 [INFO] sleep 3.06s (before query 96 新竹縣)
+2026-05-12 10:27:01 [INFO] [423/506] no_data year=96 city=新竹縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:27:01 [INFO] sleep 11.74s (after query combination 96 新竹縣)
+2026-05-12 10:27:13 [INFO] [424/506] querying year=96 city=新竹市
+2026-05-12 10:27:13 [INFO] sleep 4.39s (before query 96 新竹市)
+2026-05-12 10:27:18 [INFO] [424/506] no_data year=96 city=新竹市 message=generic site error page returned; treated as no_data
+2026-05-12 10:27:18 [INFO] sleep 6.83s (after query combination 96 新竹市)
+2026-05-12 10:27:25 [INFO] [425/506] querying year=96 city=苗栗縣
+2026-05-12 10:27:25 [INFO] sleep 4.10s (before query 96 苗栗縣)
+2026-05-12 10:27:29 [INFO] [425/506] no_data year=96 city=苗栗縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:27:29 [INFO] sleep 10.25s (after query combination 96 苗栗縣)
+2026-05-12 10:27:39 [INFO] [426/506] querying year=96 city=臺中市
+2026-05-12 10:27:40 [INFO] sleep 2.51s (before query 96 臺中市)
+2026-05-12 10:27:42 [INFO] [426/506] no_data year=96 city=臺中市 message=generic site error page returned; treated as no_data
+2026-05-12 10:27:42 [INFO] sleep 11.33s (after query combination 96 臺中市)
+2026-05-12 10:27:54 [INFO] [427/506] querying year=96 city=南投縣
+2026-05-12 10:27:54 [INFO] sleep 3.38s (before query 96 南投縣)
+2026-05-12 10:27:58 [INFO] [427/506] no_data year=96 city=南投縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:27:58 [INFO] sleep 8.84s (after query combination 96 南投縣)
+2026-05-12 10:28:06 [INFO] [428/506] querying year=96 city=彰化縣
+2026-05-12 10:28:06 [INFO] sleep 4.13s (before query 96 彰化縣)
+2026-05-12 10:28:11 [INFO] [428/506] no_data year=96 city=彰化縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:28:11 [INFO] sleep 6.01s (after query combination 96 彰化縣)
+2026-05-12 10:28:17 [INFO] [429/506] querying year=96 city=雲林縣
+2026-05-12 10:28:17 [INFO] sleep 2.90s (before query 96 雲林縣)
+2026-05-12 10:28:20 [INFO] [429/506] no_data year=96 city=雲林縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:28:20 [INFO] sleep 9.66s (after query combination 96 雲林縣)
+2026-05-12 10:28:30 [INFO] [430/506] querying year=96 city=嘉義縣
+2026-05-12 10:28:30 [INFO] sleep 4.18s (before query 96 嘉義縣)
+2026-05-12 10:28:34 [INFO] [430/506] no_data year=96 city=嘉義縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:28:34 [INFO] sleep 10.74s (after query combination 96 嘉義縣)
+2026-05-12 10:28:45 [INFO] [431/506] querying year=96 city=嘉義市
+2026-05-12 10:28:45 [INFO] sleep 2.91s (before query 96 嘉義市)
+2026-05-12 10:28:48 [INFO] [431/506] no_data year=96 city=嘉義市 message=generic site error page returned; treated as no_data
+2026-05-12 10:28:48 [INFO] sleep 10.87s (after query combination 96 嘉義市)
+2026-05-12 10:28:59 [INFO] [432/506] querying year=96 city=臺南市
+2026-05-12 10:28:59 [INFO] sleep 4.64s (before query 96 臺南市)
+2026-05-12 10:29:04 [INFO] [432/506] no_data year=96 city=臺南市 message=generic site error page returned; treated as no_data
+2026-05-12 10:29:04 [INFO] sleep 6.54s (after query combination 96 臺南市)
+2026-05-12 10:29:11 [INFO] [433/506] querying year=96 city=高雄市
+2026-05-12 10:29:11 [INFO] sleep 2.53s (before query 96 高雄市)
+2026-05-12 10:29:14 [INFO] [433/506] no_data year=96 city=高雄市 message=generic site error page returned; treated as no_data
+2026-05-12 10:29:14 [INFO] sleep 12.14s (after query combination 96 高雄市)
+2026-05-12 10:29:26 [INFO] [434/506] querying year=96 city=屏東縣
+2026-05-12 10:29:26 [INFO] sleep 3.34s (before query 96 屏東縣)
+2026-05-12 10:29:31 [INFO] [434/506] no_data year=96 city=屏東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:29:31 [INFO] sleep 12.51s (after query combination 96 屏東縣)
+2026-05-12 10:29:43 [INFO] [435/506] querying year=96 city=宜蘭縣
+2026-05-12 10:29:43 [INFO] sleep 2.12s (before query 96 宜蘭縣)
+2026-05-12 10:29:46 [INFO] [435/506] no_data year=96 city=宜蘭縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:29:46 [INFO] sleep 12.18s (after query combination 96 宜蘭縣)
+2026-05-12 10:29:58 [INFO] [436/506] querying year=96 city=花蓮縣
+2026-05-12 10:29:58 [INFO] sleep 1.76s (before query 96 花蓮縣)
+2026-05-12 10:30:00 [INFO] [436/506] no_data year=96 city=花蓮縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:30:00 [INFO] sleep 14.15s (after query combination 96 花蓮縣)
+2026-05-12 10:30:14 [INFO] [437/506] querying year=96 city=臺東縣
+2026-05-12 10:30:14 [INFO] sleep 4.60s (before query 96 臺東縣)
+2026-05-12 10:30:19 [INFO] [437/506] no_data year=96 city=臺東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:30:19 [INFO] sleep 5.54s (after query combination 96 臺東縣)
+2026-05-12 10:30:25 [INFO] [438/506] querying year=96 city=金門縣
+2026-05-12 10:30:25 [INFO] sleep 3.47s (before query 96 金門縣)
+2026-05-12 10:30:29 [INFO] [438/506] success year=96 city=金門縣 rows=19
+2026-05-12 10:30:29 [INFO] sleep 14.08s (after query combination 96 金門縣)
+2026-05-12 10:30:43 [INFO] [439/506] querying year=96 city=澎湖縣
+2026-05-12 10:30:43 [INFO] sleep 4.59s (before query 96 澎湖縣)
+2026-05-12 10:30:48 [INFO] [439/506] success year=96 city=澎湖縣 rows=5
+2026-05-12 10:30:48 [INFO] sleep 6.17s (after query combination 96 澎湖縣)
+2026-05-12 10:30:54 [INFO] [440/506] querying year=96 city=連江縣
+2026-05-12 10:30:54 [INFO] sleep 3.66s (before query 96 連江縣)
+2026-05-12 10:30:58 [INFO] [440/506] no_data year=96 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:30:58 [INFO] sleep 10.10s (after query combination 96 連江縣)
+2026-05-12 10:31:08 [INFO] [441/506] querying year=95 city=基隆市
+2026-05-12 10:31:08 [INFO] sleep 1.55s (before query 95 基隆市)
+2026-05-12 10:31:10 [INFO] [441/506] no_data year=95 city=基隆市 message=generic site error page returned; treated as no_data
+2026-05-12 10:31:10 [INFO] sleep 11.83s (after query combination 95 基隆市)
+2026-05-12 10:31:22 [INFO] [442/506] querying year=95 city=臺北市
+2026-05-12 10:31:22 [INFO] sleep 3.23s (before query 95 臺北市)
+2026-05-12 10:31:25 [INFO] [442/506] no_data year=95 city=臺北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:31:25 [INFO] sleep 11.67s (after query combination 95 臺北市)
+2026-05-12 10:31:37 [INFO] [443/506] querying year=95 city=新北市
+2026-05-12 10:31:37 [INFO] sleep 3.88s (before query 95 新北市)
+2026-05-12 10:31:42 [INFO] [443/506] no_data year=95 city=新北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:31:42 [INFO] sleep 5.60s (after query combination 95 新北市)
+2026-05-12 10:31:47 [INFO] [444/506] querying year=95 city=桃園市
+2026-05-12 10:31:47 [INFO] sleep 4.94s (before query 95 桃園市)
+2026-05-12 10:31:53 [INFO] [444/506] no_data year=95 city=桃園市 message=generic site error page returned; treated as no_data
+2026-05-12 10:31:53 [INFO] sleep 14.74s (after query combination 95 桃園市)
+2026-05-12 10:32:07 [INFO] [445/506] querying year=95 city=新竹縣
+2026-05-12 10:32:07 [INFO] sleep 3.71s (before query 95 新竹縣)
+2026-05-12 10:32:11 [INFO] [445/506] no_data year=95 city=新竹縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:32:11 [INFO] sleep 6.05s (after query combination 95 新竹縣)
+2026-05-12 10:32:17 [INFO] [446/506] querying year=95 city=新竹市
+2026-05-12 10:32:17 [INFO] sleep 3.96s (before query 95 新竹市)
+2026-05-12 10:32:22 [INFO] [446/506] no_data year=95 city=新竹市 message=generic site error page returned; treated as no_data
+2026-05-12 10:32:22 [INFO] sleep 12.03s (after query combination 95 新竹市)
+2026-05-12 10:32:34 [INFO] [447/506] querying year=95 city=苗栗縣
+2026-05-12 10:32:34 [INFO] sleep 4.34s (before query 95 苗栗縣)
+2026-05-12 10:32:39 [INFO] [447/506] no_data year=95 city=苗栗縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:32:39 [INFO] sleep 11.65s (after query combination 95 苗栗縣)
+2026-05-12 10:32:50 [INFO] [448/506] querying year=95 city=臺中市
+2026-05-12 10:32:50 [INFO] sleep 2.19s (before query 95 臺中市)
+2026-05-12 10:32:53 [INFO] [448/506] no_data year=95 city=臺中市 message=generic site error page returned; treated as no_data
+2026-05-12 10:32:53 [INFO] sleep 8.41s (after query combination 95 臺中市)
+2026-05-12 10:33:01 [INFO] [449/506] querying year=95 city=南投縣
+2026-05-12 10:33:01 [INFO] sleep 3.23s (before query 95 南投縣)
+2026-05-12 10:33:05 [INFO] [449/506] no_data year=95 city=南投縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:33:05 [INFO] sleep 7.21s (after query combination 95 南投縣)
+2026-05-12 10:33:12 [INFO] [450/506] querying year=95 city=彰化縣
+2026-05-12 10:33:12 [INFO] sleep 4.18s (before query 95 彰化縣)
+2026-05-12 10:33:17 [INFO] [450/506] no_data year=95 city=彰化縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:33:17 [INFO] sleep 13.85s (after query combination 95 彰化縣)
+2026-05-12 10:33:31 [INFO] [451/506] querying year=95 city=雲林縣
+2026-05-12 10:33:31 [INFO] sleep 3.76s (before query 95 雲林縣)
+2026-05-12 10:33:35 [INFO] [451/506] no_data year=95 city=雲林縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:33:35 [INFO] sleep 11.35s (after query combination 95 雲林縣)
+2026-05-12 10:33:46 [INFO] [452/506] querying year=95 city=嘉義縣
+2026-05-12 10:33:46 [INFO] sleep 3.57s (before query 95 嘉義縣)
+2026-05-12 10:33:50 [INFO] [452/506] no_data year=95 city=嘉義縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:33:50 [INFO] sleep 13.19s (after query combination 95 嘉義縣)
+2026-05-12 10:34:03 [INFO] [453/506] querying year=95 city=嘉義市
+2026-05-12 10:34:03 [INFO] sleep 3.20s (before query 95 嘉義市)
+2026-05-12 10:34:07 [INFO] [453/506] no_data year=95 city=嘉義市 message=generic site error page returned; treated as no_data
+2026-05-12 10:34:07 [INFO] sleep 7.22s (after query combination 95 嘉義市)
+2026-05-12 10:34:14 [INFO] [454/506] querying year=95 city=臺南市
+2026-05-12 10:34:14 [INFO] sleep 4.74s (before query 95 臺南市)
+2026-05-12 10:34:19 [INFO] [454/506] no_data year=95 city=臺南市 message=generic site error page returned; treated as no_data
+2026-05-12 10:34:19 [INFO] sleep 12.65s (after query combination 95 臺南市)
+2026-05-12 10:34:32 [INFO] [455/506] querying year=95 city=高雄市
+2026-05-12 10:34:32 [INFO] sleep 3.35s (before query 95 高雄市)
+2026-05-12 10:34:36 [INFO] [455/506] no_data year=95 city=高雄市 message=generic site error page returned; treated as no_data
+2026-05-12 10:34:36 [INFO] sleep 5.52s (after query combination 95 高雄市)
+2026-05-12 10:34:41 [INFO] [456/506] querying year=95 city=屏東縣
+2026-05-12 10:34:41 [INFO] sleep 3.42s (before query 95 屏東縣)
+2026-05-12 10:34:45 [INFO] [456/506] no_data year=95 city=屏東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:34:45 [INFO] sleep 9.71s (after query combination 95 屏東縣)
+2026-05-12 10:34:55 [INFO] [457/506] querying year=95 city=宜蘭縣
+2026-05-12 10:34:55 [INFO] sleep 4.57s (before query 95 宜蘭縣)
+2026-05-12 10:35:00 [INFO] [457/506] no_data year=95 city=宜蘭縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:35:00 [INFO] sleep 11.97s (after query combination 95 宜蘭縣)
+2026-05-12 10:35:12 [INFO] [458/506] querying year=95 city=花蓮縣
+2026-05-12 10:35:12 [INFO] sleep 2.37s (before query 95 花蓮縣)
+2026-05-12 10:35:14 [INFO] [458/506] no_data year=95 city=花蓮縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:35:14 [INFO] sleep 8.59s (after query combination 95 花蓮縣)
+2026-05-12 10:35:23 [INFO] [459/506] querying year=95 city=臺東縣
+2026-05-12 10:35:23 [INFO] sleep 2.58s (before query 95 臺東縣)
+2026-05-12 10:35:26 [INFO] [459/506] no_data year=95 city=臺東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:35:26 [INFO] sleep 7.66s (after query combination 95 臺東縣)
+2026-05-12 10:35:34 [INFO] [460/506] querying year=95 city=金門縣
+2026-05-12 10:35:34 [INFO] sleep 4.99s (before query 95 金門縣)
+2026-05-12 10:35:39 [INFO] [460/506] success year=95 city=金門縣 rows=1
+2026-05-12 10:35:39 [INFO] sleep 14.47s (after query combination 95 金門縣)
+2026-05-12 10:35:54 [INFO] [461/506] querying year=95 city=澎湖縣
+2026-05-12 10:35:54 [INFO] sleep 2.53s (before query 95 澎湖縣)
+2026-05-12 10:35:57 [INFO] [461/506] success year=95 city=澎湖縣 rows=2
+2026-05-12 10:35:57 [INFO] sleep 13.25s (after query combination 95 澎湖縣)
+2026-05-12 10:36:10 [INFO] [462/506] querying year=95 city=連江縣
+2026-05-12 10:36:10 [INFO] sleep 3.23s (before query 95 連江縣)
+2026-05-12 10:36:14 [INFO] [462/506] no_data year=95 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:36:14 [INFO] sleep 9.82s (after query combination 95 連江縣)
+2026-05-12 10:36:24 [INFO] [463/506] querying year=94 city=基隆市
+2026-05-12 10:36:24 [INFO] sleep 4.44s (before query 94 基隆市)
+2026-05-12 10:36:28 [INFO] [463/506] no_data year=94 city=基隆市 message=generic site error page returned; treated as no_data
+2026-05-12 10:36:28 [INFO] sleep 11.63s (after query combination 94 基隆市)
+2026-05-12 10:36:40 [INFO] [464/506] querying year=94 city=臺北市
+2026-05-12 10:36:40 [INFO] sleep 4.35s (before query 94 臺北市)
+2026-05-12 10:36:45 [INFO] [464/506] no_data year=94 city=臺北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:36:45 [INFO] sleep 11.76s (after query combination 94 臺北市)
+2026-05-12 10:36:57 [INFO] [465/506] querying year=94 city=新北市
+2026-05-12 10:36:57 [INFO] sleep 2.97s (before query 94 新北市)
+2026-05-12 10:37:00 [INFO] [465/506] no_data year=94 city=新北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:37:00 [INFO] sleep 11.38s (after query combination 94 新北市)
+2026-05-12 10:37:11 [INFO] [466/506] querying year=94 city=桃園市
+2026-05-12 10:37:11 [INFO] sleep 3.59s (before query 94 桃園市)
+2026-05-12 10:37:15 [INFO] [466/506] no_data year=94 city=桃園市 message=generic site error page returned; treated as no_data
+2026-05-12 10:37:15 [INFO] sleep 14.93s (after query combination 94 桃園市)
+2026-05-12 10:37:30 [INFO] [467/506] querying year=94 city=新竹縣
+2026-05-12 10:37:30 [INFO] sleep 3.55s (before query 94 新竹縣)
+2026-05-12 10:37:34 [INFO] [467/506] no_data year=94 city=新竹縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:37:34 [INFO] sleep 5.45s (after query combination 94 新竹縣)
+2026-05-12 10:37:40 [INFO] [468/506] querying year=94 city=新竹市
+2026-05-12 10:37:40 [INFO] sleep 4.34s (before query 94 新竹市)
+2026-05-12 10:37:44 [INFO] [468/506] no_data year=94 city=新竹市 message=generic site error page returned; treated as no_data
+2026-05-12 10:37:44 [INFO] sleep 6.25s (after query combination 94 新竹市)
+2026-05-12 10:37:51 [INFO] [469/506] querying year=94 city=苗栗縣
+2026-05-12 10:37:51 [INFO] sleep 3.84s (before query 94 苗栗縣)
+2026-05-12 10:37:55 [INFO] [469/506] no_data year=94 city=苗栗縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:37:55 [INFO] sleep 5.10s (after query combination 94 苗栗縣)
+2026-05-12 10:38:00 [INFO] [470/506] querying year=94 city=臺中市
+2026-05-12 10:38:00 [INFO] sleep 2.18s (before query 94 臺中市)
+2026-05-12 10:38:02 [INFO] [470/506] no_data year=94 city=臺中市 message=generic site error page returned; treated as no_data
+2026-05-12 10:38:02 [INFO] sleep 13.26s (after query combination 94 臺中市)
+2026-05-12 10:38:16 [INFO] [471/506] querying year=94 city=南投縣
+2026-05-12 10:38:16 [INFO] sleep 1.89s (before query 94 南投縣)
+2026-05-12 10:38:18 [INFO] [471/506] no_data year=94 city=南投縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:38:18 [INFO] sleep 10.08s (after query combination 94 南投縣)
+2026-05-12 10:38:28 [INFO] [472/506] querying year=94 city=彰化縣
+2026-05-12 10:38:28 [INFO] sleep 2.87s (before query 94 彰化縣)
+2026-05-12 10:38:31 [INFO] [472/506] no_data year=94 city=彰化縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:38:31 [INFO] sleep 5.13s (after query combination 94 彰化縣)
+2026-05-12 10:38:37 [INFO] [473/506] querying year=94 city=雲林縣
+2026-05-12 10:38:37 [INFO] sleep 4.36s (before query 94 雲林縣)
+2026-05-12 10:38:41 [INFO] [473/506] no_data year=94 city=雲林縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:38:41 [INFO] sleep 14.09s (after query combination 94 雲林縣)
+2026-05-12 10:38:55 [INFO] [474/506] querying year=94 city=嘉義縣
+2026-05-12 10:38:55 [INFO] sleep 3.35s (before query 94 嘉義縣)
+2026-05-12 10:38:59 [INFO] [474/506] no_data year=94 city=嘉義縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:38:59 [INFO] sleep 5.19s (after query combination 94 嘉義縣)
+2026-05-12 10:39:04 [INFO] [475/506] querying year=94 city=嘉義市
+2026-05-12 10:39:04 [INFO] sleep 1.52s (before query 94 嘉義市)
+2026-05-12 10:39:06 [INFO] [475/506] no_data year=94 city=嘉義市 message=generic site error page returned; treated as no_data
+2026-05-12 10:39:06 [INFO] sleep 11.74s (after query combination 94 嘉義市)
+2026-05-12 10:39:18 [INFO] [476/506] querying year=94 city=臺南市
+2026-05-12 10:39:18 [INFO] sleep 2.87s (before query 94 臺南市)
+2026-05-12 10:39:21 [INFO] [476/506] no_data year=94 city=臺南市 message=generic site error page returned; treated as no_data
+2026-05-12 10:39:21 [INFO] sleep 9.72s (after query combination 94 臺南市)
+2026-05-12 10:39:31 [INFO] [477/506] querying year=94 city=高雄市
+2026-05-12 10:39:31 [INFO] sleep 3.02s (before query 94 高雄市)
+2026-05-12 10:39:34 [INFO] [477/506] no_data year=94 city=高雄市 message=generic site error page returned; treated as no_data
+2026-05-12 10:39:34 [INFO] sleep 9.12s (after query combination 94 高雄市)
+2026-05-12 10:39:43 [INFO] [478/506] querying year=94 city=屏東縣
+2026-05-12 10:39:43 [INFO] sleep 4.33s (before query 94 屏東縣)
+2026-05-12 10:39:48 [INFO] [478/506] no_data year=94 city=屏東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:39:48 [INFO] sleep 5.64s (after query combination 94 屏東縣)
+2026-05-12 10:39:54 [INFO] [479/506] querying year=94 city=宜蘭縣
+2026-05-12 10:39:54 [INFO] sleep 4.77s (before query 94 宜蘭縣)
+2026-05-12 10:39:59 [INFO] [479/506] no_data year=94 city=宜蘭縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:39:59 [INFO] sleep 8.26s (after query combination 94 宜蘭縣)
+2026-05-12 10:40:07 [INFO] [480/506] querying year=94 city=花蓮縣
+2026-05-12 10:40:07 [INFO] sleep 2.26s (before query 94 花蓮縣)
+2026-05-12 10:40:10 [INFO] [480/506] no_data year=94 city=花蓮縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:40:10 [INFO] sleep 14.15s (after query combination 94 花蓮縣)
+2026-05-12 10:40:24 [INFO] [481/506] querying year=94 city=臺東縣
+2026-05-12 10:40:24 [INFO] sleep 1.88s (before query 94 臺東縣)
+2026-05-12 10:40:26 [INFO] [481/506] no_data year=94 city=臺東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:40:26 [INFO] sleep 5.88s (after query combination 94 臺東縣)
+2026-05-12 10:40:32 [INFO] [482/506] querying year=94 city=金門縣
+2026-05-12 10:40:32 [INFO] sleep 2.05s (before query 94 金門縣)
+2026-05-12 10:40:35 [INFO] [482/506] success year=94 city=金門縣 rows=5
+2026-05-12 10:40:35 [INFO] sleep 10.60s (after query combination 94 金門縣)
+2026-05-12 10:40:45 [INFO] [483/506] querying year=94 city=澎湖縣
+2026-05-12 10:40:45 [INFO] sleep 2.08s (before query 94 澎湖縣)
+2026-05-12 10:40:48 [INFO] [483/506] success year=94 city=澎湖縣 rows=3
+2026-05-12 10:40:48 [INFO] sleep 11.00s (after query combination 94 澎湖縣)
+2026-05-12 10:40:59 [INFO] [484/506] querying year=94 city=連江縣
+2026-05-12 10:40:59 [INFO] sleep 2.66s (before query 94 連江縣)
+2026-05-12 10:41:02 [INFO] [484/506] no_data year=94 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:41:02 [INFO] sleep 9.84s (after query combination 94 連江縣)
+2026-05-12 10:41:12 [INFO] [485/506] querying year=93 city=基隆市
+2026-05-12 10:41:12 [INFO] sleep 3.60s (before query 93 基隆市)
+2026-05-12 10:41:16 [INFO] [485/506] no_data year=93 city=基隆市 message=generic site error page returned; treated as no_data
+2026-05-12 10:41:16 [INFO] sleep 8.92s (after query combination 93 基隆市)
+2026-05-12 10:41:24 [INFO] [486/506] querying year=93 city=臺北市
+2026-05-12 10:41:24 [INFO] sleep 4.55s (before query 93 臺北市)
+2026-05-12 10:41:29 [INFO] [486/506] no_data year=93 city=臺北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:41:29 [INFO] sleep 13.16s (after query combination 93 臺北市)
+2026-05-12 10:41:43 [INFO] [487/506] querying year=93 city=新北市
+2026-05-12 10:41:43 [INFO] sleep 4.40s (before query 93 新北市)
+2026-05-12 10:41:47 [INFO] [487/506] no_data year=93 city=新北市 message=generic site error page returned; treated as no_data
+2026-05-12 10:41:47 [INFO] sleep 12.39s (after query combination 93 新北市)
+2026-05-12 10:42:00 [INFO] [488/506] querying year=93 city=桃園市
+2026-05-12 10:42:00 [INFO] sleep 2.41s (before query 93 桃園市)
+2026-05-12 10:42:03 [INFO] [488/506] no_data year=93 city=桃園市 message=generic site error page returned; treated as no_data
+2026-05-12 10:42:03 [INFO] sleep 8.18s (after query combination 93 桃園市)
+2026-05-12 10:42:11 [INFO] [489/506] querying year=93 city=新竹縣
+2026-05-12 10:42:11 [INFO] sleep 2.13s (before query 93 新竹縣)
+2026-05-12 10:42:13 [INFO] [489/506] no_data year=93 city=新竹縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:42:13 [INFO] sleep 8.89s (after query combination 93 新竹縣)
+2026-05-12 10:42:22 [INFO] [490/506] querying year=93 city=新竹市
+2026-05-12 10:42:22 [INFO] sleep 2.67s (before query 93 新竹市)
+2026-05-12 10:42:25 [INFO] [490/506] no_data year=93 city=新竹市 message=generic site error page returned; treated as no_data
+2026-05-12 10:42:25 [INFO] sleep 14.24s (after query combination 93 新竹市)
+2026-05-12 10:42:39 [INFO] [491/506] querying year=93 city=苗栗縣
+2026-05-12 10:42:39 [INFO] sleep 4.39s (before query 93 苗栗縣)
+2026-05-12 10:42:44 [INFO] [491/506] no_data year=93 city=苗栗縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:42:44 [INFO] sleep 13.98s (after query combination 93 苗栗縣)
+2026-05-12 10:42:58 [INFO] [492/506] querying year=93 city=臺中市
+2026-05-12 10:42:58 [INFO] sleep 4.54s (before query 93 臺中市)
+2026-05-12 10:43:03 [INFO] [492/506] no_data year=93 city=臺中市 message=generic site error page returned; treated as no_data
+2026-05-12 10:43:03 [INFO] sleep 7.52s (after query combination 93 臺中市)
+2026-05-12 10:43:11 [INFO] [493/506] querying year=93 city=南投縣
+2026-05-12 10:43:11 [INFO] sleep 2.96s (before query 93 南投縣)
+2026-05-12 10:43:14 [INFO] [493/506] no_data year=93 city=南投縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:43:14 [INFO] sleep 7.09s (after query combination 93 南投縣)
+2026-05-12 10:43:21 [INFO] [494/506] querying year=93 city=彰化縣
+2026-05-12 10:43:21 [INFO] sleep 1.99s (before query 93 彰化縣)
+2026-05-12 10:43:24 [INFO] [494/506] no_data year=93 city=彰化縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:43:24 [INFO] sleep 9.58s (after query combination 93 彰化縣)
+2026-05-12 10:43:33 [INFO] [495/506] querying year=93 city=雲林縣
+2026-05-12 10:43:33 [INFO] sleep 3.66s (before query 93 雲林縣)
+2026-05-12 10:43:37 [INFO] [495/506] no_data year=93 city=雲林縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:43:37 [INFO] sleep 7.60s (after query combination 93 雲林縣)
+2026-05-12 10:43:45 [INFO] [496/506] querying year=93 city=嘉義縣
+2026-05-12 10:43:45 [INFO] sleep 1.60s (before query 93 嘉義縣)
+2026-05-12 10:43:47 [INFO] [496/506] no_data year=93 city=嘉義縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:43:47 [INFO] sleep 5.31s (after query combination 93 嘉義縣)
+2026-05-12 10:43:52 [INFO] [497/506] querying year=93 city=嘉義市
+2026-05-12 10:43:52 [INFO] sleep 3.94s (before query 93 嘉義市)
+2026-05-12 10:43:57 [INFO] [497/506] no_data year=93 city=嘉義市 message=generic site error page returned; treated as no_data
+2026-05-12 10:43:57 [INFO] sleep 14.71s (after query combination 93 嘉義市)
+2026-05-12 10:44:11 [INFO] [498/506] querying year=93 city=臺南市
+2026-05-12 10:44:11 [INFO] sleep 1.78s (before query 93 臺南市)
+2026-05-12 10:44:13 [INFO] [498/506] no_data year=93 city=臺南市 message=generic site error page returned; treated as no_data
+2026-05-12 10:44:13 [INFO] sleep 11.00s (after query combination 93 臺南市)
+2026-05-12 10:44:24 [INFO] [499/506] querying year=93 city=高雄市
+2026-05-12 10:44:25 [INFO] sleep 2.93s (before query 93 高雄市)
+2026-05-12 10:44:28 [INFO] [499/506] no_data year=93 city=高雄市 message=generic site error page returned; treated as no_data
+2026-05-12 10:44:28 [INFO] sleep 6.55s (after query combination 93 高雄市)
+2026-05-12 10:44:34 [INFO] [500/506] querying year=93 city=屏東縣
+2026-05-12 10:44:34 [INFO] sleep 1.76s (before query 93 屏東縣)
+2026-05-12 10:44:37 [INFO] [500/506] no_data year=93 city=屏東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:44:37 [INFO] sleep 14.42s (after query combination 93 屏東縣)
+2026-05-12 10:44:51 [INFO] [501/506] querying year=93 city=宜蘭縣
+2026-05-12 10:44:51 [INFO] sleep 4.95s (before query 93 宜蘭縣)
+2026-05-12 10:44:56 [INFO] [501/506] no_data year=93 city=宜蘭縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:44:56 [INFO] sleep 14.23s (after query combination 93 宜蘭縣)
+2026-05-12 10:45:11 [INFO] [502/506] querying year=93 city=花蓮縣
+2026-05-12 10:45:11 [INFO] sleep 2.55s (before query 93 花蓮縣)
+2026-05-12 10:45:13 [INFO] [502/506] no_data year=93 city=花蓮縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:45:13 [INFO] sleep 11.35s (after query combination 93 花蓮縣)
+2026-05-12 10:45:25 [INFO] [503/506] querying year=93 city=臺東縣
+2026-05-12 10:45:25 [INFO] sleep 4.53s (before query 93 臺東縣)
+2026-05-12 10:45:30 [INFO] [503/506] no_data year=93 city=臺東縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:45:30 [INFO] sleep 6.02s (after query combination 93 臺東縣)
+2026-05-12 10:45:36 [INFO] [504/506] querying year=93 city=金門縣
+2026-05-12 10:45:36 [INFO] sleep 4.82s (before query 93 金門縣)
+2026-05-12 10:45:41 [INFO] [504/506] success year=93 city=金門縣 rows=6
+2026-05-12 10:45:41 [INFO] sleep 10.72s (after query combination 93 金門縣)
+2026-05-12 10:45:52 [INFO] [505/506] querying year=93 city=澎湖縣
+2026-05-12 10:45:52 [INFO] sleep 2.46s (before query 93 澎湖縣)
+2026-05-12 10:45:55 [INFO] [505/506] success year=93 city=澎湖縣 rows=4
+2026-05-12 10:45:55 [INFO] sleep 11.99s (after query combination 93 澎湖縣)
+2026-05-12 10:46:07 [INFO] [506/506] querying year=93 city=連江縣
+2026-05-12 10:46:07 [INFO] sleep 2.97s (before query 93 連江縣)
+2026-05-12 10:46:10 [INFO] [506/506] no_data year=93 city=連江縣 message=generic site error page returned; treated as no_data
+2026-05-12 10:46:10 [INFO] sleep 13.46s (after query combination 93 連江縣)
+2026-05-12 10:46:34 [INFO] starting sample verification against website
+2026-05-12 10:46:34 [INFO] sleep 1.91s (before query 114 雲林縣)
+2026-05-12 10:46:37 [INFO] sleep 3.39s (before query 104 雲林縣)
+2026-05-12 10:46:41 [INFO] sleep 2.79s (before query 114 新北市)
+2026-05-12 10:46:45 [INFO] sleep 1.67s (before query 112 新竹市)
+2026-05-12 10:46:47 [INFO] sleep 1.91s (before query 112 高雄市)
+2026-05-12 10:46:51 [INFO] sample verification: {'sample_size': 5, 'matched': 5, 'results': [{'query_year': '114', 'query_city': '雲林縣', 'variation_id': 'P0111411073', 'status': 'success', 'matched': True, 'message': 'ok'}, {'query_year': '104', 'query_city': '雲林縣', 'variation_id': 'AP0710405001', 'status': 'success', 'matched': True, 'message': 'ok'}, {'query_year': '114', 'query_city': '新北市', 'variation_id': '21011404001', 'status': 'success', 'matched': True, 'message': 'ok'}, {'query_year': '112', 'query_city': '新竹市', 'variation_id': 'O0211206007', 'status': 'success', 'matched': True, 'message': 'ok'}, {'query_year': '112', 'query_city': '高雄市', 'variation_id': 'S0611206114', 'status': 'success', 'matched': True, 'message': 'ok'}]}
+2026-05-12 10:46:51 [INFO] finished summary: {"start_time": "2026-05-12T08:46:27+08:00", "end_time": "2026-05-12T10:46:51+08:00", "elapsed": "2:00:24.051871", "year_count": 23, "city_count": 22, "total_query_combinations": 506, "success_query_combinations_this_run": 420, "no_data_query_combinations_this_run": 86, "failed_query_combinations_this_run": 0, "skipped_query_combinations_this_run": 0, "raw_total_rows_this_run": 257379, "raw_total_rows_records_file": 257379, "deduped_rows": 257373, "csv_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_variation_points_20260512_084627.csv", "log_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_scrape_20260512_084627.log", "checkpoint_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_checkpoint.json", "records_jsonl_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_records_20260512_084627.jsonl", "has_incomplete_items": false, "validation": {"csv_read_rows": 257373, "required_columns_present": {"query_year": true, "query_city": true, "variation_id": true, "authority_unit": true, "verification_result": true, "variation_type": true, "longitude": true, "latitude": true, "is_violation": true, "source_url": true, "scraped_at": true, "raw_data_json": true}, "non_empty_ratios": {"variation_id": 1.0, "authority_unit": 1.0, "verification_result": 1.0, "variation_type": 0.99879552245185, "longitude": 1.0, "latitude": 1.0}, "coordinate_valid_count": 257369, "coordinate_total": 257373, "coordinate_valid_ratio": 0.9999844583542175, "duplicate_key_count": 0}, "sample_verification": {"sample_size": 5, "matched": 5, "results": [{"query_year": "114", "query_city": "雲林縣", "variation_id": "P0111411073", "status": "success", "matched": true, "message": "ok"}, {"query_year": "104", "query_city": "雲林縣", "variation_id": "AP0710405001", "status": "success", "matched": true, "message": "ok"}, {"query_year": "114", "query_city": "新北市", "variation_id": "21011404001", "status": "success", "matched": true, "message": "ok"}, {"query_year": "112", "query_city": "新竹市", "variation_id": "O0211206007", "status": "success", "matched": true, "message": "ok"}, {"query_year": "112", "query_city": "高雄市", "variation_id": "S0611206114", "status": "success", "matched": true, "message": "ok"}]}}
+
+========== landchg scrape summary ==========
+start_time: 2026-05-12T08:46:27+08:00
+end_time: 2026-05-12T10:46:51+08:00
+elapsed: 2:00:24.051871
+year_count: 23
+city_count: 22
+total_query_combinations: 506
+success_query_combinations_this_run: 420
+no_data_query_combinations_this_run: 86
+failed_query_combinations_this_run: 0
+skipped_query_combinations_this_run: 0
+raw_total_rows_this_run: 257379
+raw_total_rows_records_file: 257379
+deduped_rows: 257373
+csv_path: C:\Users\allen\Desktop\master_1.2\論文\pachung\landchg_variation_points_20260512_084627.csv
+log_path: C:\Users\allen\Desktop\master_1.2\論文\pachung\landchg_scrape_20260512_084627.log
+checkpoint_path: C:\Users\allen\Desktop\master_1.2\論文\pachung\landchg_checkpoint.json
+records_jsonl_path: C:\Users\allen\Desktop\master_1.2\論文\pachung\landchg_records_20260512_084627.jsonl
+has_incomplete_items: False
+validation:
+  csv_read_rows: 257373
+  required_columns_present: {'query_year': True, 'query_city': True, 'variation_id': True, 'authority_unit': True, 'verification_result': True, 'variation_type': True, 'longitude': True, 'latitude': True, 'is_violation': True, 'source_url': True, 'scraped_at': True, 'raw_data_json': True}
+  non_empty_ratios: {'variation_id': 1.0, 'authority_unit': 1.0, 'verification_result': 1.0, 'variation_type': 0.99879552245185, 'longitude': 1.0, 'latitude': 1.0}
+  coordinate_valid_count: 257369
+  coordinate_total: 257373
+  coordinate_valid_ratio: 0.9999844583542175
+  duplicate_key_count: 0
+sample_verification:
+  sample_size: 5
+  matched: 5
+  - 114 雲林縣 P0111411073 status=success matched=True
+  - 104 雲林縣 AP0710405001 status=success matched=True
+  - 114 新北市 21011404001 status=success matched=True
+  - 112 新竹市 O0211206007 status=success matched=True
+  - 112 高雄市 S0611206114 status=success matched=True
+===========================================
+

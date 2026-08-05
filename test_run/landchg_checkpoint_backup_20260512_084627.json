@@ -1,0 +1,231 @@
+{
+  "completed": {
+    "115||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T08:45:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 35,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T08:45:48+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 463,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T08:45:46+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 78,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    }
+  },
+  "created_at": "2026-05-12T08:45:41+08:00",
+  "errors": [],
+  "paths": {
+    "checkpoint": "landchg_checkpoint.json",
+    "csv": "landchg_variation_points_20260512_084541.csv",
+    "log": "landchg_scrape_20260512_084541.log",
+    "records_jsonl": "landchg_records_20260512_084541.jsonl"
+  },
+  "query_options": {
+    "cities": [
+      {
+        "text": "基隆市",
+        "value": "基隆市"
+      },
+      {
+        "text": "臺北市",
+        "value": "臺北市"
+      },
+      {
+        "text": "新北市",
+        "value": "新北市"
+      },
+      {
+        "text": "桃園市",
+        "value": "桃園市"
+      },
+      {
+        "text": "新竹縣",
+        "value": "新竹縣"
+      },
+      {
+        "text": "新竹市",
+        "value": "新竹市"
+      },
+      {
+        "text": "苗栗縣",
+        "value": "苗栗縣"
+      },
+      {
+        "text": "臺中市",
+        "value": "臺中市"
+      },
+      {
+        "text": "南投縣",
+        "value": "南投縣"
+      },
+      {
+        "text": "彰化縣",
+        "value": "彰化縣"
+      },
+      {
+        "text": "雲林縣",
+        "value": "雲林縣"
+      },
+      {
+        "text": "嘉義縣",
+        "value": "嘉義縣"
+      },
+      {
+        "text": "嘉義市",
+        "value": "嘉義市"
+      },
+      {
+        "text": "臺南市",
+        "value": "臺南市"
+      },
+      {
+        "text": "高雄市",
+        "value": "高雄市"
+      },
+      {
+        "text": "屏東縣",
+        "value": "屏東縣"
+      },
+      {
+        "text": "宜蘭縣",
+        "value": "宜蘭縣"
+      },
+      {
+        "text": "花蓮縣",
+        "value": "花蓮縣"
+      },
+      {
+        "text": "臺東縣",
+        "value": "臺東縣"
+      },
+      {
+        "text": "金門縣",
+        "value": "金門縣"
+      },
+      {
+        "text": "澎湖縣",
+        "value": "澎湖縣"
+      },
+      {
+        "text": "連江縣",
+        "value": "連江縣"
+      }
+    ],
+    "years": [
+      {
+        "text": "115",
+        "value": "115"
+      },
+      {
+        "text": "114",
+        "value": "114"
+      },
+      {
+        "text": "113",
+        "value": "113"
+      },
+      {
+        "text": "112",
+        "value": "112"
+      },
+      {
+        "text": "111",
+        "value": "111"
+      },
+      {
+        "text": "110",
+        "value": "110"
+      },
+      {
+        "text": "109",
+        "value": "109"
+      },
+      {
+        "text": "108",
+        "value": "108"
+      },
+      {
+        "text": "107",
+        "value": "107"
+      },
+      {
+        "text": "106",
+        "value": "106"
+      },
+      {
+        "text": "105",
+        "value": "105"
+      },
+      {
+        "text": "104",
+        "value": "104"
+      },
+      {
+        "text": "103",
+        "value": "103"
+      },
+      {
+        "text": "102",
+        "value": "102"
+      },
+      {
+        "text": "101",
+        "value": "101"
+      },
+      {
+        "text": "100",
+        "value": "100"
+      },
+      {
+        "text": "99",
+        "value": "99"
+      },
+      {
+        "text": "98",
+        "value": "98"
+      },
+      {
+        "text": "97",
+        "value": "97"
+      },
+      {
+        "text": "96",
+        "value": "96"
+      },
+      {
+        "text": "95",
+        "value": "95"
+      },
+      {
+        "text": "94",
+        "value": "94"
+      },
+      {
+        "text": "93",
+        "value": "93"
+      }
+    ]
+  },
+  "run_started_at": "2026-05-12T08:45:41+08:00",
+  "source_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+  "updated_at": "2026-05-12T08:45:48+08:00"
+}

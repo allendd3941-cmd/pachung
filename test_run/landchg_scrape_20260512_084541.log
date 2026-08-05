@@ -1,0 +1,16 @@
+2026-05-12 08:45:41 [INFO] started at 2026-05-12T08:45:41+08:00
+2026-05-12 08:45:41 [INFO] robots.txt check: status=200 content_type=text/html bytes=2274
+2026-05-12 08:45:41 [INFO] robots.txt did not return standard robots rules; no explicit disallow found
+2026-05-12 08:45:42 [INFO] no explicit terms/privacy/copyright links found on target page
+2026-05-12 08:45:42 [INFO] initial page loaded: years=23 cities=22
+2026-05-12 08:45:42 [INFO] query combinations to consider: 3
+2026-05-12 08:45:42 [INFO] [1/3] querying year=115 city=基隆市
+2026-05-12 08:45:42 [INFO] sleep 1.53s (before query 115 基隆市)
+2026-05-12 08:45:44 [INFO] [1/3] success year=115 city=基隆市 rows=35
+2026-05-12 08:45:44 [INFO] [2/3] querying year=115 city=臺北市
+2026-05-12 08:45:44 [INFO] sleep 1.57s (before query 115 臺北市)
+2026-05-12 08:45:46 [INFO] [2/3] success year=115 city=臺北市 rows=78
+2026-05-12 08:45:46 [INFO] [3/3] querying year=115 city=新北市
+2026-05-12 08:45:46 [INFO] sleep 1.60s (before query 115 新北市)
+2026-05-12 08:45:48 [INFO] [3/3] success year=115 city=新北市 rows=463
+2026-05-12 08:45:48 [INFO] finished summary: {"start_time": "2026-05-12T08:45:41+08:00", "end_time": "2026-05-12T08:45:48+08:00", "elapsed": "0:00:07.101599", "year_count": 23, "city_count": 22, "total_query_combinations": 506, "success_query_combinations_this_run": 3, "no_data_query_combinations_this_run": 0, "failed_query_combinations_this_run": 0, "skipped_query_combinations_this_run": 0, "raw_total_rows_this_run": 576, "raw_total_rows_records_file": 576, "deduped_rows": 574, "csv_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_variation_points_20260512_084541.csv", "log_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_scrape_20260512_084541.log", "checkpoint_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_checkpoint.json", "records_jsonl_path": "C:\\Users\\allen\\Desktop\\master_1.2\\論文\\pachung\\landchg_records_20260512_084541.jsonl", "has_incomplete_items": true, "validation": {"csv_read_rows": 574, "required_columns_present": {"query_year": true, "query_city": true, "variation_id": true, "authority_unit": true, "verification_result": true, "variation_type": true, "longitude": true, "latitude": true, "is_violation": true, "source_url": true, "scraped_at": true, "raw_data_json": true}, "non_empty_ratios": {"variation_id": 1.0, "authority_unit": 1.0, "verification_result": 1.0, "variation_type": 1.0, "longitude": 1.0, "latitude": 1.0}, "coordinate_valid_count": 574, "coordinate_total": 574, "coordinate_valid_ratio": 1.0, "duplicate_key_count": 0}}

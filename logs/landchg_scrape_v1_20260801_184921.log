@@ -1,0 +1,588 @@
+2026-08-01 18:49:21 [INFO] started at 2026-08-01T18:49:21+08:00
+2026-08-01 18:49:22 [INFO] robots.txt check: status=200 content_type=text/html bytes=2274
+2026-08-01 18:49:22 [INFO] robots.txt did not return standard robots rules; no explicit disallow found
+2026-08-01 18:49:22 [INFO] resuming from checkpoint: landchg_checkpoint.json
+2026-08-01 18:49:22 [INFO] refresh-years ['115']: no matching completed entries; nothing to do
+2026-08-01 18:49:22 [INFO] no explicit terms/privacy/copyright links found on target page
+2026-08-01 18:49:22 [INFO] initial page loaded: years=23 cities=22
+2026-08-01 18:49:22 [INFO] query combinations to consider: 506
+2026-08-01 18:49:22 [INFO] [1/506] querying year=115 city=基隆市
+2026-08-01 18:49:22 [INFO] sleep 2.32s (before query 115 基隆市)
+2026-08-01 18:49:25 [INFO] [1/506] success year=115 city=基隆市 rows=83
+2026-08-01 18:49:25 [INFO] sleep 6.21s (after query combination 115 基隆市)
+2026-08-01 18:49:32 [INFO] [2/506] querying year=115 city=臺北市
+2026-08-01 18:49:32 [INFO] sleep 4.29s (before query 115 臺北市)
+2026-08-01 18:49:36 [INFO] [2/506] success year=115 city=臺北市 rows=111
+2026-08-01 18:49:36 [INFO] sleep 14.59s (after query combination 115 臺北市)
+2026-08-01 18:49:51 [INFO] [3/506] querying year=115 city=新北市
+2026-08-01 18:49:51 [INFO] sleep 4.63s (before query 115 新北市)
+2026-08-01 18:49:56 [INFO] [3/506] success year=115 city=新北市 rows=750
+2026-08-01 18:49:56 [INFO] sleep 6.36s (after query combination 115 新北市)
+2026-08-01 18:50:03 [INFO] [4/506] querying year=115 city=桃園市
+2026-08-01 18:50:03 [INFO] sleep 3.14s (before query 115 桃園市)
+2026-08-01 18:50:07 [INFO] [4/506] success year=115 city=桃園市 rows=1195
+2026-08-01 18:50:07 [INFO] sleep 5.80s (after query combination 115 桃園市)
+2026-08-01 18:50:13 [INFO] [5/506] querying year=115 city=新竹縣
+2026-08-01 18:50:13 [INFO] sleep 4.43s (before query 115 新竹縣)
+2026-08-01 18:50:18 [INFO] [5/506] success year=115 city=新竹縣 rows=749
+2026-08-01 18:50:18 [INFO] sleep 8.02s (after query combination 115 新竹縣)
+2026-08-01 18:50:26 [INFO] [6/506] querying year=115 city=新竹市
+2026-08-01 18:50:26 [INFO] sleep 3.16s (before query 115 新竹市)
+2026-08-01 18:50:30 [INFO] [6/506] success year=115 city=新竹市 rows=117
+2026-08-01 18:50:30 [INFO] sleep 6.99s (after query combination 115 新竹市)
+2026-08-01 18:50:37 [INFO] [7/506] querying year=115 city=苗栗縣
+2026-08-01 18:50:37 [INFO] sleep 4.28s (before query 115 苗栗縣)
+2026-08-01 18:50:42 [INFO] [7/506] success year=115 city=苗栗縣 rows=1071
+2026-08-01 18:50:42 [INFO] sleep 5.70s (after query combination 115 苗栗縣)
+2026-08-01 18:50:47 [INFO] [8/506] querying year=115 city=臺中市
+2026-08-01 18:50:47 [INFO] sleep 3.49s (before query 115 臺中市)
+2026-08-01 18:50:52 [INFO] [8/506] success year=115 city=臺中市 rows=1136
+2026-08-01 18:50:52 [INFO] sleep 13.42s (after query combination 115 臺中市)
+2026-08-01 18:51:05 [INFO] [9/506] querying year=115 city=南投縣
+2026-08-01 18:51:05 [INFO] sleep 4.35s (before query 115 南投縣)
+2026-08-01 18:51:10 [INFO] [9/506] success year=115 city=南投縣 rows=1134
+2026-08-01 18:51:10 [INFO] sleep 11.32s (after query combination 115 南投縣)
+2026-08-01 18:51:22 [INFO] [10/506] querying year=115 city=彰化縣
+2026-08-01 18:51:22 [INFO] sleep 4.37s (before query 115 彰化縣)
+2026-08-01 18:51:27 [INFO] [10/506] success year=115 city=彰化縣 rows=980
+2026-08-01 18:51:27 [INFO] sleep 13.63s (after query combination 115 彰化縣)
+2026-08-01 18:51:41 [INFO] [11/506] querying year=115 city=雲林縣
+2026-08-01 18:51:41 [INFO] sleep 4.60s (before query 115 雲林縣)
+2026-08-01 18:51:46 [INFO] [11/506] success year=115 city=雲林縣 rows=919
+2026-08-01 18:51:46 [INFO] sleep 8.92s (after query combination 115 雲林縣)
+2026-08-01 18:51:55 [INFO] [12/506] querying year=115 city=嘉義縣
+2026-08-01 18:51:55 [INFO] sleep 1.71s (before query 115 嘉義縣)
+2026-08-01 18:51:58 [INFO] [12/506] success year=115 city=嘉義縣 rows=951
+2026-08-01 18:51:58 [INFO] sleep 14.62s (after query combination 115 嘉義縣)
+2026-08-01 18:52:12 [INFO] [13/506] querying year=115 city=嘉義市
+2026-08-01 18:52:12 [INFO] sleep 1.55s (before query 115 嘉義市)
+2026-08-01 18:52:14 [INFO] [13/506] success year=115 city=嘉義市 rows=61
+2026-08-01 18:52:14 [INFO] sleep 9.30s (after query combination 115 嘉義市)
+2026-08-01 18:52:24 [INFO] [14/506] querying year=115 city=臺南市
+2026-08-01 18:52:24 [INFO] sleep 1.53s (before query 115 臺南市)
+2026-08-01 18:52:27 [INFO] [14/506] success year=115 city=臺南市 rows=2114
+2026-08-01 18:52:27 [INFO] sleep 9.43s (after query combination 115 臺南市)
+2026-08-01 18:52:36 [INFO] [15/506] querying year=115 city=高雄市
+2026-08-01 18:52:36 [INFO] sleep 2.73s (before query 115 高雄市)
+2026-08-01 18:52:40 [INFO] [15/506] success year=115 city=高雄市 rows=1722
+2026-08-01 18:52:40 [INFO] sleep 13.20s (after query combination 115 高雄市)
+2026-08-01 18:52:53 [INFO] [16/506] querying year=115 city=屏東縣
+2026-08-01 18:52:53 [INFO] sleep 1.83s (before query 115 屏東縣)
+2026-08-01 18:52:57 [INFO] [16/506] success year=115 city=屏東縣 rows=2396
+2026-08-01 18:52:57 [INFO] sleep 6.65s (after query combination 115 屏東縣)
+2026-08-01 18:53:04 [INFO] [17/506] querying year=115 city=宜蘭縣
+2026-08-01 18:53:04 [INFO] sleep 2.84s (before query 115 宜蘭縣)
+2026-08-01 18:53:08 [INFO] [17/506] success year=115 city=宜蘭縣 rows=1194
+2026-08-01 18:53:08 [INFO] sleep 11.71s (after query combination 115 宜蘭縣)
+2026-08-01 18:53:19 [INFO] [18/506] querying year=115 city=花蓮縣
+2026-08-01 18:53:19 [INFO] sleep 3.49s (before query 115 花蓮縣)
+2026-08-01 18:53:24 [INFO] [18/506] success year=115 city=花蓮縣 rows=559
+2026-08-01 18:53:24 [INFO] sleep 12.64s (after query combination 115 花蓮縣)
+2026-08-01 18:53:36 [INFO] [19/506] querying year=115 city=臺東縣
+2026-08-01 18:53:36 [INFO] sleep 4.17s (before query 115 臺東縣)
+2026-08-01 18:53:41 [INFO] [19/506] success year=115 city=臺東縣 rows=870
+2026-08-01 18:53:41 [INFO] sleep 13.17s (after query combination 115 臺東縣)
+2026-08-01 18:53:54 [INFO] [20/506] querying year=115 city=金門縣
+2026-08-01 18:53:54 [INFO] sleep 3.07s (before query 115 金門縣)
+2026-08-01 18:53:58 [INFO] [20/506] success year=115 city=金門縣 rows=151
+2026-08-01 18:53:58 [INFO] sleep 14.40s (after query combination 115 金門縣)
+2026-08-01 18:54:12 [INFO] [21/506] querying year=115 city=澎湖縣
+2026-08-01 18:54:12 [INFO] sleep 3.77s (before query 115 澎湖縣)
+2026-08-01 18:54:16 [INFO] [21/506] success year=115 city=澎湖縣 rows=109
+2026-08-01 18:54:16 [INFO] sleep 14.36s (after query combination 115 澎湖縣)
+2026-08-01 18:54:31 [INFO] [22/506] querying year=115 city=連江縣
+2026-08-01 18:54:31 [INFO] sleep 4.99s (before query 115 連江縣)
+2026-08-01 18:54:36 [INFO] [22/506] success year=115 city=連江縣 rows=28
+2026-08-01 18:54:36 [INFO] sleep 5.66s (after query combination 115 連江縣)
+2026-08-01 18:54:42 [INFO] [23/506] skipped checkpoint-completed 114 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [24/506] skipped checkpoint-completed 114 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [25/506] skipped checkpoint-completed 114 新北市 status=success
+2026-08-01 18:54:42 [INFO] [26/506] skipped checkpoint-completed 114 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [27/506] skipped checkpoint-completed 114 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [28/506] skipped checkpoint-completed 114 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [29/506] skipped checkpoint-completed 114 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [30/506] skipped checkpoint-completed 114 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [31/506] skipped checkpoint-completed 114 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [32/506] skipped checkpoint-completed 114 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [33/506] skipped checkpoint-completed 114 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [34/506] skipped checkpoint-completed 114 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [35/506] skipped checkpoint-completed 114 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [36/506] skipped checkpoint-completed 114 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [37/506] skipped checkpoint-completed 114 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [38/506] skipped checkpoint-completed 114 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [39/506] skipped checkpoint-completed 114 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [40/506] skipped checkpoint-completed 114 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [41/506] skipped checkpoint-completed 114 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [42/506] skipped checkpoint-completed 114 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [43/506] skipped checkpoint-completed 114 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [44/506] skipped checkpoint-completed 114 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [45/506] skipped checkpoint-completed 113 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [46/506] skipped checkpoint-completed 113 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [47/506] skipped checkpoint-completed 113 新北市 status=success
+2026-08-01 18:54:42 [INFO] [48/506] skipped checkpoint-completed 113 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [49/506] skipped checkpoint-completed 113 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [50/506] skipped checkpoint-completed 113 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [51/506] skipped checkpoint-completed 113 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [52/506] skipped checkpoint-completed 113 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [53/506] skipped checkpoint-completed 113 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [54/506] skipped checkpoint-completed 113 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [55/506] skipped checkpoint-completed 113 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [56/506] skipped checkpoint-completed 113 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [57/506] skipped checkpoint-completed 113 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [58/506] skipped checkpoint-completed 113 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [59/506] skipped checkpoint-completed 113 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [60/506] skipped checkpoint-completed 113 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [61/506] skipped checkpoint-completed 113 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [62/506] skipped checkpoint-completed 113 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [63/506] skipped checkpoint-completed 113 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [64/506] skipped checkpoint-completed 113 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [65/506] skipped checkpoint-completed 113 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [66/506] skipped checkpoint-completed 113 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [67/506] skipped checkpoint-completed 112 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [68/506] skipped checkpoint-completed 112 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [69/506] skipped checkpoint-completed 112 新北市 status=success
+2026-08-01 18:54:42 [INFO] [70/506] skipped checkpoint-completed 112 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [71/506] skipped checkpoint-completed 112 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [72/506] skipped checkpoint-completed 112 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [73/506] skipped checkpoint-completed 112 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [74/506] skipped checkpoint-completed 112 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [75/506] skipped checkpoint-completed 112 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [76/506] skipped checkpoint-completed 112 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [77/506] skipped checkpoint-completed 112 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [78/506] skipped checkpoint-completed 112 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [79/506] skipped checkpoint-completed 112 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [80/506] skipped checkpoint-completed 112 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [81/506] skipped checkpoint-completed 112 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [82/506] skipped checkpoint-completed 112 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [83/506] skipped checkpoint-completed 112 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [84/506] skipped checkpoint-completed 112 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [85/506] skipped checkpoint-completed 112 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [86/506] skipped checkpoint-completed 112 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [87/506] skipped checkpoint-completed 112 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [88/506] skipped checkpoint-completed 112 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [89/506] skipped checkpoint-completed 111 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [90/506] skipped checkpoint-completed 111 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [91/506] skipped checkpoint-completed 111 新北市 status=success
+2026-08-01 18:54:42 [INFO] [92/506] skipped checkpoint-completed 111 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [93/506] skipped checkpoint-completed 111 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [94/506] skipped checkpoint-completed 111 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [95/506] skipped checkpoint-completed 111 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [96/506] skipped checkpoint-completed 111 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [97/506] skipped checkpoint-completed 111 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [98/506] skipped checkpoint-completed 111 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [99/506] skipped checkpoint-completed 111 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [100/506] skipped checkpoint-completed 111 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [101/506] skipped checkpoint-completed 111 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [102/506] skipped checkpoint-completed 111 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [103/506] skipped checkpoint-completed 111 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [104/506] skipped checkpoint-completed 111 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [105/506] skipped checkpoint-completed 111 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [106/506] skipped checkpoint-completed 111 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [107/506] skipped checkpoint-completed 111 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [108/506] skipped checkpoint-completed 111 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [109/506] skipped checkpoint-completed 111 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [110/506] skipped checkpoint-completed 111 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [111/506] skipped checkpoint-completed 110 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [112/506] skipped checkpoint-completed 110 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [113/506] skipped checkpoint-completed 110 新北市 status=success
+2026-08-01 18:54:42 [INFO] [114/506] skipped checkpoint-completed 110 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [115/506] skipped checkpoint-completed 110 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [116/506] skipped checkpoint-completed 110 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [117/506] skipped checkpoint-completed 110 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [118/506] skipped checkpoint-completed 110 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [119/506] skipped checkpoint-completed 110 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [120/506] skipped checkpoint-completed 110 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [121/506] skipped checkpoint-completed 110 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [122/506] skipped checkpoint-completed 110 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [123/506] skipped checkpoint-completed 110 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [124/506] skipped checkpoint-completed 110 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [125/506] skipped checkpoint-completed 110 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [126/506] skipped checkpoint-completed 110 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [127/506] skipped checkpoint-completed 110 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [128/506] skipped checkpoint-completed 110 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [129/506] skipped checkpoint-completed 110 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [130/506] skipped checkpoint-completed 110 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [131/506] skipped checkpoint-completed 110 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [132/506] skipped checkpoint-completed 110 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [133/506] skipped checkpoint-completed 109 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [134/506] skipped checkpoint-completed 109 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [135/506] skipped checkpoint-completed 109 新北市 status=success
+2026-08-01 18:54:42 [INFO] [136/506] skipped checkpoint-completed 109 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [137/506] skipped checkpoint-completed 109 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [138/506] skipped checkpoint-completed 109 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [139/506] skipped checkpoint-completed 109 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [140/506] skipped checkpoint-completed 109 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [141/506] skipped checkpoint-completed 109 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [142/506] skipped checkpoint-completed 109 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [143/506] skipped checkpoint-completed 109 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [144/506] skipped checkpoint-completed 109 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [145/506] skipped checkpoint-completed 109 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [146/506] skipped checkpoint-completed 109 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [147/506] skipped checkpoint-completed 109 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [148/506] skipped checkpoint-completed 109 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [149/506] skipped checkpoint-completed 109 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [150/506] skipped checkpoint-completed 109 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [151/506] skipped checkpoint-completed 109 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [152/506] skipped checkpoint-completed 109 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [153/506] skipped checkpoint-completed 109 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [154/506] skipped checkpoint-completed 109 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [155/506] skipped checkpoint-completed 108 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [156/506] skipped checkpoint-completed 108 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [157/506] skipped checkpoint-completed 108 新北市 status=success
+2026-08-01 18:54:42 [INFO] [158/506] skipped checkpoint-completed 108 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [159/506] skipped checkpoint-completed 108 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [160/506] skipped checkpoint-completed 108 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [161/506] skipped checkpoint-completed 108 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [162/506] skipped checkpoint-completed 108 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [163/506] skipped checkpoint-completed 108 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [164/506] skipped checkpoint-completed 108 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [165/506] skipped checkpoint-completed 108 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [166/506] skipped checkpoint-completed 108 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [167/506] skipped checkpoint-completed 108 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [168/506] skipped checkpoint-completed 108 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [169/506] skipped checkpoint-completed 108 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [170/506] skipped checkpoint-completed 108 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [171/506] skipped checkpoint-completed 108 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [172/506] skipped checkpoint-completed 108 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [173/506] skipped checkpoint-completed 108 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [174/506] skipped checkpoint-completed 108 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [175/506] skipped checkpoint-completed 108 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [176/506] skipped checkpoint-completed 108 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [177/506] skipped checkpoint-completed 107 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [178/506] skipped checkpoint-completed 107 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [179/506] skipped checkpoint-completed 107 新北市 status=success
+2026-08-01 18:54:42 [INFO] [180/506] skipped checkpoint-completed 107 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [181/506] skipped checkpoint-completed 107 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [182/506] skipped checkpoint-completed 107 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [183/506] skipped checkpoint-completed 107 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [184/506] skipped checkpoint-completed 107 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [185/506] skipped checkpoint-completed 107 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [186/506] skipped checkpoint-completed 107 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [187/506] skipped checkpoint-completed 107 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [188/506] skipped checkpoint-completed 107 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [189/506] skipped checkpoint-completed 107 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [190/506] skipped checkpoint-completed 107 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [191/506] skipped checkpoint-completed 107 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [192/506] skipped checkpoint-completed 107 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [193/506] skipped checkpoint-completed 107 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [194/506] skipped checkpoint-completed 107 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [195/506] skipped checkpoint-completed 107 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [196/506] skipped checkpoint-completed 107 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [197/506] skipped checkpoint-completed 107 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [198/506] skipped checkpoint-completed 107 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [199/506] skipped checkpoint-completed 106 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [200/506] skipped checkpoint-completed 106 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [201/506] skipped checkpoint-completed 106 新北市 status=success
+2026-08-01 18:54:42 [INFO] [202/506] skipped checkpoint-completed 106 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [203/506] skipped checkpoint-completed 106 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [204/506] skipped checkpoint-completed 106 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [205/506] skipped checkpoint-completed 106 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [206/506] skipped checkpoint-completed 106 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [207/506] skipped checkpoint-completed 106 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [208/506] skipped checkpoint-completed 106 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [209/506] skipped checkpoint-completed 106 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [210/506] skipped checkpoint-completed 106 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [211/506] skipped checkpoint-completed 106 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [212/506] skipped checkpoint-completed 106 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [213/506] skipped checkpoint-completed 106 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [214/506] skipped checkpoint-completed 106 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [215/506] skipped checkpoint-completed 106 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [216/506] skipped checkpoint-completed 106 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [217/506] skipped checkpoint-completed 106 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [218/506] skipped checkpoint-completed 106 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [219/506] skipped checkpoint-completed 106 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [220/506] skipped checkpoint-completed 106 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [221/506] skipped checkpoint-completed 105 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [222/506] skipped checkpoint-completed 105 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [223/506] skipped checkpoint-completed 105 新北市 status=success
+2026-08-01 18:54:42 [INFO] [224/506] skipped checkpoint-completed 105 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [225/506] skipped checkpoint-completed 105 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [226/506] skipped checkpoint-completed 105 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [227/506] skipped checkpoint-completed 105 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [228/506] skipped checkpoint-completed 105 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [229/506] skipped checkpoint-completed 105 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [230/506] skipped checkpoint-completed 105 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [231/506] skipped checkpoint-completed 105 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [232/506] skipped checkpoint-completed 105 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [233/506] skipped checkpoint-completed 105 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [234/506] skipped checkpoint-completed 105 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [235/506] skipped checkpoint-completed 105 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [236/506] skipped checkpoint-completed 105 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [237/506] skipped checkpoint-completed 105 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [238/506] skipped checkpoint-completed 105 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [239/506] skipped checkpoint-completed 105 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [240/506] skipped checkpoint-completed 105 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [241/506] skipped checkpoint-completed 105 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [242/506] skipped checkpoint-completed 105 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [243/506] skipped checkpoint-completed 104 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [244/506] skipped checkpoint-completed 104 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [245/506] skipped checkpoint-completed 104 新北市 status=success
+2026-08-01 18:54:42 [INFO] [246/506] skipped checkpoint-completed 104 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [247/506] skipped checkpoint-completed 104 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [248/506] skipped checkpoint-completed 104 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [249/506] skipped checkpoint-completed 104 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [250/506] skipped checkpoint-completed 104 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [251/506] skipped checkpoint-completed 104 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [252/506] skipped checkpoint-completed 104 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [253/506] skipped checkpoint-completed 104 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [254/506] skipped checkpoint-completed 104 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [255/506] skipped checkpoint-completed 104 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [256/506] skipped checkpoint-completed 104 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [257/506] skipped checkpoint-completed 104 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [258/506] skipped checkpoint-completed 104 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [259/506] skipped checkpoint-completed 104 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [260/506] skipped checkpoint-completed 104 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [261/506] skipped checkpoint-completed 104 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [262/506] skipped checkpoint-completed 104 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [263/506] skipped checkpoint-completed 104 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [264/506] skipped checkpoint-completed 104 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [265/506] skipped checkpoint-completed 103 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [266/506] skipped checkpoint-completed 103 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [267/506] skipped checkpoint-completed 103 新北市 status=success
+2026-08-01 18:54:42 [INFO] [268/506] skipped checkpoint-completed 103 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [269/506] skipped checkpoint-completed 103 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [270/506] skipped checkpoint-completed 103 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [271/506] skipped checkpoint-completed 103 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [272/506] skipped checkpoint-completed 103 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [273/506] skipped checkpoint-completed 103 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [274/506] skipped checkpoint-completed 103 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [275/506] skipped checkpoint-completed 103 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [276/506] skipped checkpoint-completed 103 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [277/506] skipped checkpoint-completed 103 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [278/506] skipped checkpoint-completed 103 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [279/506] skipped checkpoint-completed 103 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [280/506] skipped checkpoint-completed 103 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [281/506] skipped checkpoint-completed 103 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [282/506] skipped checkpoint-completed 103 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [283/506] skipped checkpoint-completed 103 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [284/506] skipped checkpoint-completed 103 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [285/506] skipped checkpoint-completed 103 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [286/506] skipped checkpoint-completed 103 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [287/506] skipped checkpoint-completed 102 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [288/506] skipped checkpoint-completed 102 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [289/506] skipped checkpoint-completed 102 新北市 status=success
+2026-08-01 18:54:42 [INFO] [290/506] skipped checkpoint-completed 102 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [291/506] skipped checkpoint-completed 102 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [292/506] skipped checkpoint-completed 102 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [293/506] skipped checkpoint-completed 102 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [294/506] skipped checkpoint-completed 102 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [295/506] skipped checkpoint-completed 102 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [296/506] skipped checkpoint-completed 102 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [297/506] skipped checkpoint-completed 102 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [298/506] skipped checkpoint-completed 102 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [299/506] skipped checkpoint-completed 102 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [300/506] skipped checkpoint-completed 102 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [301/506] skipped checkpoint-completed 102 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [302/506] skipped checkpoint-completed 102 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [303/506] skipped checkpoint-completed 102 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [304/506] skipped checkpoint-completed 102 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [305/506] skipped checkpoint-completed 102 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [306/506] skipped checkpoint-completed 102 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [307/506] skipped checkpoint-completed 102 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [308/506] skipped checkpoint-completed 102 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [309/506] skipped checkpoint-completed 101 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [310/506] skipped checkpoint-completed 101 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [311/506] skipped checkpoint-completed 101 新北市 status=success
+2026-08-01 18:54:42 [INFO] [312/506] skipped checkpoint-completed 101 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [313/506] skipped checkpoint-completed 101 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [314/506] skipped checkpoint-completed 101 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [315/506] skipped checkpoint-completed 101 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [316/506] skipped checkpoint-completed 101 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [317/506] skipped checkpoint-completed 101 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [318/506] skipped checkpoint-completed 101 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [319/506] skipped checkpoint-completed 101 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [320/506] skipped checkpoint-completed 101 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [321/506] skipped checkpoint-completed 101 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [322/506] skipped checkpoint-completed 101 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [323/506] skipped checkpoint-completed 101 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [324/506] skipped checkpoint-completed 101 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [325/506] skipped checkpoint-completed 101 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [326/506] skipped checkpoint-completed 101 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [327/506] skipped checkpoint-completed 101 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [328/506] skipped checkpoint-completed 101 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [329/506] skipped checkpoint-completed 101 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [330/506] skipped checkpoint-completed 101 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [331/506] skipped checkpoint-completed 100 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [332/506] skipped checkpoint-completed 100 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [333/506] skipped checkpoint-completed 100 新北市 status=success
+2026-08-01 18:54:42 [INFO] [334/506] skipped checkpoint-completed 100 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [335/506] skipped checkpoint-completed 100 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [336/506] skipped checkpoint-completed 100 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [337/506] skipped checkpoint-completed 100 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [338/506] skipped checkpoint-completed 100 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [339/506] skipped checkpoint-completed 100 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [340/506] skipped checkpoint-completed 100 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [341/506] skipped checkpoint-completed 100 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [342/506] skipped checkpoint-completed 100 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [343/506] skipped checkpoint-completed 100 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [344/506] skipped checkpoint-completed 100 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [345/506] skipped checkpoint-completed 100 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [346/506] skipped checkpoint-completed 100 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [347/506] skipped checkpoint-completed 100 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [348/506] skipped checkpoint-completed 100 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [349/506] skipped checkpoint-completed 100 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [350/506] skipped checkpoint-completed 100 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [351/506] skipped checkpoint-completed 100 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [352/506] skipped checkpoint-completed 100 連江縣 status=success
+2026-08-01 18:54:42 [INFO] [353/506] skipped checkpoint-completed 99 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [354/506] skipped checkpoint-completed 99 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [355/506] skipped checkpoint-completed 99 新北市 status=success
+2026-08-01 18:54:42 [INFO] [356/506] skipped checkpoint-completed 99 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [357/506] skipped checkpoint-completed 99 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [358/506] skipped checkpoint-completed 99 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [359/506] skipped checkpoint-completed 99 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [360/506] skipped checkpoint-completed 99 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [361/506] skipped checkpoint-completed 99 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [362/506] skipped checkpoint-completed 99 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [363/506] skipped checkpoint-completed 99 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [364/506] skipped checkpoint-completed 99 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [365/506] skipped checkpoint-completed 99 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [366/506] skipped checkpoint-completed 99 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [367/506] skipped checkpoint-completed 99 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [368/506] skipped checkpoint-completed 99 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [369/506] skipped checkpoint-completed 99 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [370/506] skipped checkpoint-completed 99 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [371/506] skipped checkpoint-completed 99 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [372/506] skipped checkpoint-completed 99 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [373/506] skipped checkpoint-completed 99 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [374/506] skipped checkpoint-completed 99 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [375/506] skipped checkpoint-completed 98 基隆市 status=no_data
+2026-08-01 18:54:42 [INFO] [376/506] skipped checkpoint-completed 98 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [377/506] skipped checkpoint-completed 98 新北市 status=success
+2026-08-01 18:54:42 [INFO] [378/506] skipped checkpoint-completed 98 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [379/506] skipped checkpoint-completed 98 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [380/506] skipped checkpoint-completed 98 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [381/506] skipped checkpoint-completed 98 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [382/506] skipped checkpoint-completed 98 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [383/506] skipped checkpoint-completed 98 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [384/506] skipped checkpoint-completed 98 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [385/506] skipped checkpoint-completed 98 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [386/506] skipped checkpoint-completed 98 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [387/506] skipped checkpoint-completed 98 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [388/506] skipped checkpoint-completed 98 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [389/506] skipped checkpoint-completed 98 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [390/506] skipped checkpoint-completed 98 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [391/506] skipped checkpoint-completed 98 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [392/506] skipped checkpoint-completed 98 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [393/506] skipped checkpoint-completed 98 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [394/506] skipped checkpoint-completed 98 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [395/506] skipped checkpoint-completed 98 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [396/506] skipped checkpoint-completed 98 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [397/506] skipped checkpoint-completed 97 基隆市 status=success
+2026-08-01 18:54:42 [INFO] [398/506] skipped checkpoint-completed 97 臺北市 status=success
+2026-08-01 18:54:42 [INFO] [399/506] skipped checkpoint-completed 97 新北市 status=success
+2026-08-01 18:54:42 [INFO] [400/506] skipped checkpoint-completed 97 桃園市 status=success
+2026-08-01 18:54:42 [INFO] [401/506] skipped checkpoint-completed 97 新竹縣 status=success
+2026-08-01 18:54:42 [INFO] [402/506] skipped checkpoint-completed 97 新竹市 status=success
+2026-08-01 18:54:42 [INFO] [403/506] skipped checkpoint-completed 97 苗栗縣 status=success
+2026-08-01 18:54:42 [INFO] [404/506] skipped checkpoint-completed 97 臺中市 status=success
+2026-08-01 18:54:42 [INFO] [405/506] skipped checkpoint-completed 97 南投縣 status=success
+2026-08-01 18:54:42 [INFO] [406/506] skipped checkpoint-completed 97 彰化縣 status=success
+2026-08-01 18:54:42 [INFO] [407/506] skipped checkpoint-completed 97 雲林縣 status=success
+2026-08-01 18:54:42 [INFO] [408/506] skipped checkpoint-completed 97 嘉義縣 status=success
+2026-08-01 18:54:42 [INFO] [409/506] skipped checkpoint-completed 97 嘉義市 status=success
+2026-08-01 18:54:42 [INFO] [410/506] skipped checkpoint-completed 97 臺南市 status=success
+2026-08-01 18:54:42 [INFO] [411/506] skipped checkpoint-completed 97 高雄市 status=success
+2026-08-01 18:54:42 [INFO] [412/506] skipped checkpoint-completed 97 屏東縣 status=success
+2026-08-01 18:54:42 [INFO] [413/506] skipped checkpoint-completed 97 宜蘭縣 status=success
+2026-08-01 18:54:42 [INFO] [414/506] skipped checkpoint-completed 97 花蓮縣 status=success
+2026-08-01 18:54:42 [INFO] [415/506] skipped checkpoint-completed 97 臺東縣 status=success
+2026-08-01 18:54:42 [INFO] [416/506] skipped checkpoint-completed 97 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [417/506] skipped checkpoint-completed 97 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [418/506] skipped checkpoint-completed 97 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [419/506] skipped checkpoint-completed 96 基隆市 status=no_data
+2026-08-01 18:54:42 [INFO] [420/506] skipped checkpoint-completed 96 臺北市 status=no_data
+2026-08-01 18:54:42 [INFO] [421/506] skipped checkpoint-completed 96 新北市 status=no_data
+2026-08-01 18:54:42 [INFO] [422/506] skipped checkpoint-completed 96 桃園市 status=no_data
+2026-08-01 18:54:42 [INFO] [423/506] skipped checkpoint-completed 96 新竹縣 status=no_data
+2026-08-01 18:54:42 [INFO] [424/506] skipped checkpoint-completed 96 新竹市 status=no_data
+2026-08-01 18:54:42 [INFO] [425/506] skipped checkpoint-completed 96 苗栗縣 status=no_data
+2026-08-01 18:54:42 [INFO] [426/506] skipped checkpoint-completed 96 臺中市 status=no_data
+2026-08-01 18:54:42 [INFO] [427/506] skipped checkpoint-completed 96 南投縣 status=no_data
+2026-08-01 18:54:42 [INFO] [428/506] skipped checkpoint-completed 96 彰化縣 status=no_data
+2026-08-01 18:54:42 [INFO] [429/506] skipped checkpoint-completed 96 雲林縣 status=no_data
+2026-08-01 18:54:42 [INFO] [430/506] skipped checkpoint-completed 96 嘉義縣 status=no_data
+2026-08-01 18:54:42 [INFO] [431/506] skipped checkpoint-completed 96 嘉義市 status=no_data
+2026-08-01 18:54:42 [INFO] [432/506] skipped checkpoint-completed 96 臺南市 status=no_data
+2026-08-01 18:54:42 [INFO] [433/506] skipped checkpoint-completed 96 高雄市 status=no_data
+2026-08-01 18:54:42 [INFO] [434/506] skipped checkpoint-completed 96 屏東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [435/506] skipped checkpoint-completed 96 宜蘭縣 status=no_data
+2026-08-01 18:54:42 [INFO] [436/506] skipped checkpoint-completed 96 花蓮縣 status=no_data
+2026-08-01 18:54:42 [INFO] [437/506] skipped checkpoint-completed 96 臺東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [438/506] skipped checkpoint-completed 96 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [439/506] skipped checkpoint-completed 96 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [440/506] skipped checkpoint-completed 96 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [441/506] skipped checkpoint-completed 95 基隆市 status=no_data
+2026-08-01 18:54:42 [INFO] [442/506] skipped checkpoint-completed 95 臺北市 status=no_data
+2026-08-01 18:54:42 [INFO] [443/506] skipped checkpoint-completed 95 新北市 status=no_data
+2026-08-01 18:54:42 [INFO] [444/506] skipped checkpoint-completed 95 桃園市 status=no_data
+2026-08-01 18:54:42 [INFO] [445/506] skipped checkpoint-completed 95 新竹縣 status=no_data
+2026-08-01 18:54:42 [INFO] [446/506] skipped checkpoint-completed 95 新竹市 status=no_data
+2026-08-01 18:54:42 [INFO] [447/506] skipped checkpoint-completed 95 苗栗縣 status=no_data
+2026-08-01 18:54:42 [INFO] [448/506] skipped checkpoint-completed 95 臺中市 status=no_data
+2026-08-01 18:54:42 [INFO] [449/506] skipped checkpoint-completed 95 南投縣 status=no_data
+2026-08-01 18:54:42 [INFO] [450/506] skipped checkpoint-completed 95 彰化縣 status=no_data
+2026-08-01 18:54:42 [INFO] [451/506] skipped checkpoint-completed 95 雲林縣 status=no_data
+2026-08-01 18:54:42 [INFO] [452/506] skipped checkpoint-completed 95 嘉義縣 status=no_data
+2026-08-01 18:54:42 [INFO] [453/506] skipped checkpoint-completed 95 嘉義市 status=no_data
+2026-08-01 18:54:42 [INFO] [454/506] skipped checkpoint-completed 95 臺南市 status=no_data
+2026-08-01 18:54:42 [INFO] [455/506] skipped checkpoint-completed 95 高雄市 status=no_data
+2026-08-01 18:54:42 [INFO] [456/506] skipped checkpoint-completed 95 屏東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [457/506] skipped checkpoint-completed 95 宜蘭縣 status=no_data
+2026-08-01 18:54:42 [INFO] [458/506] skipped checkpoint-completed 95 花蓮縣 status=no_data
+2026-08-01 18:54:42 [INFO] [459/506] skipped checkpoint-completed 95 臺東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [460/506] skipped checkpoint-completed 95 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [461/506] skipped checkpoint-completed 95 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [462/506] skipped checkpoint-completed 95 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [463/506] skipped checkpoint-completed 94 基隆市 status=no_data
+2026-08-01 18:54:42 [INFO] [464/506] skipped checkpoint-completed 94 臺北市 status=no_data
+2026-08-01 18:54:42 [INFO] [465/506] skipped checkpoint-completed 94 新北市 status=no_data
+2026-08-01 18:54:42 [INFO] [466/506] skipped checkpoint-completed 94 桃園市 status=no_data
+2026-08-01 18:54:42 [INFO] [467/506] skipped checkpoint-completed 94 新竹縣 status=no_data
+2026-08-01 18:54:42 [INFO] [468/506] skipped checkpoint-completed 94 新竹市 status=no_data
+2026-08-01 18:54:42 [INFO] [469/506] skipped checkpoint-completed 94 苗栗縣 status=no_data
+2026-08-01 18:54:42 [INFO] [470/506] skipped checkpoint-completed 94 臺中市 status=no_data
+2026-08-01 18:54:42 [INFO] [471/506] skipped checkpoint-completed 94 南投縣 status=no_data
+2026-08-01 18:54:42 [INFO] [472/506] skipped checkpoint-completed 94 彰化縣 status=no_data
+2026-08-01 18:54:42 [INFO] [473/506] skipped checkpoint-completed 94 雲林縣 status=no_data
+2026-08-01 18:54:42 [INFO] [474/506] skipped checkpoint-completed 94 嘉義縣 status=no_data
+2026-08-01 18:54:42 [INFO] [475/506] skipped checkpoint-completed 94 嘉義市 status=no_data
+2026-08-01 18:54:42 [INFO] [476/506] skipped checkpoint-completed 94 臺南市 status=no_data
+2026-08-01 18:54:42 [INFO] [477/506] skipped checkpoint-completed 94 高雄市 status=no_data
+2026-08-01 18:54:42 [INFO] [478/506] skipped checkpoint-completed 94 屏東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [479/506] skipped checkpoint-completed 94 宜蘭縣 status=no_data
+2026-08-01 18:54:42 [INFO] [480/506] skipped checkpoint-completed 94 花蓮縣 status=no_data
+2026-08-01 18:54:42 [INFO] [481/506] skipped checkpoint-completed 94 臺東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [482/506] skipped checkpoint-completed 94 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [483/506] skipped checkpoint-completed 94 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [484/506] skipped checkpoint-completed 94 連江縣 status=no_data
+2026-08-01 18:54:42 [INFO] [485/506] skipped checkpoint-completed 93 基隆市 status=no_data
+2026-08-01 18:54:42 [INFO] [486/506] skipped checkpoint-completed 93 臺北市 status=no_data
+2026-08-01 18:54:42 [INFO] [487/506] skipped checkpoint-completed 93 新北市 status=no_data
+2026-08-01 18:54:42 [INFO] [488/506] skipped checkpoint-completed 93 桃園市 status=no_data
+2026-08-01 18:54:42 [INFO] [489/506] skipped checkpoint-completed 93 新竹縣 status=no_data
+2026-08-01 18:54:42 [INFO] [490/506] skipped checkpoint-completed 93 新竹市 status=no_data
+2026-08-01 18:54:42 [INFO] [491/506] skipped checkpoint-completed 93 苗栗縣 status=no_data
+2026-08-01 18:54:42 [INFO] [492/506] skipped checkpoint-completed 93 臺中市 status=no_data
+2026-08-01 18:54:42 [INFO] [493/506] skipped checkpoint-completed 93 南投縣 status=no_data
+2026-08-01 18:54:42 [INFO] [494/506] skipped checkpoint-completed 93 彰化縣 status=no_data
+2026-08-01 18:54:42 [INFO] [495/506] skipped checkpoint-completed 93 雲林縣 status=no_data
+2026-08-01 18:54:42 [INFO] [496/506] skipped checkpoint-completed 93 嘉義縣 status=no_data
+2026-08-01 18:54:42 [INFO] [497/506] skipped checkpoint-completed 93 嘉義市 status=no_data
+2026-08-01 18:54:42 [INFO] [498/506] skipped checkpoint-completed 93 臺南市 status=no_data
+2026-08-01 18:54:42 [INFO] [499/506] skipped checkpoint-completed 93 高雄市 status=no_data
+2026-08-01 18:54:42 [INFO] [500/506] skipped checkpoint-completed 93 屏東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [501/506] skipped checkpoint-completed 93 宜蘭縣 status=no_data
+2026-08-01 18:54:42 [INFO] [502/506] skipped checkpoint-completed 93 花蓮縣 status=no_data
+2026-08-01 18:54:42 [INFO] [503/506] skipped checkpoint-completed 93 臺東縣 status=no_data
+2026-08-01 18:54:42 [INFO] [504/506] skipped checkpoint-completed 93 金門縣 status=success
+2026-08-01 18:54:42 [INFO] [505/506] skipped checkpoint-completed 93 澎湖縣 status=success
+2026-08-01 18:54:42 [INFO] [506/506] skipped checkpoint-completed 93 連江縣 status=no_data
+2026-08-01 18:54:53 [INFO] starting sample verification against website
+2026-08-01 18:54:53 [INFO] sleep 1.69s (before query 112 臺東縣)
+2026-08-01 18:54:55 [INFO] sleep 3.42s (before query 109 臺南市)
+2026-08-01 18:55:00 [INFO] sleep 3.46s (before query 113 臺南市)
+2026-08-01 18:55:07 [INFO] sleep 4.12s (before query 114 屏東縣)
+2026-08-01 18:55:13 [INFO] sleep 3.94s (before query 108 雲林縣)
+2026-08-01 18:55:18 [INFO] sample verification: {'sample_size': 5, 'matched': 4, 'results': [{'query_year': '112', 'query_city': '臺東縣', 'variation_id': 'AV0211211003', 'status': 'success', 'matched': True, 'message': 'ok'}, {'query_year': '109', 'query_city': '臺南市', 'variation_id': 'AR2610904058', 'status': 'success', 'matched': True, 'message': 'ok'}, {'query_year': '113', 'query_city': '臺南市', 'variation_id': 'D2811307199', 'status': 'success', 'matched': True, 'message': 'ok'}, {'query_year': '114', 'query_city': '屏東縣', 'variation_id': 'T1111406167', 'status': 'success', 'matched': False, 'message': 'ok'}, {'query_year': '108', 'query_city': '雲林縣', 'variation_id': 'AP0110805001', 'status': 'success', 'matched': True, 'message': 'ok'}]}
+2026-08-01 18:55:18 [INFO] finished summary: {"start_time": "2026-08-01T18:49:21+08:00", "end_time": "2026-08-01T18:55:18+08:00", "elapsed": "0:05:56.727745", "year_count": 23, "city_count": 22, "total_query_combinations": 506, "success_query_combinations_this_run": 22, "no_data_query_combinations_this_run": 0, "failed_query_combinations_this_run": 0, "skipped_query_combinations_this_run": 484, "raw_total_rows_this_run": 18400, "raw_total_rows_records_file": 275779, "deduped_rows": 263510, "csv_path": "C:\\Users\\WYC\\Downloads\\pachung-20260801T094107Z-1-001\\pachung\\data\\landchg_variation_points_v1.csv", "log_path": "C:\\Users\\WYC\\Downloads\\pachung-20260801T094107Z-1-001\\pachung\\logs\\landchg_scrape_v1_20260801_184921.log", "checkpoint_path": "C:\\Users\\WYC\\Downloads\\pachung-20260801T094107Z-1-001\\pachung\\landchg_checkpoint.json", "records_jsonl_path": "C:\\Users\\WYC\\Downloads\\pachung-20260801T094107Z-1-001\\pachung\\raw\\landchg_records_cumulative.jsonl", "has_incomplete_items": false, "validation": {"csv_read_rows": 263510, "required_columns_present": {"query_year": true, "query_city": true, "variation_id": true, "authority_unit": true, "verification_result": true, "variation_type": true, "longitude": true, "latitude": true, "is_violation": true, "source_url": true, "scraped_at": true, "raw_data_json": true}, "non_empty_ratios": {"variation_id": 1.0, "authority_unit": 1.0, "verification_result": 1.0, "variation_type": 0.998789419756366, "longitude": 1.0, "latitude": 1.0}, "coordinate_valid_count": 263506, "coordinate_total": 263510, "coordinate_valid_ratio": 0.9999848203104247, "duplicate_key_count": 0}, "sample_verification": {"sample_size": 5, "matched": 4, "results": [{"query_year": "112", "query_city": "臺東縣", "variation_id": "AV0211211003", "status": "success", "matched": true, "message": "ok"}, {"query_year": "109", "query_city": "臺南市", "variation_id": "AR2610904058", "status": "success", "matched": true, "message": "ok"}, {"query_year": "113", "query_city": "臺南市", "variation_id": "D2811307199", "status": "success", "matched": true, "message": "ok"}, {"query_year": "114", "query_city": "屏東縣", "variation_id": "T1111406167", "status": "success", "matched": false, "message": "ok"}, {"query_year": "108", "query_city": "雲林縣", "variation_id": "AP0110805001", "status": "success", "matched": true, "message": "ok"}]}}

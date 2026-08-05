@@ -1,0 +1,5261 @@
+{
+  "completed": {
+    "100||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:07:57+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 33,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:08:53+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 4,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:08:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 222,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:05:57+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:09:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 65,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:09:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 186,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:08:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 273,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:06:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 39,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:07:09+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 6,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:06:56+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 38,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:06:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 154,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:10:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 15,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:07:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 72,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:06:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 9,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:09:06+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 372,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:10:15+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 50,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:09:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 55,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:07:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 32,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:10:53+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 11,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:10:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 37,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:08:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 310,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "100||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:09:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 143,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "100"
+    },
+    "101||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:02:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 40,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:03:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:03:20+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 50,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:00:32+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:04:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 23,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:04:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 211,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:02:50+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 82,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:01:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 77,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:01:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 6,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:01:28+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 37,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:01:16+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 206,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:05:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 52,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:02:20+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 69,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:00:45+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 10,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:03:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 69,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:05:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 44,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:04:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 40,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:02:03+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 34,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:05:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:05:14+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 41,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:03:03+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 55,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "101||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:04:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 94,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "101"
+    },
+    "102||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:57:27+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 34,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:58:09+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:57:59+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 79,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:55:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:59:03+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 43,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:58:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 224,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:57:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 99,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:56:04+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 42,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:56:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 8,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:56:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 32,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:56:16+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 143,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:00:07+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 26,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:57:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 79,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:55:50+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 8,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:58:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 108,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:59:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 34,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:59:22+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 33,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:57:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 57,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:00:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 4,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:59:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 12,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:57:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 97,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "102||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:58:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 43,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "102"
+    },
+    "103||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:51:57+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 396,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:52:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 4,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:52:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 179,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:50:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 15,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:53:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 196,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:53:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 504,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:52:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 429,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:50:43+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 200,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:51:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 13,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:51:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 334,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:51:02+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 435,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:54:59+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 14,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:51:45+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 183,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:50:29+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 11,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:53:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 321,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:54:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 326,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:54:07+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 228,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:51:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 282,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:55:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:54:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 26,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:52:31+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 272,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "103||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:53:22+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 402,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "103"
+    },
+    "104||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:46:56+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1024,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:47:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 12,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:47:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 248,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:45:06+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 9,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:48:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 116,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:48:46+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 575,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:47:13+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 459,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:45:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 344,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:46:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 40,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:45:59+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 281,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:45:49+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 180,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:49:53+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 65,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:46:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 483,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:45:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 9,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:48:16+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 366,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:49:24+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 641,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:49:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 713,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:46:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 526,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:50:08+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "104"
+    },
+    "104||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:49:41+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 26,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:47:31+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 380,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "104||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:48:31+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 528,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "104"
+    },
+    "105||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:41:49+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1139,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:42:45+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 13,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:42:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 439,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:40:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:43:49+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 201,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:43:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 729,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:42:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 629,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:40:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 220,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:41:15+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 22,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:41:04+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 510,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:40:54+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 278,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:44:43+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 42,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:41:38+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 748,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:40:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 10,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:43:02+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 801,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:44:10+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 669,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:44:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 796,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:41:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1051,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:44:55+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "105"
+    },
+    "105||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:44:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 70,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:42:24+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 415,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "105||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:43:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 671,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "105"
+    },
+    "106||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:37:02+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1311,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:37:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 18,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:37:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 416,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:35:16+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 20,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:38:50+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 211,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:38:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 499,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:37:15+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 340,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:35:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 471,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:36:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 83,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:36:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 591,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:36:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 391,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:39:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 68,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:36:49+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 696,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:35:28+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 15,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:38:11+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 797,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:39:11+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 572,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:39:02+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 890,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:36:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1067,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:39:53+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 6,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:39:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 213,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:37:31+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 247,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "106||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:38:22+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 736,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "106"
+    },
+    "107||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:31:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 932,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:32:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 17,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:32:33+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 428,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:30:04+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 33,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:33:45+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 409,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:33:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 961,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:32:14+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 435,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:30:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 684,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:31:19+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 53,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:31:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 847,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:30:47+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 603,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:34:46+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 57,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:31:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 578,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:30:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 15,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:32:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 525,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:34:15+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 732,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:33:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 388,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:31:31+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1075,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:34:59+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:34:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 67,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:32:24+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 390,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "107||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:33:14+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1006,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "107"
+    },
+    "108||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:26:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1512,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:27:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 20,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:27:21+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 837,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:24:38+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 70,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:28:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 605,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:28:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1746,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:26:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1466,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:25:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 801,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:25:46+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 128,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:25:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1257,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:25:19+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 499,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:29:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 116,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:26:22+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1092,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:24:49+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 68,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:27:54+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1336,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:29:09+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1292,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:28:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 927,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:26:03+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1556,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:29:45+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 6,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:29:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 140,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:27:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1109,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "108||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:28:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1316,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "108"
+    },
+    "109||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:21:20+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1881,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:22:14+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 62,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:22:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1210,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:19:21+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 39,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:23:19+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 748,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:23:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3006,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:21:38+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2255,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:19:47+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1184,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:20:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 133,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:20:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1189,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:19:59+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 993,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:24:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 78,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:21:02+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1911,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:19:32+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 60,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:22:33+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1924,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:23:43+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1507,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:23:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1025,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:20:48+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2560,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:24:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 6,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:24:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 136,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:21:49+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2090,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "109||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:22:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2270,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "109"
+    },
+    "110||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:15:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3351,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:16:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 181,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:16:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2318,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:13:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 53,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:17:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1997,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:17:32+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3120,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:15:54+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1371,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:14:07+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1686,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:14:56+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 140,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:14:41+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1392,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:14:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1724,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:18:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 112,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:15:22+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2067,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:13:53+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 116,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:16:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3877,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:18:28+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1333,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:18:11+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 840,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:15:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1697,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:19:10+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 15,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:18:47+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 183,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:16:07+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1139,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "110||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:17:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2687,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "110"
+    },
+    "111||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:09:53+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3291,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:10:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 127,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:10:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1726,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:08:04+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 63,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:12:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1822,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:11:43+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2472,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:10:13+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1568,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:08:27+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1443,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:09:10+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 95,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:08:59+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 957,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:08:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1863,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:13:09+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 143,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:09:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1941,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:08:13+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 233,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:11:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3857,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:12:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1130,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:12:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 989,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:09:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1424,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:13:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 19,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:12:50+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 203,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:10:28+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1867,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "111||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:11:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2479,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "111"
+    },
+    "112||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T09:04:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3000,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:05:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 55,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T09:05:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1487,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T09:02:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 51,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:06:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1248,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:06:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2435,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T09:04:49+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1439,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T09:03:07+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1606,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T09:03:59+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 263,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T09:03:50+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2156,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T09:03:29+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2270,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:07:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 185,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T09:04:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1970,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T09:02:50+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 220,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:05:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2653,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:07:09+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1327,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:06:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1470,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T09:04:14+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2698,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:07:48+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 55,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:07:19+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 363,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T09:05:02+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2079,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "112||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:06:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1907,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "112"
+    },
+    "113||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T08:59:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2731,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T09:00:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 108,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T08:59:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2093,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T08:57:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 87,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T09:01:19+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1767,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T09:01:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2496,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T08:59:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1756,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T08:57:27+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1682,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T08:58:10+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 236,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T08:57:56+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2009,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T08:57:46+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2265,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T09:02:06+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 244,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T08:58:41+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2600,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T08:57:13+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 253,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T09:00:24+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 4352,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T09:01:43+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1065,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T09:01:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1129,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T08:58:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2597,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T09:02:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 68,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T09:01:54+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 320,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T08:59:31+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1785,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "113||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T09:00:45+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2317,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "113"
+    },
+    "114||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T08:53:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1346,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T08:54:29+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 65,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T08:54:17+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1239,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T08:51:31+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 71,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T08:55:22+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1379,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T08:55:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2215,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T08:53:47+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1458,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T08:52:05+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1196,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T08:52:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 192,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T08:52:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1274,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T08:52:24+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2670,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T08:56:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 201,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T08:53:21+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1767,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T08:51:50+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 235,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T08:54:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2949,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T08:55:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 826,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T08:55:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 685,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T08:53:03+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1899,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T08:56:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 68,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T08:56:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 348,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T08:54:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1014,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "114||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T08:54:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2169,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "114"
+    },
+    "115||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-08-01T18:51:10+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1134,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-08-01T18:52:14+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 61,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-08-01T18:51:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 951,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-08-01T18:49:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 83,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-08-01T18:53:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1194,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-08-01T18:52:57+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2396,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-08-01T18:51:27+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 980,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-08-01T18:49:56+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 750,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-08-01T18:50:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 117,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-08-01T18:50:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 749,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-08-01T18:50:07+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1195,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-08-01T18:54:16+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 109,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-08-01T18:50:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1136,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-08-01T18:49:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 111,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-08-01T18:52:27+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2114,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-08-01T18:53:41+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 870,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-08-01T18:53:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 559,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-08-01T18:50:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1071,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-08-01T18:54:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 28,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-08-01T18:53:58+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 151,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-08-01T18:51:46+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 919,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "115||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-08-01T18:52:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1722,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "115"
+    },
+    "93||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:43:14+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:43:57+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:43:47+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:41:16+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:44:56+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:44:37+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:43:24+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:41:47+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:42:25+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:42:13+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:42:03+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:45:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 4,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "93"
+    },
+    "93||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:43:03+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:41:29+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:44:13+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:45:30+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:45:13+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:42:44+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:46:10+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:45:41+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 6,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "93"
+    },
+    "93||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:43:37+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "93||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:44:28+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "93"
+    },
+    "94||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:38:18+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:39:06+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:38:59+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:36:28+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:39:59+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:39:48+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:38:31+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:37:00+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:37:44+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:37:34+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:37:15+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:40:48+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "94"
+    },
+    "94||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:38:02+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:36:45+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:39:21+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:40:26+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:40:10+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:37:55+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:41:02+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:40:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 5,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "94"
+    },
+    "94||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:38:41+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "94||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:39:34+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "94"
+    },
+    "95||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:33:05+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:34:07+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:33:50+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:31:10+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:35:00+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:34:45+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:33:17+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:31:42+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:32:22+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:32:11+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:31:53+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:35:57+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "95"
+    },
+    "95||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:32:53+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:31:25+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:34:19+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:35:26+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:35:14+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:32:39+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:36:14+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:35:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 1,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "95"
+    },
+    "95||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:33:35+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "95||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:34:36+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "95"
+    },
+    "96||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:27:58+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:28:48+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:28:34+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:26:14+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:29:46+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:29:31+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:28:11+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:26:36+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:27:18+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:27:01+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:26:49+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:30:48+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 5,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "96"
+    },
+    "96||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:27:42+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:26:25+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:29:04+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:30:19+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:30:00+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:27:29+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:30:58+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:30:29+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 19,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "96"
+    },
+    "96||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:28:20+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "96||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:29:14+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "96"
+    },
+    "97||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:23:04+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 27,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:24:09+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:23:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 57,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:21:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:25:03+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 54,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:24:52+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 74,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:23:23+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 80,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:21:55+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 32,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:22:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 13,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:22:15+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 33,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:22:04+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 99,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:25:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 13,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:22:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 45,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:21:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 8,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:24:22+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 87,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:25:29+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 74,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:25:16+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 56,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:22:41+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 20,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:26:04+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "97"
+    },
+    "97||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:25:38+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 5,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:23:38+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 102,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "97||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:24:39+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 41,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "97"
+    },
+    "98||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:18:07+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 47,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:19:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 9,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:18:43+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 84,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:16:16+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "98"
+    },
+    "98||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:19:54+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 112,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:19:41+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 188,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:18:19+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 141,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:16:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 27,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:17:25+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 10,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:17:12+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 87,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:17:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 276,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:20:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 21,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:17:53+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 65,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:16:34+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 6,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:19:14+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 178,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:20:21+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 21,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:20:08+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 38,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:17:35+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 28,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:21:09+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "98"
+    },
+    "98||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:20:40+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 14,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:18:30+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 150,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "98||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:19:28+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 88,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "98"
+    },
+    "99||南投縣": {
+      "city": "南投縣",
+      "completed_at": "2026-05-12T10:12:51+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 47,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||嘉義市": {
+      "city": "嘉義市",
+      "completed_at": "2026-05-12T10:13:44+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 3,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||嘉義縣": {
+      "city": "嘉義縣",
+      "completed_at": "2026-05-12T10:13:33+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 76,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||基隆市": {
+      "city": "基隆市",
+      "completed_at": "2026-05-12T10:11:00+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 2,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||宜蘭縣": {
+      "city": "宜蘭縣",
+      "completed_at": "2026-05-12T10:14:56+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 68,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||屏東縣": {
+      "city": "屏東縣",
+      "completed_at": "2026-05-12T10:14:36+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 97,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||彰化縣": {
+      "city": "彰化縣",
+      "completed_at": "2026-05-12T10:13:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 135,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||新北市": {
+      "city": "新北市",
+      "completed_at": "2026-05-12T10:11:26+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 56,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||新竹市": {
+      "city": "新竹市",
+      "completed_at": "2026-05-12T10:12:04+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 17,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||新竹縣": {
+      "city": "新竹縣",
+      "completed_at": "2026-05-12T10:11:54+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 66,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||桃園市": {
+      "city": "桃園市",
+      "completed_at": "2026-05-12T10:11:42+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 114,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||澎湖縣": {
+      "city": "澎湖縣",
+      "completed_at": "2026-05-12T10:15:46+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 9,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||臺中市": {
+      "city": "臺中市",
+      "completed_at": "2026-05-12T10:12:37+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 110,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||臺北市": {
+      "city": "臺北市",
+      "completed_at": "2026-05-12T10:11:13+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 5,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||臺南市": {
+      "city": "臺南市",
+      "completed_at": "2026-05-12T10:14:01+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 165,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||臺東縣": {
+      "city": "臺東縣",
+      "completed_at": "2026-05-12T10:15:21+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 28,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||花蓮縣": {
+      "city": "花蓮縣",
+      "completed_at": "2026-05-12T10:15:10+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 53,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||苗栗縣": {
+      "city": "苗栗縣",
+      "completed_at": "2026-05-12T10:12:18+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 59,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||連江縣": {
+      "city": "連江縣",
+      "completed_at": "2026-05-12T10:16:02+08:00",
+      "http_status": 200,
+      "message": "generic site error page returned; treated as no_data",
+      "raw_count": 0,
+      "response_url": "https://landchg.nlma.gov.tw/Error.html?aspxerrorpath=/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "no_data",
+      "year": "99"
+    },
+    "99||金門縣": {
+      "city": "金門縣",
+      "completed_at": "2026-05-12T10:15:32+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 30,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||雲林縣": {
+      "city": "雲林縣",
+      "completed_at": "2026-05-12T10:13:16+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 131,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    },
+    "99||高雄市": {
+      "city": "高雄市",
+      "completed_at": "2026-05-12T10:14:19+08:00",
+      "http_status": 200,
+      "message": "ok",
+      "raw_count": 117,
+      "response_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+      "status": "success",
+      "year": "99"
+    }
+  },
+  "created_at": "2026-05-12T08:46:27+08:00",
+  "errors": [],
+  "paths": {
+    "checkpoint": "landchg_checkpoint.json",
+    "csv": "data\\landchg_variation_points_v1.csv",
+    "log": "logs\\landchg_scrape_v1_20260801_184921.log",
+    "records_jsonl": "raw/landchg_records_cumulative.jsonl"
+  },
+  "query_options": {
+    "cities": [
+      {
+        "text": "基隆市",
+        "value": "基隆市"
+      },
+      {
+        "text": "臺北市",
+        "value": "臺北市"
+      },
+      {
+        "text": "新北市",
+        "value": "新北市"
+      },
+      {
+        "text": "桃園市",
+        "value": "桃園市"
+      },
+      {
+        "text": "新竹縣",
+        "value": "新竹縣"
+      },
+      {
+        "text": "新竹市",
+        "value": "新竹市"
+      },
+      {
+        "text": "苗栗縣",
+        "value": "苗栗縣"
+      },
+      {
+        "text": "臺中市",
+        "value": "臺中市"
+      },
+      {
+        "text": "南投縣",
+        "value": "南投縣"
+      },
+      {
+        "text": "彰化縣",
+        "value": "彰化縣"
+      },
+      {
+        "text": "雲林縣",
+        "value": "雲林縣"
+      },
+      {
+        "text": "嘉義縣",
+        "value": "嘉義縣"
+      },
+      {
+        "text": "嘉義市",
+        "value": "嘉義市"
+      },
+      {
+        "text": "臺南市",
+        "value": "臺南市"
+      },
+      {
+        "text": "高雄市",
+        "value": "高雄市"
+      },
+      {
+        "text": "屏東縣",
+        "value": "屏東縣"
+      },
+      {
+        "text": "宜蘭縣",
+        "value": "宜蘭縣"
+      },
+      {
+        "text": "花蓮縣",
+        "value": "花蓮縣"
+      },
+      {
+        "text": "臺東縣",
+        "value": "臺東縣"
+      },
+      {
+        "text": "金門縣",
+        "value": "金門縣"
+      },
+      {
+        "text": "澎湖縣",
+        "value": "澎湖縣"
+      },
+      {
+        "text": "連江縣",
+        "value": "連江縣"
+      }
+    ],
+    "years": [
+      {
+        "text": "115",
+        "value": "115"
+      },
+      {
+        "text": "114",
+        "value": "114"
+      },
+      {
+        "text": "113",
+        "value": "113"
+      },
+      {
+        "text": "112",
+        "value": "112"
+      },
+      {
+        "text": "111",
+        "value": "111"
+      },
+      {
+        "text": "110",
+        "value": "110"
+      },
+      {
+        "text": "109",
+        "value": "109"
+      },
+      {
+        "text": "108",
+        "value": "108"
+      },
+      {
+        "text": "107",
+        "value": "107"
+      },
+      {
+        "text": "106",
+        "value": "106"
+      },
+      {
+        "text": "105",
+        "value": "105"
+      },
+      {
+        "text": "104",
+        "value": "104"
+      },
+      {
+        "text": "103",
+        "value": "103"
+      },
+      {
+        "text": "102",
+        "value": "102"
+      },
+      {
+        "text": "101",
+        "value": "101"
+      },
+      {
+        "text": "100",
+        "value": "100"
+      },
+      {
+        "text": "99",
+        "value": "99"
+      },
+      {
+        "text": "98",
+        "value": "98"
+      },
+      {
+        "text": "97",
+        "value": "97"
+      },
+      {
+        "text": "96",
+        "value": "96"
+      },
+      {
+        "text": "95",
+        "value": "95"
+      },
+      {
+        "text": "94",
+        "value": "94"
+      },
+      {
+        "text": "93",
+        "value": "93"
+      }
+    ]
+  },
+  "run_started_at": "2026-05-12T08:46:27+08:00",
+  "source_url": "https://landchg.nlma.gov.tw/Module/RWD/Web/pub_exhibit.aspx",
+  "updated_at": "2026-08-01T18:54:49+08:00"
+}
